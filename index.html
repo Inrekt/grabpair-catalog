@@ -1,0 +1,529 @@
+<!doctype html>
+<html lang="ru">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>GrabPair — каталог кроссовок</title>
+<link rel="icon" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZmZiIvPjxnIGZvbnQtZmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSwgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9IjkwMCIgZm9udC1zaXplPSIzNCIgbGV0dGVyLXNwYWNpbmc9Ii0xLjUiIGZpbGw9IiMxMTEiPjx0ZXh0IHg9IjExIiB5PSI0OCI+R1JBQjwvdGV4dD48dGV4dCB4PSIxMSIgeT0iODAiPlBBSVI8L3RleHQ+PC9nPjwvc3ZnPg==">
+<style>
+:root{--text:#111;--muted:#707072;--line:#e5e5e5;--tile:#f5f5f5;--bg:#fff;--chip:#f5f5f5}
+*{box-sizing:border-box}
+html{-webkit-text-size-adjust:100%}
+body{margin:0;background:var(--bg);color:var(--text);font:16px/1.5 "Helvetica Neue",Helvetica,Arial,sans-serif;-webkit-font-smoothing:antialiased}
+body.locked{overflow:hidden}
+button,input,select{font:inherit;color:inherit}
+button{cursor:pointer}
+a{color:inherit}
+[hidden]{display:none!important}
+:focus-visible{outline:2px solid var(--text);outline-offset:2px}
+
+/* announcement strip + header */
+.strip{background:var(--tile);color:var(--text);font-size:12px;line-height:1.3;text-align:center;padding:9px 16px}
+header{position:sticky;top:0;z-index:20;background:var(--bg);display:flex;align-items:center;justify-content:space-between;gap:16px;padding:10px 16px}
+.logo{display:block;line-height:0;flex:none}
+.logo img{height:52px;width:52px;display:block}
+.tile img,.m-img img{transition:transform .4s ease}
+.tile:hover img{transform:scale(1.04)}
+.tile:focus-visible{outline:none}
+.tile:focus-visible .ph{outline:2px solid var(--text);outline-offset:3px}
+.search{position:relative;flex:0 1 260px;min-width:0}
+.search input{width:100%;border:0;border-radius:999px;background:var(--tile);padding:10px 16px 10px 40px;font-size:15px;outline-offset:2px}
+.search input::placeholder{color:var(--muted)}
+.search svg{position:absolute;left:14px;top:50%;margin-top:-9px;width:18px;height:18px;fill:none;stroke:var(--text);stroke-width:2;stroke-linecap:round}
+
+/* title row */
+.page{max-width:1440px;margin:0 auto;padding:0 16px}
+.titlebar{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:20px 0 12px}
+h1{margin:0;font-size:22px;font-weight:700;letter-spacing:-.2px}
+.tools{display:flex;align-items:center;gap:8px;width:100%}
+.tools select.pill{flex:1;min-width:0;text-overflow:ellipsis}
+.titlebar{flex-wrap:wrap}
+.pill{border:1px solid #ccc;border-radius:999px;background:var(--bg);padding:8px 16px;font-size:14px;font-weight:500}
+select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;background:var(--bg) url("data:image/svg+xml,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='black' stroke-width='1.6'/%3E%3C/svg%3E") no-repeat right 14px center/10px 7px}
+#openFilters{display:inline-flex;align-items:center;gap:6px}
+
+/* layout */
+.layout{display:block;padding-bottom:64px}
+.grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px 8px}
+@media (min-width:640px){.grid{grid-template-columns:repeat(3,minmax(0,1fr));gap:32px 12px}}
+@media (min-width:1280px){.grid{grid-template-columns:repeat(4,minmax(0,1fr))}}
+
+/* filters: full-screen panel on mobile, sidebar on desktop */
+#filters{position:fixed;inset:0;z-index:60;background:var(--bg);display:none;flex-direction:column}
+#filters.open{display:flex}
+.f-head{display:flex;align-items:center;justify-content:space-between;padding:14px 16px;border-bottom:1px solid var(--line)}
+.f-head b{font-size:18px;font-weight:500}
+.f-body{flex:1;overflow:auto;padding:0 16px 24px}
+.f-foot{padding:12px 16px;border-top:1px solid var(--line)}
+.group{padding:20px 0;border-bottom:1px solid var(--line)}
+.group:last-child{border-bottom:0}
+.group h2{margin:0 0 14px;font-size:15px;font-weight:500}
+.reset{background:none;border:0;padding:0;font-size:14px;color:var(--muted);text-decoration:underline}
+.reset:hover{color:var(--text)}
+.x{background:none;border:0;width:40px;height:40px;border-radius:50%;font-size:26px;line-height:1;display:inline-flex;align-items:center;justify-content:center}
+.x:hover{background:var(--tile)}
+.btn{display:block;width:100%;text-align:center;text-decoration:none;border:1px solid var(--text);background:var(--text);color:#fff;border-radius:999px;padding:15px 24px;font-size:16px;font-weight:500}
+.btn:hover{background:#444;border-color:#444}
+.btn.alt{background:var(--bg);color:var(--text);border-color:#ccc}
+.btn.alt:hover{border-color:var(--text);background:var(--bg)}
+@media (min-width:960px){
+  header{padding:12px 48px}
+  .page{padding:0 48px}
+  .titlebar{padding:28px 0 20px;flex-wrap:nowrap}
+  .tools{width:auto}
+  .tools select.pill{flex:none}
+  h1{font-size:24px}
+  .strip{font-size:13px}
+  #openFilters,.f-head,.f-foot{display:none!important}
+  .layout{display:grid;grid-template-columns:220px 1fr;gap:48px;align-items:start}
+  #filters{position:sticky;top:76px;bottom:auto;left:auto;right:auto;z-index:1;display:block;max-height:calc(100vh - 90px);overflow:auto;scrollbar-width:thin}
+  .f-body{padding:0 8px 24px 0;overflow:visible}
+  .group:first-child{padding-top:0}
+}
+
+/* currency + price slider */
+.select-wide{width:100%}
+.range{position:relative;height:28px;margin:4px 8px 0}
+.range .track{position:absolute;left:0;right:0;top:12px;height:3px;border-radius:2px;background:#ccc}
+.range .fill{position:absolute;top:12px;height:3px;background:var(--text)}
+.range input{position:absolute;left:-8px;width:calc(100% + 16px);top:0;height:28px;margin:0;background:none;pointer-events:none;-webkit-appearance:none;appearance:none}
+.range input::-webkit-slider-runnable-track{background:none;height:28px;-webkit-appearance:none}
+.range input::-moz-range-track{background:none;height:28px}
+.range input::-webkit-slider-thumb{pointer-events:auto;-webkit-appearance:none;width:22px;height:22px;margin-top:3px;border-radius:50%;background:#fff;border:1.5px solid var(--text);box-shadow:0 1px 3px rgba(0,0,0,.2);cursor:grab}
+.range input::-moz-range-thumb{pointer-events:auto;width:20px;height:20px;border-radius:50%;background:#fff;border:1.5px solid var(--text);box-shadow:0 1px 3px rgba(0,0,0,.2);cursor:grab}
+.range input:focus-visible{outline:none}
+.range input:focus-visible::-webkit-slider-thumb{outline:2px solid var(--text);outline-offset:2px}
+.range input:focus-visible::-moz-range-thumb{outline:2px solid var(--text);outline-offset:2px}
+.range-vals{display:flex;justify-content:space-between;gap:8px;margin-top:10px;font-size:14px;font-weight:500}
+.range-vals span{white-space:nowrap}
+
+/* sizes + brands */
+.sizes{display:grid;grid-template-columns:repeat(4,1fr);gap:6px}
+.size{border:1px solid #ccc;background:var(--bg);border-radius:6px;padding:9px 0;font-size:14px;text-align:center}
+.size:hover{border-color:var(--text)}
+.size[aria-pressed=true]{background:var(--text);color:#fff;border-color:var(--text)}
+.brand{display:flex;align-items:center;gap:10px;padding:5px 0;font-size:15px;cursor:pointer}
+.brand input{width:18px;height:18px;margin:0;accent-color:#111;flex:none}
+
+/* tiles */
+.tile{border:0;background:none;padding:0;text-align:left;display:flex;flex-direction:column;justify-content:flex-start;align-self:start;width:100%;cursor:pointer}
+.tile .ph{aspect-ratio:1/1;background:var(--tile);overflow:hidden;display:block}
+.tile img{width:100%;height:100%;object-fit:cover;display:block;mix-blend-mode:multiply}
+.tile .t{padding:10px 2px 0}
+.tile .n{display:block;overflow-wrap:anywhere;font-weight:500;font-size:15px;line-height:1.35}
+.tile .s{display:block;color:var(--muted);font-size:14px;line-height:1.4}
+.tile .p{display:block;font-weight:700;font-size:15px;margin-top:8px}
+.empty{padding:80px 0;text-align:center;color:var(--muted)}
+.empty b{display:block;color:var(--text);font-size:20px;font-weight:500;margin-bottom:6px}
+
+/* product panel */
+#modal{position:fixed;inset:0;z-index:80;background:rgba(0,0,0,.45);display:none;overflow:auto;overscroll-behavior:contain}
+#modal.open{display:block}
+.sheet{position:relative;background:var(--bg);min-height:100%}
+.sheet .close{position:fixed;top:10px;right:10px;z-index:2;background:rgba(255,255,255,.9)}
+.m-img{aspect-ratio:1/1;background:var(--tile)}
+.m-img img{width:100%;height:100%;object-fit:cover;display:block;mix-blend-mode:multiply}
+.m-info{padding:20px 16px 32px}
+.m-info h3{margin:0;font-size:24px;font-weight:500;line-height:1.25}
+.m-sku{color:var(--muted);font-size:15px;margin-top:2px}
+.m-price{font-size:24px;font-weight:700;margin-top:16px}
+.m-other{color:var(--muted);font-size:14px;margin-top:4px;display:flex;flex-wrap:wrap;gap:2px 14px}
+.m-label{font-weight:500;font-size:15px;margin:24px 0 8px}
+.m-sizes{display:flex;flex-wrap:wrap;gap:6px}
+.m-sizes span{border:1px solid #ccc;border-radius:6px;padding:8px 14px;font-size:14px}
+.m-any{color:var(--text);font-size:15px}
+.m-badges{margin:24px 0 0;padding:0;list-style:none;font-size:14px;color:var(--muted);display:grid;gap:4px}
+.m-actions{display:grid;gap:10px;margin-top:28px}
+@media (min-width:860px){
+  #modal{padding:32px 24px}
+  .sheet{max-width:980px;margin:0 auto;min-height:0;display:grid;grid-template-columns:1fr 1fr;border-radius:16px;overflow:hidden}
+  .sheet .close{position:absolute;top:12px;right:12px}
+  .m-img{aspect-ratio:auto;min-height:480px}
+  .m-info{padding:56px 40px 40px}
+}
+</style>
+</head>
+<body>
+<div class="strip">Оригинал с гарантией подлинности · Гарантия доставки по СНГ · Оплата переводом</div>
+<header>
+  <a class="logo" href="#" aria-label="GrabPair" id="home">
+    <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cmVjdCB3aWR0aD0iMTAwIiBoZWlnaHQ9IjEwMCIgZmlsbD0iI2ZmZiIvPjxnIGZvbnQtZmFtaWx5PSJIZWx2ZXRpY2EgTmV1ZSwgSGVsdmV0aWNhLCBBcmlhbCwgc2Fucy1zZXJpZiIgZm9udC13ZWlnaHQ9IjkwMCIgZm9udC1zaXplPSIzNCIgbGV0dGVyLXNwYWNpbmc9Ii0xLjUiIGZpbGw9IiMxMTEiPjx0ZXh0IHg9IjExIiB5PSI0OCI+R1JBQjwvdGV4dD48dGV4dCB4PSIxMSIgeT0iODAiPlBBSVI8L3RleHQ+PC9nPjwvc3ZnPg==" width="48" height="48" alt="GRAB PAIR">
+  </a>
+  <label class="search">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-4-4"/></svg>
+    <input id="q" type="search" placeholder="Поиск" aria-label="Поиск: модель, артикул Nike или GP0560" autocomplete="off">
+  </label>
+</header>
+
+<div class="page">
+  <div class="titlebar">
+    <h1 id="title">Кроссовки</h1>
+    <div class="tools">
+      <button class="pill" id="openFilters" type="button">Фильтры</button>
+      <select class="pill" id="currency" aria-label="Валюта"></select>
+      <select class="pill" id="sort" aria-label="Сортировка">
+        <option value="new">Новинки</option>
+        <option value="asc">Цена: по возрастанию</option>
+        <option value="desc">Цена: по убыванию</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="layout">
+    <aside id="filters" aria-label="Фильтры">
+      <div class="f-head"><b>Фильтры</b><button class="x" id="closeFilters" type="button" aria-label="Закрыть">×</button></div>
+      <div class="f-body">
+        <div class="group">
+          <h2>Цена</h2>
+          <div class="range" id="range">
+            <div class="track"></div><div class="fill" id="fill"></div>
+            <input type="range" id="lo" aria-label="Цена от">
+            <input type="range" id="hi" aria-label="Цена до">
+          </div>
+          <div class="range-vals"><span id="loVal"></span><span id="hiVal"></span></div>
+        </div>
+        <div class="group">
+          <h2>Размер (EU)</h2>
+          <div class="sizes" id="sizes"></div>
+        </div>
+        <div class="group">
+          <h2>Бренд</h2>
+          <div id="brands"></div>
+        </div>
+        <div class="group"><button class="reset" id="reset" type="button">Сбросить</button></div>
+      </div>
+      <div class="f-foot"><button class="btn" id="apply" type="button">Показать товары</button></div>
+    </aside>
+    <main>
+      <div class="grid" id="grid"></div>
+      <div class="empty" id="empty" hidden><b>Ничего не нашли</b>Попробуйте другой размер, бренд или цену.</div>
+    </main>
+  </div>
+</div>
+
+<div id="modal" role="dialog" aria-modal="true" aria-label="Товар" hidden></div>
+
+<script src="products.js"></script>
+<script>
+(function () {
+  var ALL = window.GRABPAIR_PRODUCTS || [];
+  var RATES = window.GRABPAIR_RATES || {USD: 1};
+  var CURRENCIES = window.GRABPAIR_CURRENCIES || [{code: "USD", sign: "$", step: 1}];
+  var NNBSP = " ";
+  var $ = function (id) { return document.getElementById(id); };
+  var state = {q: "", sizes: [], brands: [], sort: "new", cur: "USD", loUsd: null, hiUsd: null};
+
+  function el(tag, cls, text) {
+    var node = document.createElement(tag);
+    if (cls) node.className = cls;
+    if (text !== undefined) node.textContent = text;
+    return node;
+  }
+
+  /* ---------- currency ---------- */
+  function curOf(code) {
+    for (var i = 0; i < CURRENCIES.length; i++) if (CURRENCIES[i].code === code) return CURRENCIES[i];
+    return CURRENCIES[0];
+  }
+  // dollars stay exact; other currencies are rounded UP to the step, as in the channel posts
+  function conv(usd, code) {
+    if (code === "USD") return usd;
+    var step = curOf(code).step;
+    return Math.ceil(usd * RATES[code] / step) * step;
+  }
+  function group(n) { return String(Math.round(n)).replace(/\B(?=(\d{3})+(?!\d))/g, NNBSP); }
+  function fmt(amount, code) {
+    var c = curOf(code);
+    if (code === "USD") return "$" + (Math.round(amount * 100) % 100 ? amount.toFixed(2) : String(Math.round(amount)));
+    return group(amount) + NNBSP + c.sign;
+  }
+  // "от" when the sizes are priced differently: the shown price is the lowest one
+  function priceText(p, code) { return (p.from ? "от " : "") + fmt(conv(p.usd, code), code); }
+
+  function saveCurrency() { try { localStorage.setItem("gp_currency", state.cur); } catch (e) {} }
+  function loadCurrency() {
+    try {
+      var saved = localStorage.getItem("gp_currency");
+      if (saved && Object.prototype.hasOwnProperty.call(RATES, saved)) state.cur = saved;
+    } catch (e) {}
+  }
+
+  /* ---------- slider ---------- */
+  var bounds = {min: 0, max: 1, step: 1};
+  function computeBounds() {
+    var step = curOf(state.cur).step;
+    var prices = ALL.map(function (p) { return conv(p.usd, state.cur); });
+    var min = prices.length ? Math.min.apply(null, prices) : 0;
+    var max = prices.length ? Math.max.apply(null, prices) : step;
+    min = Math.floor(min / step) * step;
+    max = Math.ceil(max / step) * step;
+    if (max <= min) max = min + step;
+    bounds = {min: min, max: max, step: step};
+  }
+  function clamp(v, a, b) { return Math.min(b, Math.max(a, v)); }
+  function snap(v) { return clamp(Math.round(v / bounds.step) * bounds.step, bounds.min, bounds.max); }
+
+  function setSliderFromState() {
+    var lo = $("lo"), hi = $("hi");
+    [lo, hi].forEach(function (input) { input.min = bounds.min; input.max = bounds.max; input.step = bounds.step; });
+    var rate = RATES[state.cur];
+    lo.value = state.loUsd === null ? bounds.min : snap(state.loUsd * rate);
+    hi.value = state.hiUsd === null ? bounds.max : snap(state.hiUsd * rate);
+    paintSlider();
+  }
+  // The two thumbs may cross: the range is always (smaller, larger), so a thumb can never
+  // get stuck behind the other one.
+  function range() {
+    var a = +$("lo").value, b = +$("hi").value;
+    return [Math.min(a, b), Math.max(a, b)];
+  }
+  function paintSlider() {
+    var r = range(), lo = r[0], hi = r[1], span = bounds.max - bounds.min;
+    $("fill").style.left = ((lo - bounds.min) / span * 100) + "%";
+    $("fill").style.right = (100 - (hi - bounds.min) / span * 100) + "%";
+    $("loVal").textContent = "от " + fmt(lo, state.cur);
+    $("hiVal").textContent = "до " + fmt(hi, state.cur);
+  }
+  function onSlide() {
+    var r = range(), rate = RATES[state.cur];
+    state.loUsd = r[0] <= bounds.min ? null : r[0] / rate;
+    state.hiUsd = r[1] >= bounds.max ? null : r[1] / rate;
+    paintSlider();
+    render();
+  }
+
+  /* ---------- filters ---------- */
+  // The usual EU run is always offered: most products are "any size — picked on order" and
+  // match every size, so listing only explicit sizes left out 42 itself (21.11).
+  var STANDARD_SIZES = ["36", "36.5", "37", "37.5", "38", "38.5", "39", "40", "40.5", "41",
+                        "42", "42.5", "43", "44", "44.5", "45", "46"];
+  function allSizes() {
+    var seen = {};
+    STANDARD_SIZES.forEach(function (s) { seen[s] = 1; });
+    ALL.forEach(function (p) { p.sizes.forEach(function (s) { seen[s] = 1; }); });
+    return Object.keys(seen).sort(function (a, b) { return parseFloat(a) - parseFloat(b) || (a < b ? -1 : 1); });
+  }
+  function toggle(list, value) {
+    var i = list.indexOf(value);
+    if (i < 0) list.push(value); else list.splice(i, 1);
+  }
+
+  function buildSizes() {
+    var box = $("sizes");
+    box.textContent = "";
+    allSizes().forEach(function (s) {
+      var b = el("button", "size", s);
+      b.type = "button";
+      b.setAttribute("aria-pressed", String(state.sizes.indexOf(s) >= 0));
+      b.onclick = function () { toggle(state.sizes, s); b.setAttribute("aria-pressed", String(state.sizes.indexOf(s) >= 0)); render(); };
+      box.appendChild(b);
+    });
+  }
+  function buildBrands() {
+    var box = $("brands");
+    box.textContent = "";
+    Array.from(new Set(ALL.map(function (p) { return p.brand; }))).sort().forEach(function (name) {
+      var label = el("label", "brand");
+      var cb = document.createElement("input");
+      cb.type = "checkbox";
+      cb.checked = state.brands.indexOf(name) >= 0;
+      cb.onchange = function () { toggle(state.brands, name); render(); };
+      label.appendChild(cb);
+      label.appendChild(el("span", "", name));
+      box.appendChild(label);
+    });
+  }
+  function buildCurrencies() {
+    var select = $("currency");
+    select.textContent = "";
+    CURRENCIES.forEach(function (c) {
+      select.appendChild(new Option(c.code === "USD" ? "USD $" : c.code + " " + c.sign, c.code));
+    });
+    select.value = state.cur;
+  }
+
+  function matches(p) {
+    var q = state.q.trim().toLowerCase().replace(/[\s-]+/g, "");
+    var hay = (p.name + p.article + p.sku).toLowerCase().replace(/[\s-]+/g, "");
+    if (q && hay.indexOf(q) < 0) return false;
+    if (state.sizes.length && !p.anySize &&
+        !state.sizes.some(function (s) { return p.sizes.indexOf(s) >= 0; })) return false;
+    if (state.brands.length && state.brands.indexOf(p.brand) < 0) return false;
+    var price = conv(p.usd, state.cur);
+    var r = range();
+    return price >= r[0] && price <= r[1];
+  }
+
+  /* ---------- grid ---------- */
+  function tile(p) {
+    var t = el("button", "tile");
+    t.type = "button";
+    var ph = el("span", "ph");
+    var img = el("img"); img.src = p.img; img.alt = p.name; img.loading = "lazy";
+    ph.appendChild(img);
+    var text = el("span", "t");
+    text.appendChild(el("span", "n", p.name));
+    text.appendChild(el("span", "s", p.article ? p.sku + " · " + p.article : p.sku));
+    text.appendChild(el("span", "p", priceText(p, state.cur)));
+    t.appendChild(ph); t.appendChild(text);
+    t.onclick = function () { openProduct(p, true); };
+    return t;
+  }
+
+  var shown = 0;
+  function plural(n) {
+    var m = n % 100, d = n % 10;
+    return m >= 11 && m <= 14 ? "товаров" : d === 1 ? "товар" : d >= 2 && d <= 4 ? "товара" : "товаров";
+  }
+  function render() {
+    var list = ALL.filter(matches);
+    if (state.sort === "asc") list = list.slice().sort(function (a, b) { return a.usd - b.usd; });
+    if (state.sort === "desc") list = list.slice().sort(function (a, b) { return b.usd - a.usd; });
+    shown = list.length;
+    var grid = $("grid");
+    grid.textContent = "";
+    list.forEach(function (p) { grid.appendChild(tile(p)); });
+    $("title").textContent = "Кроссовки (" + list.length + ")";
+    $("empty").hidden = list.length > 0;
+    $("apply").textContent = "Показать " + list.length + " " + plural(list.length);
+  }
+
+  /* ---------- product panel ---------- */
+  var lastFocus = null, pushed = false, openId = null;
+  // the same price in every other currency the page knows
+  function otherPrices(p) {
+    var box = el("div", "m-other");
+    var codes = ["USD"];  // USD first, then the others, each once (21.11: "$145 $145")
+    CURRENCIES.forEach(function (c) { if (codes.indexOf(c.code) < 0) codes.push(c.code); });
+    codes.forEach(function (code) {
+      if (code !== state.cur && RATES[code]) box.appendChild(el("span", "", priceText(p, code)));
+    });
+    return box;
+  }
+  function fillModal(p) {
+    var m = $("modal");
+    m.textContent = "";
+    var sheet = el("div", "sheet");
+    var close = el("button", "x close", "×");
+    close.type = "button"; close.setAttribute("aria-label", "Закрыть");
+    close.onclick = closeProduct;
+    var imgBox = el("div", "m-img");
+    var img = el("img"); img.src = p.img; img.alt = p.name;
+    imgBox.appendChild(img);
+    var info = el("div", "m-info");
+    info.appendChild(el("h3", "", p.name));
+    info.appendChild(el("div", "m-sku", "Артикул " + p.sku + (p.article ? " · " + p.article : "")));
+    info.appendChild(el("div", "m-price", priceText(p, state.cur)));
+    info.appendChild(otherPrices(p));
+    info.appendChild(el("div", "m-label", "Размеры EU"));
+    if (p.sizes.length) {
+      var sizes = el("div", "m-sizes");
+      p.sizes.forEach(function (s) { sizes.appendChild(el("span", "", s)); });
+      info.appendChild(sizes);
+    } else {
+      info.appendChild(el("div", "m-any", "Любой — подберём"));
+    }
+    var badges = el("ul", "m-badges");
+    badges.appendChild(el("li", "", "✅ Оригинал · гарантия подлинности"));
+    badges.appendChild(el("li", "", "📦 Гарантия доставки"));
+    info.appendChild(badges);
+    var actions = el("div", "m-actions");
+    var order = el("a", "btn", "Заказать"); order.href = p.order; order.target = "_blank"; order.rel = "noopener";
+    actions.appendChild(order);
+    if (p.tg) {
+      var tg = el("a", "btn alt", "Смотреть в Telegram"); tg.href = p.tg; tg.target = "_blank"; tg.rel = "noopener";
+      actions.appendChild(tg);
+    }
+    info.appendChild(actions);
+    sheet.appendChild(close); sheet.appendChild(imgBox); sheet.appendChild(info);
+    m.appendChild(sheet);
+    m.scrollTop = 0;
+  }
+  function showModal(p) {
+    openId = p.id;
+    fillModal(p);
+    var m = $("modal");
+    m.hidden = false; m.classList.add("open");
+    document.body.classList.add("locked");
+    var c = m.querySelector(".close"); if (c) c.focus();
+  }
+  function hideModal() {
+    var m = $("modal");
+    m.classList.remove("open"); m.hidden = true; m.textContent = "";
+    document.body.classList.remove("locked");
+    openId = null;
+    if (lastFocus && lastFocus.focus) { try { lastFocus.focus(); } catch (e) {} }
+  }
+  function openProduct(p, push) {
+    lastFocus = document.activeElement;
+    showModal(p);
+    if (push) { try { history.pushState({gp: p.sku}, "", "#" + p.sku); pushed = true; } catch (e) {} }
+  }
+  function closeProduct() {
+    if (openId === null) return;
+    if (pushed) { pushed = false; history.back(); return; }
+    try { history.replaceState(null, "", location.pathname + location.search); } catch (e) {}
+    hideModal();
+  }
+  function syncFromHash() {
+    var sku = decodeURIComponent((location.hash || "").slice(1));
+    var p = null;
+    for (var i = 0; i < ALL.length; i++) if (ALL[i].sku === sku) p = ALL[i];
+    if (p) { if (openId !== p.id) { pushed = false; showModal(p); } } else if (openId !== null) { pushed = false; hideModal(); }
+  }
+  window.addEventListener("popstate", syncFromHash);
+  window.addEventListener("hashchange", syncFromHash);
+  $("modal").addEventListener("click", function (e) { if (e.target === $("modal")) closeProduct(); });
+  document.addEventListener("keydown", function (e) {
+    if (e.key !== "Escape") return;
+    if (openId !== null) closeProduct(); else closeFilters();
+  });
+
+  /* ---------- mobile filter panel ---------- */
+  function openFilters() { $("filters").classList.add("open"); document.body.classList.add("locked"); }
+  function closeFilters() {
+    if (!$("filters").classList.contains("open")) return;
+    $("filters").classList.remove("open");
+    if (openId === null) document.body.classList.remove("locked");
+  }
+  $("openFilters").onclick = openFilters;
+  $("closeFilters").onclick = closeFilters;
+  $("apply").onclick = closeFilters;
+  window.addEventListener("resize", function () { if (window.innerWidth >= 960) closeFilters(); });
+
+  /* ---------- wiring ---------- */
+  function setCurrency(code) {
+    state.cur = code;
+    computeBounds();
+    setSliderFromState();
+    saveCurrency();
+    render();
+    if (openId !== null) {
+      for (var i = 0; i < ALL.length; i++) if (ALL[i].id === openId) fillModal(ALL[i]);
+      var c = $("modal").querySelector(".close"); if (c) c.focus();
+    }
+  }
+  $("currency").onchange = function () { setCurrency($("currency").value); };
+  $("lo").addEventListener("input", function () { onSlide(); });
+  $("hi").addEventListener("input", function () { onSlide(); });
+  $("sort").onchange = function () { state.sort = $("sort").value; render(); };
+  $("q").oninput = function () { state.q = $("q").value; render(); };
+  $("home").onclick = function (e) { e.preventDefault(); window.scrollTo(0, 0); };
+  $("reset").onclick = function () {
+    state.q = ""; state.sizes = []; state.brands = []; state.loUsd = null; state.hiUsd = null;
+    $("q").value = "";
+    buildSizes(); buildBrands(); setSliderFromState(); render();
+  };
+
+  loadCurrency();
+  buildCurrencies();
+  buildSizes();
+  buildBrands();
+  computeBounds();
+  setSliderFromState();
+  render();
+  syncFromHash();
+})();
+</script>
+</body>
+</html>
