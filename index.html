@@ -42,6 +42,18 @@ h1{margin:0;font-size:22px;font-weight:700;letter-spacing:-.2px}
 select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;background:var(--bg) url("data:image/svg+xml,%3Csvg xmlns='http%3A//www.w3.org/2000/svg' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='black' stroke-width='1.6'/%3E%3C/svg%3E") no-repeat right 14px center/10px 7px}
 #openFilters{display:inline-flex;align-items:center;gap:6px}
 
+/* sections + category switch */
+.headline{display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.seg{display:inline-flex;gap:6px}
+.seg .pill{padding:6px 14px}
+.seg .pill[aria-pressed=true]{background:var(--text);color:#fff;border-color:var(--text)}
+.tabs{display:flex;gap:24px;border-bottom:1px solid var(--line);overflow-x:auto;scrollbar-width:none;margin-bottom:8px}
+.tabs::-webkit-scrollbar{display:none}
+.tabs a{padding:10px 0;text-decoration:none;color:var(--muted);font-weight:500;font-size:15px;white-space:nowrap;border-bottom:2px solid transparent;margin-bottom:-1px}
+.tabs a:hover{color:var(--text)}
+.tabs a[aria-current=true]{color:var(--text);border-bottom-color:var(--text)}
+.tabs .c{font-weight:400;font-size:13px;margin-left:2px}
+
 /* layout */
 .layout{display:block;padding-bottom:64px}
 .grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:20px 8px}
@@ -157,7 +169,13 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
 
 <div class="page">
   <div class="titlebar">
-    <h1 id="title">Кроссовки</h1>
+    <div class="headline">
+      <h1 id="title">Кроссовки</h1>
+      <div class="seg" id="cats" role="group" aria-label="Категория" hidden>
+        <button class="pill" type="button" data-c="shoes" aria-pressed="true">Обувь</button>
+        <button class="pill" type="button" data-c="clothing" aria-pressed="false">Одежда</button>
+      </div>
+    </div>
     <div class="tools">
       <button class="pill" id="openFilters" type="button">Фильтры</button>
       <select class="pill" id="currency" aria-label="Валюта"></select>
@@ -168,6 +186,13 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
       </select>
     </div>
   </div>
+
+  <nav class="tabs" id="tabs" aria-label="Раздел">
+    <a href="#all" data-g="all" aria-current="true">Все <span class="c"></span></a>
+    <a href="#men" data-g="men">Мужское <span class="c"></span></a>
+    <a href="#women" data-g="women">Женское <span class="c"></span></a>
+    <a href="#unisex" data-g="unisex">Унисекс <span class="c"></span></a>
+  </nav>
 
   <div class="layout">
     <aside id="filters" aria-label="Фильтры">
@@ -183,7 +208,7 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
           <div class="range-vals"><span id="loVal"></span><span id="hiVal"></span></div>
         </div>
         <div class="group">
-          <h2>Размер (EU)</h2>
+          <h2 id="sizeTitle">Размер (EU)</h2>
           <div class="sizes" id="sizes"></div>
         </div>
         <div class="group">
@@ -211,7 +236,7 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
   var CURRENCIES = window.GRABPAIR_CURRENCIES || [{code: "USD", sign: "$", step: 1}];
   var NNBSP = " ";
   var $ = function (id) { return document.getElementById(id); };
-  var state = {q: "", sizes: [], brands: [], sort: "new", cur: "USD", loUsd: null, hiUsd: null};
+  var state = {gender: "all", cat: "shoes", q: "", sizes: [], brands: [], sort: "new", cur: "USD", loUsd: null, hiUsd: null};
 
   function el(tag, cls, text) {
     var node = document.createElement(tag);
@@ -252,7 +277,8 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
   var bounds = {min: 0, max: 1, step: 1};
   function computeBounds() {
     var step = curOf(state.cur).step;
-    var prices = ALL.map(function (p) { return conv(p.usd, state.cur); });
+    var prices = ALL.filter(function (p) { return catOf(p) === state.cat; })
+      .map(function (p) { return conv(p.usd, state.cur); });
     var min = prices.length ? Math.min.apply(null, prices) : 0;
     var max = prices.length ? Math.max.apply(null, prices) : step;
     min = Math.floor(min / step) * step;
@@ -297,12 +323,23 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
   // match every size, so listing only explicit sizes left out 42 itself (21.11).
   var STANDARD_SIZES = ["36", "36.5", "37", "37.5", "38", "38.5", "39", "40", "40.5", "41",
                         "42", "42.5", "43", "44", "44.5", "45", "46"];
-  function allSizes() {
+  /* pure helpers (also run in node by the tests) */
+  var LETTER_SIZES = ["XS", "S", "M", "L", "XL", "XXL"];
+  var GENDERS = ["all", "men", "women", "unisex"];
+  function catOf(p) { return p.category === "clothing" ? "clothing" : "shoes"; }
+  function hasClothing(items) { return items.some(function (p) { return catOf(p) === "clothing"; }); }
+  // clothing: XS..XXL; shoes: the usual EU run; both plus anything the products really have
+  function sizeList(cat, items) {
     var seen = {};
-    STANDARD_SIZES.forEach(function (s) { seen[s] = 1; });
-    ALL.forEach(function (p) { p.sizes.forEach(function (s) { seen[s] = 1; }); });
-    return Object.keys(seen).sort(function (a, b) { return parseFloat(a) - parseFloat(b) || (a < b ? -1 : 1); });
+    (cat === "clothing" ? LETTER_SIZES : STANDARD_SIZES).forEach(function (s) { seen[s] = 1; });
+    items.forEach(function (p) { if (catOf(p) === cat) p.sizes.forEach(function (s) { seen[s] = 1; }); });
+    var rank = function (s) { var i = LETTER_SIZES.indexOf(s); return i < 0 ? 99 : i; };
+    return Object.keys(seen).sort(function (a, b) {
+      if (cat === "clothing") return rank(a) - rank(b) || (a < b ? -1 : 1);
+      return parseFloat(a) - parseFloat(b) || (a < b ? -1 : 1);
+    });
   }
+  /* end pure helpers */
   function toggle(list, value) {
     var i = list.indexOf(value);
     if (i < 0) list.push(value); else list.splice(i, 1);
@@ -311,7 +348,7 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
   function buildSizes() {
     var box = $("sizes");
     box.textContent = "";
-    allSizes().forEach(function (s) {
+    sizeList(state.cat, ALL).forEach(function (s) {
       var b = el("button", "size", s);
       b.type = "button";
       b.setAttribute("aria-pressed", String(state.sizes.indexOf(s) >= 0));
@@ -342,7 +379,9 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
     select.value = state.cur;
   }
 
-  function matches(p) {
+  function matches(p, skipGender) {
+    if (catOf(p) !== state.cat) return false;
+    if (!skipGender && state.gender !== "all" && p.gender !== state.gender) return false;
     var q = state.q.trim().toLowerCase().replace(/[\s-]+/g, "");
     var hay = (p.name + p.article + p.sku).toLowerCase().replace(/[\s-]+/g, "");
     if (q && hay.indexOf(q) < 0) return false;
@@ -370,6 +409,21 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
     return t;
   }
 
+  // each tab shows how many products it would show with the other filters kept
+  function paintTabs() {
+    var counts = {all: 0, men: 0, women: 0, unisex: 0};
+    ALL.forEach(function (p) {
+      if (!matches(p, true)) return;
+      counts.all++;
+      if (counts[p.gender] !== undefined) counts[p.gender]++;
+    });
+    Array.prototype.forEach.call($("tabs").querySelectorAll("a"), function (a) {
+      var g = a.getAttribute("data-g");
+      a.querySelector(".c").textContent = counts[g];
+      if (g === state.gender) a.setAttribute("aria-current", "true"); else a.removeAttribute("aria-current");
+    });
+  }
+
   var shown = 0;
   function plural(n) {
     var m = n % 100, d = n % 10;
@@ -383,7 +437,8 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
     var grid = $("grid");
     grid.textContent = "";
     list.forEach(function (p) { grid.appendChild(tile(p)); });
-    $("title").textContent = "Кроссовки (" + list.length + ")";
+    $("title").textContent = (state.cat === "clothing" ? "Одежда" : "Кроссовки") + " (" + list.length + ")";
+    paintTabs();
     $("empty").hidden = list.length > 0;
     $("apply").textContent = "Показать " + list.length + " " + plural(list.length);
   }
@@ -415,7 +470,7 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
     info.appendChild(el("div", "m-sku", "Артикул " + p.sku + (p.article ? " · " + p.article : "")));
     info.appendChild(el("div", "m-price", priceText(p, state.cur)));
     info.appendChild(otherPrices(p));
-    info.appendChild(el("div", "m-label", "Размеры EU"));
+    info.appendChild(el("div", "m-label", catOf(p) === "clothing" ? "Размеры" : "Размеры EU"));
     if (p.sizes.length) {
       var sizes = el("div", "m-sizes");
       p.sizes.forEach(function (s) { sizes.appendChild(el("span", "", s)); });
@@ -462,14 +517,48 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
   function closeProduct() {
     if (openId === null) return;
     if (pushed) { pushed = false; history.back(); return; }
-    try { history.replaceState(null, "", location.pathname + location.search); } catch (e) {}
+    try { history.replaceState(null, "", location.pathname + location.search + sectionHash()); } catch (e) {}
     hideModal();
   }
+  // "#men", "#women?c=clothing" open a section; "#GP0560" opens a product
+  function sectionHash() {
+    if (state.gender === "all" && state.cat === "shoes") return "";
+    return "#" + state.gender + (state.cat === "clothing" ? "?c=clothing" : "");
+  }
+  function applySection(g, cat) {
+    state.gender = g;
+    var next = cat === "clothing" && hasClothing(ALL) ? "clothing" : "shoes";
+    if (next !== state.cat) {
+      state.cat = next; state.sizes = []; state.loUsd = null; state.hiUsd = null;
+      buildSizes(); computeBounds(); setSliderFromState();
+    }
+    paintCats();
+    render();
+  }
+  function paintCats() {
+    $("cats").hidden = !hasClothing(ALL);
+    Array.prototype.forEach.call($("cats").querySelectorAll("button"), function (b) {
+      b.setAttribute("aria-pressed", String(b.getAttribute("data-c") === state.cat));
+    });
+    $("sizeTitle").textContent = state.cat === "clothing" ? "Размер" : "Размер (EU)";
+  }
   function syncFromHash() {
-    var sku = decodeURIComponent((location.hash || "").slice(1));
+    var raw = (location.hash || "").slice(1);
+    try { raw = decodeURIComponent(raw); } catch (e) {}
+    var parts = raw.split("?");
+    var head = parts[0], cat = /(^|&)c=clothing/.test(parts[1] || "") ? "clothing" : "shoes";
+    if (GENDERS.indexOf(head) >= 0) {
+      if (openId !== null) { pushed = false; hideModal(); }
+      applySection(head, cat);
+      return;
+    }
     var p = null;
-    for (var i = 0; i < ALL.length; i++) if (ALL[i].sku === sku) p = ALL[i];
+    for (var i = 0; i < ALL.length; i++) if (ALL[i].sku === head) p = ALL[i];
     if (p) { if (openId !== p.id) { pushed = false; showModal(p); } } else if (openId !== null) { pushed = false; hideModal(); }
+  }
+  function setSection(g, cat) {
+    applySection(g, cat);
+    if (openId === null) { try { history.replaceState(null, "", location.pathname + location.search + sectionHash()); } catch (e) {} }
   }
   window.addEventListener("popstate", syncFromHash);
   window.addEventListener("hashchange", syncFromHash);
@@ -509,6 +598,12 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
   $("sort").onchange = function () { state.sort = $("sort").value; render(); };
   $("q").oninput = function () { state.q = $("q").value; render(); };
   $("home").onclick = function (e) { e.preventDefault(); window.scrollTo(0, 0); };
+  Array.prototype.forEach.call($("tabs").querySelectorAll("a"), function (a) {
+    a.onclick = function (e) { e.preventDefault(); setSection(a.getAttribute("data-g"), state.cat); };
+  });
+  Array.prototype.forEach.call($("cats").querySelectorAll("button"), function (b) {
+    b.onclick = function () { setSection(state.gender, b.getAttribute("data-c")); };
+  });
   $("reset").onclick = function () {
     state.q = ""; state.sizes = []; state.brands = []; state.loUsd = null; state.hiUsd = null;
     $("q").value = "";
@@ -521,6 +616,7 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
   buildBrands();
   computeBounds();
   setSliderFromState();
+  paintCats();
   render();
   syncFromHash();
 })();
