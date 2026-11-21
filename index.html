@@ -430,7 +430,7 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
     return m >= 11 && m <= 14 ? "товаров" : d === 1 ? "товар" : d >= 2 && d <= 4 ? "товара" : "товаров";
   }
   function render() {
-    var list = ALL.filter(matches);
+    var list = ALL.filter(function (p) { return matches(p, false); });
     if (state.sort === "asc") list = list.slice().sort(function (a, b) { return a.usd - b.usd; });
     if (state.sort === "desc") list = list.slice().sort(function (a, b) { return b.usd - a.usd; });
     shown = list.length;
