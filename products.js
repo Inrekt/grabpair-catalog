@@ -1,5 +1,25 @@
 window.GRABPAIR_PRODUCTS = [
  {
+  "id": 693,
+  "sku": "GP0693",
+  "brand": "Puma",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Puma Suede 405345-01",
+  "article": "405345-01",
+  "sizes": [],
+  "anySize": true,
+  "usd": 342.0,
+  "from": false,
+  "local": [
+   "28 100 ₽",
+   "154 000 ₸"
+  ],
+  "img": "img/GP0693.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0693%20Puma%20Suede%20405345-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 659,
   "sku": "GP0659",
   "brand": "Nike",
@@ -18,26 +38,6 @@ window.GRABPAIR_PRODUCTS = [
   "img": "img/GP0659.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0659%20Nike%20Air%20Force%201%20%C2%B7%20IV2857-010%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
- },
- {
-  "id": 649,
-  "sku": "GP0649",
-  "brand": "Puma",
-  "gender": "unisex",
-  "category": "shoes",
-  "name": "Puma Suede 403228-01",
-  "article": "403228-01",
-  "sizes": [],
-  "anySize": true,
-  "usd": 145.0,
-  "from": false,
-  "local": [
-   "11 900 ₽",
-   "65 500 ₸"
-  ],
-  "img": "img/GP0649.jpg",
-  "tg": "https://t.me/grabpair/596",
-  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0649%20Puma%20Suede%20403228-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
   "id": 618,
@@ -60,6 +60,26 @@ window.GRABPAIR_PRODUCTS = [
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0618%20Adidas%20Hyperboost%20Lite%20KH6788%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
+  "id": 692,
+  "sku": "GP0692",
+  "brand": "Puma",
+  "gender": null,
+  "category": "shoes",
+  "name": "Puma Suede 399781-02",
+  "article": "399781-02",
+  "sizes": [],
+  "anySize": true,
+  "usd": 157.0,
+  "from": false,
+  "local": [
+   "12 900 ₽",
+   "71 000 ₸"
+  ],
+  "img": "img/GP0692.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0692%20Puma%20Suede%20399781-02%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 658,
   "sku": "GP0658",
   "brand": "Nike",
@@ -78,26 +98,6 @@ window.GRABPAIR_PRODUCTS = [
   "img": "img/GP0658.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0658%20Nike%20Air%20Force%201%20%C2%B7%20IV2857-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
- },
- {
-  "id": 647,
-  "sku": "GP0647",
-  "brand": "Puma",
-  "gender": "unisex",
-  "category": "shoes",
-  "name": "Puma Suede Expedition 395783-02",
-  "article": "395783-02",
-  "sizes": [],
-  "anySize": true,
-  "usd": 300.0,
-  "from": false,
-  "local": [
-   "24 700 ₽",
-   "135 000 ₸"
-  ],
-  "img": "img/GP0647.jpg",
-  "tg": "https://t.me/grabpair/591",
-  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0647%20Puma%20Suede%20Expedition%20395783-02%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
   "id": 611,
@@ -120,6 +120,26 @@ window.GRABPAIR_PRODUCTS = [
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0611%20Adidas%20Miaou%20Boot%20JQ9121%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
+  "id": 690,
+  "sku": "GP0690",
+  "brand": "Puma",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Puma Suede 396468-01",
+  "article": "396468-01",
+  "sizes": [],
+  "anySize": true,
+  "usd": 283.0,
+  "from": false,
+  "local": [
+   "23 300 ₽",
+   "127 500 ₸"
+  ],
+  "img": "img/GP0690.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0690%20Puma%20Suede%20396468-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 635,
   "sku": "GP0635",
   "brand": "Nike",
@@ -138,26 +158,6 @@ window.GRABPAIR_PRODUCTS = [
   "img": "img/GP0635.jpg",
   "tg": "https://t.me/grabpair/547",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0635%20Nike%20Air%20Max%20%C2%B7%20859550-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
- },
- {
-  "id": 645,
-  "sku": "GP0645",
-  "brand": "Puma",
-  "gender": "unisex",
-  "category": "shoes",
-  "name": "Puma Suede 387049-01",
-  "article": "387049-01",
-  "sizes": [],
-  "anySize": true,
-  "usd": 236.0,
-  "from": false,
-  "local": [
-   "19 400 ₽",
-   "106 500 ₸"
-  ],
-  "img": "img/GP0645.jpg",
-  "tg": "https://t.me/grabpair/586",
-  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0645%20Puma%20Suede%20387049-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
   "id": 610,
@@ -180,6 +180,26 @@ window.GRABPAIR_PRODUCTS = [
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0610%20Adidas%20Ghost%20Moto%20MID%20KI4562%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
+  "id": 689,
+  "sku": "GP0689",
+  "brand": "Puma",
+  "gender": null,
+  "category": "shoes",
+  "name": "Puma Suede 399781-03",
+  "article": "399781-03",
+  "sizes": [],
+  "anySize": true,
+  "usd": 244.0,
+  "from": false,
+  "local": [
+   "20 100 ₽",
+   "110 000 ₸"
+  ],
+  "img": "img/GP0689.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0689%20Puma%20Suede%20399781-03%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 633,
   "sku": "GP0633",
   "brand": "Nike",
@@ -198,26 +218,6 @@ window.GRABPAIR_PRODUCTS = [
   "img": "img/GP0633.jpg",
   "tg": "https://t.me/grabpair/541",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0633%20Nike%20Air%20Force%201%20%C2%B7%20IZ1207-010%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
- },
- {
-  "id": 643,
-  "sku": "GP0643",
-  "brand": "Puma",
-  "gender": "men",
-  "category": "shoes",
-  "name": "Puma Suede 356414-03",
-  "article": "356414-03",
-  "sizes": [],
-  "anySize": true,
-  "usd": 191.0,
-  "from": false,
-  "local": [
-   "15 700 ₽",
-   "86 000 ₸"
-  ],
-  "img": "img/GP0643.jpg",
-  "tg": "https://t.me/grabpair/582",
-  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0643%20Puma%20Suede%20356414-03%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
   "id": 609,
@@ -240,6 +240,26 @@ window.GRABPAIR_PRODUCTS = [
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0609%20Adidas%20Japan%20VH%20IF9636%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
+  "id": 688,
+  "sku": "GP0688",
+  "brand": "Puma",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Puma Army Trainer Suede 388156-09",
+  "article": "388156-09",
+  "sizes": [],
+  "anySize": true,
+  "usd": 281.0,
+  "from": false,
+  "local": [
+   "23 100 ₽",
+   "126 500 ₸"
+  ],
+  "img": "img/GP0688.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0688%20Puma%20Army%20Trainer%20Suede%20388156-09%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 632,
   "sku": "GP0632",
   "brand": "Nike",
@@ -258,26 +278,6 @@ window.GRABPAIR_PRODUCTS = [
   "img": "img/GP0632.jpg",
   "tg": "https://t.me/grabpair/535",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0632%20Nike%20Sneakers%20%C2%B7%20DX4361-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
- },
- {
-  "id": 641,
-  "sku": "GP0641",
-  "brand": "Puma",
-  "gender": "unisex",
-  "category": "shoes",
-  "name": "Puma Suede 395205-12",
-  "article": "395205-12",
-  "sizes": [],
-  "anySize": true,
-  "usd": 155.0,
-  "from": false,
-  "local": [
-   "12 800 ₽",
-   "70 000 ₸"
-  ],
-  "img": "img/GP0641.jpg",
-  "tg": "https://t.me/grabpair/577",
-  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0641%20Puma%20Suede%20395205-12%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
   "id": 608,
@@ -300,6 +300,26 @@ window.GRABPAIR_PRODUCTS = [
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0608%20Adidas%20FOS%20Boots%20JQ9382%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
+  "id": 685,
+  "sku": "GP0685",
+  "brand": "Puma",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Puma Suede 399781-15",
+  "article": "399781-15",
+  "sizes": [],
+  "anySize": true,
+  "usd": 177.0,
+  "from": false,
+  "local": [
+   "14 600 ₽",
+   "80 000 ₸"
+  ],
+  "img": "img/GP0685.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0685%20Puma%20Suede%20399781-15%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 630,
   "sku": "GP0630",
   "brand": "Nike",
@@ -318,26 +338,6 @@ window.GRABPAIR_PRODUCTS = [
   "img": "img/GP0630.jpg",
   "tg": "https://t.me/grabpair/529",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0630%20Nike%20Ja%20%C2%B7%20IM4136-405%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
- },
- {
-  "id": 640,
-  "sku": "GP0640",
-  "brand": "Puma",
-  "gender": "unisex",
-  "category": "shoes",
-  "name": "Puma Suede 364391-01",
-  "article": "364391-01",
-  "sizes": [],
-  "anySize": true,
-  "usd": 236.0,
-  "from": false,
-  "local": [
-   "19 400 ₽",
-   "106 500 ₸"
-  ],
-  "img": "img/GP0640.jpg",
-  "tg": "https://t.me/grabpair/573",
-  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0640%20Puma%20Suede%20364391-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
   "id": 604,
@@ -360,6 +360,26 @@ window.GRABPAIR_PRODUCTS = [
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0604%20Adidas%20Hiking%20Boots%20IF1793%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
+  "id": 684,
+  "sku": "GP0684",
+  "brand": "Puma",
+  "gender": "women",
+  "category": "shoes",
+  "name": "Puma Suede 397648-10",
+  "article": "397648-10",
+  "sizes": [],
+  "anySize": true,
+  "usd": 421.0,
+  "from": false,
+  "local": [
+   "34 600 ₽",
+   "189 500 ₸"
+  ],
+  "img": "img/GP0684.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0684%20Puma%20Suede%20397648-10%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 629,
   "sku": "GP0629",
   "brand": "Nike",
@@ -378,26 +398,6 @@ window.GRABPAIR_PRODUCTS = [
   "img": "img/GP0629.jpg",
   "tg": "https://t.me/grabpair/523",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0629%20Nike%20S%20T%20Charge%20%C2%B7%20IW1897-101%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
- },
- {
-  "id": 639,
-  "sku": "GP0639",
-  "brand": "Puma",
-  "gender": null,
-  "category": "shoes",
-  "name": "Puma SQUIDGAMExPUMA Suede 399428-01",
-  "article": "399428-01",
-  "sizes": [],
-  "anySize": true,
-  "usd": 115.0,
-  "from": false,
-  "local": [
-   "9 500 ₽",
-   "52 000 ₸"
-  ],
-  "img": "img/GP0639.jpg",
-  "tg": "https://t.me/grabpair/568",
-  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0639%20Puma%20SQUIDGAMExPUMA%20Suede%20399428-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
   "id": 571,
@@ -420,6 +420,26 @@ window.GRABPAIR_PRODUCTS = [
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0571%20Adidas%20Yeezy%20Boost%20350%20V2%20FZ5421%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
+  "id": 683,
+  "sku": "GP0683",
+  "brand": "Puma",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Puma Suede 398708-02",
+  "article": "398708-02",
+  "sizes": [],
+  "anySize": true,
+  "usd": 404.0,
+  "from": false,
+  "local": [
+   "33 200 ₽",
+   "182 000 ₸"
+  ],
+  "img": "img/GP0683.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0683%20Puma%20Suede%20398708-02%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 628,
   "sku": "GP0628",
   "brand": "Nike",
@@ -438,26 +458,6 @@ window.GRABPAIR_PRODUCTS = [
   "img": "img/GP0628.jpg",
   "tg": "https://t.me/grabpair/517",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0628%20Nike%20Ja%20%C2%B7%20JA9741-400%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
- },
- {
-  "id": 638,
-  "sku": "GP0638",
-  "brand": "Puma",
-  "gender": "unisex",
-  "category": "shoes",
-  "name": "Puma Suede 352634-05",
-  "article": "352634-05",
-  "sizes": [],
-  "anySize": true,
-  "usd": 143.0,
-  "from": false,
-  "local": [
-   "11 800 ₽",
-   "64 500 ₸"
-  ],
-  "img": "img/GP0638.jpg",
-  "tg": "https://t.me/grabpair/563",
-  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0638%20Puma%20Suede%20352634-05%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
   "id": 565,
@@ -480,6 +480,26 @@ window.GRABPAIR_PRODUCTS = [
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0565%20Adidas%20Adizero%20EVO%20SL%20KI6949%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
+  "id": 680,
+  "sku": "GP0680",
+  "brand": "Puma",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Puma Suede 368903-03",
+  "article": "368903-03",
+  "sizes": [],
+  "anySize": true,
+  "usd": 281.0,
+  "from": false,
+  "local": [
+   "23 100 ₽",
+   "126 500 ₸"
+  ],
+  "img": "img/GP0680.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0680%20Puma%20Suede%20368903-03%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 627,
   "sku": "GP0627",
   "brand": "Nike",
@@ -498,26 +518,6 @@ window.GRABPAIR_PRODUCTS = [
   "img": "img/GP0627.jpg",
   "tg": "https://t.me/grabpair/511",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0627%20Nike%20Air%20Jordan%20%C2%B7%20553558-040%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
- },
- {
-  "id": 637,
-  "sku": "GP0637",
-  "brand": "Puma",
-  "gender": "women",
-  "category": "shoes",
-  "name": "Puma PM 407682-02",
-  "article": "407682-02",
-  "sizes": [],
-  "anySize": true,
-  "usd": 155.0,
-  "from": false,
-  "local": [
-   "12 800 ₽",
-   "70 000 ₸"
-  ],
-  "img": "img/GP0637.jpg",
-  "tg": "https://t.me/grabpair/558",
-  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0637%20Puma%20PM%20407682-02%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
   "id": 563,
@@ -540,6 +540,26 @@ window.GRABPAIR_PRODUCTS = [
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0563%20Adidas%20Adizero%20EVO%20SL%20Woven%20JQ4442%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
+  "id": 679,
+  "sku": "GP0679",
+  "brand": "Puma",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Puma Mardi Mercredi Suede 396259-02",
+  "article": "396259-02",
+  "sizes": [],
+  "anySize": true,
+  "usd": 171.0,
+  "from": false,
+  "local": [
+   "14 100 ₽",
+   "77 000 ₸"
+  ],
+  "img": "img/GP0679.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0679%20Puma%20Mardi%20Mercredi%20Suede%20396259-02%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 626,
   "sku": "GP0626",
   "brand": "Nike",
@@ -560,26 +580,6 @@ window.GRABPAIR_PRODUCTS = [
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0626%20Nike%20Air%20Jordan%20%C2%B7%20553558-303%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
-  "id": 636,
-  "sku": "GP0636",
-  "brand": "Puma",
-  "gender": "unisex",
-  "category": "shoes",
-  "name": "Puma Sneakers 406329-01",
-  "article": "406329-01",
-  "sizes": [],
-  "anySize": true,
-  "usd": 136.0,
-  "from": false,
-  "local": [
-   "11 200 ₽",
-   "61 500 ₸"
-  ],
-  "img": "img/GP0636.jpg",
-  "tg": "https://t.me/grabpair/553",
-  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0636%20Puma%20Sneakers%20406329-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
- },
- {
   "id": 542,
   "sku": "GP0542",
   "brand": "Adidas",
@@ -598,6 +598,26 @@ window.GRABPAIR_PRODUCTS = [
   "img": "img/GP0542.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0542%20Adidas%20YZY%20700%20V3%20Mono%20Safflower%20HP5425%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
+  "id": 676,
+  "sku": "GP0676",
+  "brand": "Puma",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Puma Sneakers 407168-07",
+  "article": "407168-07",
+  "sizes": [],
+  "anySize": true,
+  "usd": 138.0,
+  "from": false,
+  "local": [
+   "11 400 ₽",
+   "62 500 ₸"
+  ],
+  "img": "img/GP0676.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0676%20Puma%20Sneakers%20407168-07%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
   "id": 625,
@@ -640,6 +660,26 @@ window.GRABPAIR_PRODUCTS = [
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0531%20Adidas%20Yeezy%20Boost%20350%20V2%20Onyx%20HQ4540%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
+  "id": 674,
+  "sku": "GP0674",
+  "brand": "Puma",
+  "gender": "women",
+  "category": "shoes",
+  "name": "Puma Sneakers 407307-01",
+  "article": "407307-01",
+  "sizes": [],
+  "anySize": true,
+  "usd": 143.0,
+  "from": false,
+  "local": [
+   "11 800 ₽",
+   "64 500 ₸"
+  ],
+  "img": "img/GP0674.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0674%20Puma%20Sneakers%20407307-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 624,
   "sku": "GP0624",
   "brand": "Nike",
@@ -678,6 +718,26 @@ window.GRABPAIR_PRODUCTS = [
   "img": "img/GP0530.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0530%20Adidas%20Yeezy%20Boost%20700%20Inertia%20EG7597%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
+  "id": 672,
+  "sku": "GP0672",
+  "brand": "Puma",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Puma Sneakers 407307-05",
+  "article": "407307-05",
+  "sizes": [],
+  "anySize": true,
+  "usd": 124.0,
+  "from": false,
+  "local": [
+   "10 200 ₽",
+   "56 000 ₸"
+  ],
+  "img": "img/GP0672.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0672%20Puma%20Sneakers%20407307-05%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
   "id": 623,
@@ -720,6 +780,26 @@ window.GRABPAIR_PRODUCTS = [
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0527%20Adidas%20Samba%20OG%20JI3185%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
+  "id": 671,
+  "sku": "GP0671",
+  "brand": "Puma",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Puma K-Street MA Suede 409194-02",
+  "article": "409194-02",
+  "sizes": [],
+  "anySize": true,
+  "usd": 138.0,
+  "from": false,
+  "local": [
+   "11 400 ₽",
+   "62 500 ₸"
+  ],
+  "img": "img/GP0671.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0671%20Puma%20K-Street%20MA%20Suede%20409194-02%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 622,
   "sku": "GP0622",
   "brand": "Nike",
@@ -758,6 +838,26 @@ window.GRABPAIR_PRODUCTS = [
   "img": "img/GP0516.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0516%20Adidas%20Yeezy%20Boost%20380%20Covellite%20FZ1269%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
+  "id": 670,
+  "sku": "GP0670",
+  "brand": "Puma",
+  "gender": null,
+  "category": "shoes",
+  "name": "Puma Suede Classic 399781-01",
+  "article": "399781-01",
+  "sizes": [],
+  "anySize": true,
+  "usd": 132.0,
+  "from": false,
+  "local": [
+   "10 900 ₽",
+   "59 500 ₸"
+  ],
+  "img": "img/GP0670.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0670%20Puma%20Suede%20Classic%20399781-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
   "id": 620,
@@ -800,6 +900,26 @@ window.GRABPAIR_PRODUCTS = [
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0502%20Adidas%20YZY%20700%20V3%20Fade%20Carbon%20GW1814%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
+  "id": 669,
+  "sku": "GP0669",
+  "brand": "Puma",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Puma Club v5 391131-01",
+  "article": "391131-01",
+  "sizes": [],
+  "anySize": true,
+  "usd": 191.0,
+  "from": false,
+  "local": [
+   "15 700 ₽",
+   "86 000 ₸"
+  ],
+  "img": "img/GP0669.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0669%20Puma%20Club%20v5%20391131-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 619,
   "sku": "GP0619",
   "brand": "Nike",
@@ -838,6 +958,26 @@ window.GRABPAIR_PRODUCTS = [
   "img": "img/GP0501.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0501%20Adidas%20Samba%20OG%20JS3832%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
+  "id": 668,
+  "sku": "GP0668",
+  "brand": "Puma",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Puma Caven 404484-29",
+  "article": "404484-29",
+  "sizes": [],
+  "anySize": true,
+  "usd": 113.0,
+  "from": false,
+  "local": [
+   "9 300 ₽",
+   "51 000 ₸"
+  ],
+  "img": "img/GP0668.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0668%20Puma%20Caven%20404484-29%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
   "id": 615,
@@ -880,6 +1020,26 @@ window.GRABPAIR_PRODUCTS = [
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0474%20Adidas%20YZY%20Qntm%20HP6595%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
+  "id": 667,
+  "sku": "GP0667",
+  "brand": "Puma",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Puma Sneakers 408243-01",
+  "article": "408243-01",
+  "sizes": [],
+  "anySize": true,
+  "usd": 115.0,
+  "from": false,
+  "local": [
+   "9 500 ₽",
+   "52 000 ₸"
+  ],
+  "img": "img/GP0667.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0667%20Puma%20Sneakers%20408243-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 583,
   "sku": "GP0583",
   "brand": "Nike",
@@ -918,6 +1078,26 @@ window.GRABPAIR_PRODUCTS = [
   "img": "img/GP0473.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0473%20Adidas%20Samba%20OG%20ID0478%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
+  "id": 649,
+  "sku": "GP0649",
+  "brand": "Puma",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Puma Suede 403228-01",
+  "article": "403228-01",
+  "sizes": [],
+  "anySize": true,
+  "usd": 145.0,
+  "from": false,
+  "local": [
+   "11 900 ₽",
+   "65 500 ₸"
+  ],
+  "img": "img/GP0649.jpg",
+  "tg": "https://t.me/grabpair/596",
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0649%20Puma%20Suede%20403228-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
   "id": 582,
@@ -960,6 +1140,26 @@ window.GRABPAIR_PRODUCTS = [
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0472%20Adidas%20Zyrion%20PRO%20LA6928%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
+  "id": 647,
+  "sku": "GP0647",
+  "brand": "Puma",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Puma Suede Expedition 395783-02",
+  "article": "395783-02",
+  "sizes": [],
+  "anySize": true,
+  "usd": 300.0,
+  "from": false,
+  "local": [
+   "24 700 ₽",
+   "135 000 ₸"
+  ],
+  "img": "img/GP0647.jpg",
+  "tg": "https://t.me/grabpair/591",
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0647%20Puma%20Suede%20Expedition%20395783-02%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 579,
   "sku": "GP0579",
   "brand": "Nike",
@@ -998,6 +1198,26 @@ window.GRABPAIR_PRODUCTS = [
   "img": "img/GP0470.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0470%20Adidas%20Adizero%20EVO%20SL%20JH6206%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
+  "id": 645,
+  "sku": "GP0645",
+  "brand": "Puma",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Puma Suede 387049-01",
+  "article": "387049-01",
+  "sizes": [],
+  "anySize": true,
+  "usd": 236.0,
+  "from": false,
+  "local": [
+   "19 400 ₽",
+   "106 500 ₸"
+  ],
+  "img": "img/GP0645.jpg",
+  "tg": "https://t.me/grabpair/586",
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0645%20Puma%20Suede%20387049-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
   "id": 576,
@@ -1040,6 +1260,26 @@ window.GRABPAIR_PRODUCTS = [
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0450%20Adidas%20Adizero%20EVO%20SL%20EXO%20KJ0430%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
+  "id": 643,
+  "sku": "GP0643",
+  "brand": "Puma",
+  "gender": "men",
+  "category": "shoes",
+  "name": "Puma Suede 356414-03",
+  "article": "356414-03",
+  "sizes": [],
+  "anySize": true,
+  "usd": 191.0,
+  "from": false,
+  "local": [
+   "15 700 ₽",
+   "86 000 ₸"
+  ],
+  "img": "img/GP0643.jpg",
+  "tg": "https://t.me/grabpair/582",
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0643%20Puma%20Suede%20356414-03%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 562,
   "sku": "GP0562",
   "brand": "Nike",
@@ -1078,6 +1318,26 @@ window.GRABPAIR_PRODUCTS = [
   "img": "img/GP0447.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0447%20Adidas%20Dreampace%20BOA%20KZ7118%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
+  "id": 641,
+  "sku": "GP0641",
+  "brand": "Puma",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Puma Suede 395205-12",
+  "article": "395205-12",
+  "sizes": [],
+  "anySize": true,
+  "usd": 155.0,
+  "from": false,
+  "local": [
+   "12 800 ₽",
+   "70 000 ₸"
+  ],
+  "img": "img/GP0641.jpg",
+  "tg": "https://t.me/grabpair/577",
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0641%20Puma%20Suede%20395205-12%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
   "id": 560,
@@ -1120,6 +1380,26 @@ window.GRABPAIR_PRODUCTS = [
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0428%20Adidas%20YZY%20Knit%20RNR%20Stone%20Carbon%20GY1759%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
+  "id": 640,
+  "sku": "GP0640",
+  "brand": "Puma",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Puma Suede 364391-01",
+  "article": "364391-01",
+  "sizes": [],
+  "anySize": true,
+  "usd": 236.0,
+  "from": false,
+  "local": [
+   "19 400 ₽",
+   "106 500 ₸"
+  ],
+  "img": "img/GP0640.jpg",
+  "tg": "https://t.me/grabpair/573",
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0640%20Puma%20Suede%20364391-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 559,
   "sku": "GP0559",
   "brand": "Nike",
@@ -1158,6 +1438,26 @@ window.GRABPAIR_PRODUCTS = [
   "img": "img/GP0427.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0427%20Adidas%20YZY%20Knit%20RNR%20Stone%20Onyx%20IG7831%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
+  "id": 639,
+  "sku": "GP0639",
+  "brand": "Puma",
+  "gender": null,
+  "category": "shoes",
+  "name": "Puma SQUIDGAMExPUMA Suede 399428-01",
+  "article": "399428-01",
+  "sizes": [],
+  "anySize": true,
+  "usd": 115.0,
+  "from": false,
+  "local": [
+   "9 500 ₽",
+   "52 000 ₸"
+  ],
+  "img": "img/GP0639.jpg",
+  "tg": "https://t.me/grabpair/568",
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0639%20Puma%20SQUIDGAMExPUMA%20Suede%20399428-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
   "id": 554,
@@ -1200,6 +1500,26 @@ window.GRABPAIR_PRODUCTS = [
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0426%20Adidas%20Yeezy%20450%20Stone%20Flax%20ID1623%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
+  "id": 638,
+  "sku": "GP0638",
+  "brand": "Puma",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Puma Suede 352634-05",
+  "article": "352634-05",
+  "sizes": [],
+  "anySize": true,
+  "usd": 143.0,
+  "from": false,
+  "local": [
+   "11 800 ₽",
+   "64 500 ₸"
+  ],
+  "img": "img/GP0638.jpg",
+  "tg": "https://t.me/grabpair/563",
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0638%20Puma%20Suede%20352634-05%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 552,
   "sku": "GP0552",
   "brand": "Nike",
@@ -1240,6 +1560,26 @@ window.GRABPAIR_PRODUCTS = [
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0425%20Adidas%20Yeezy%20700%20V3%20GY0260%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
+  "id": 637,
+  "sku": "GP0637",
+  "brand": "Puma",
+  "gender": "women",
+  "category": "shoes",
+  "name": "Puma PM 407682-02",
+  "article": "407682-02",
+  "sizes": [],
+  "anySize": true,
+  "usd": 155.0,
+  "from": false,
+  "local": [
+   "12 800 ₽",
+   "70 000 ₸"
+  ],
+  "img": "img/GP0637.jpg",
+  "tg": "https://t.me/grabpair/558",
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0637%20Puma%20PM%20407682-02%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 548,
   "sku": "GP0548",
   "brand": "Nike",
@@ -1278,6 +1618,26 @@ window.GRABPAIR_PRODUCTS = [
   "img": "img/GP0420.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0420%20Adidas%20Cushionnova%20LA2127%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
+  "id": 636,
+  "sku": "GP0636",
+  "brand": "Puma",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Puma Sneakers 406329-01",
+  "article": "406329-01",
+  "sizes": [],
+  "anySize": true,
+  "usd": 136.0,
+  "from": false,
+  "local": [
+   "11 200 ₽",
+   "61 500 ₸"
+  ],
+  "img": "img/GP0636.jpg",
+  "tg": "https://t.me/grabpair/553",
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0636%20Puma%20Sneakers%20406329-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  },
  {
   "id": 541,
