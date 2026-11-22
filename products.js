@@ -2569,11 +2569,11 @@ window.GRABPAIR_PRODUCTS = [
   "article": "CW2288-111",
   "sizes": [],
   "anySize": true,
-  "usd": 166.0,
+  "usd": 119.0,
   "from": false,
   "local": [
-   "13 700 ₽",
-   "75 000 ₸"
+   "9 800 ₽",
+   "54 000 ₸"
   ],
   "img": "img/GP0401.jpg",
   "tg": "https://t.me/grabpair/72",
