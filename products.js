@@ -1,5 +1,25 @@
 window.GRABPAIR_PRODUCTS = [
  {
+  "id": 766,
+  "sku": "GP0766",
+  "brand": "Nike",
+  "gender": "women",
+  "category": "shoes",
+  "name": "Nike Dunk Low · IO4244-001",
+  "article": "IO4244-001",
+  "sizes": [],
+  "anySize": true,
+  "usd": 131.0,
+  "from": false,
+  "local": [
+   "10 800 ₽",
+   "59 000 ₸"
+  ],
+  "img": "img/GP0766.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0766%20Nike%20Dunk%20Low%20%C2%B7%20IO4244-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 765,
   "sku": "GP0765",
   "brand": "Adidas",
