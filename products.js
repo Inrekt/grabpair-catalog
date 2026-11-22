@@ -1,5 +1,25 @@
 window.GRABPAIR_PRODUCTS = [
  {
+  "id": 704,
+  "sku": "GP0704",
+  "brand": "Adidas",
+  "gender": "women",
+  "category": "shoes",
+  "name": "Adidas Samba Jane TOY Story LA1428",
+  "article": "LA1428",
+  "sizes": [],
+  "anySize": true,
+  "usd": 182.0,
+  "from": false,
+  "local": [
+   "15 000 ₽",
+   "82 000 ₸"
+  ],
+  "img": "img/GP0704.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0704%20Adidas%20Samba%20Jane%20TOY%20Story%20LA1428%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 703,
   "sku": "GP0703",
   "brand": "Under Armour",
