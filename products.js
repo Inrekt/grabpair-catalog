@@ -1052,7 +1052,7 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 89.0,
   "from": false,
   "local": [
-   "7 300 ₽",
+   "7 400 ₽",
    "40 500 ₸"
   ],
   "img": "img/GP0562.jpg",
@@ -1432,7 +1432,7 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 217.0,
   "from": false,
   "local": [
-   "17 800 ₽",
+   "17 900 ₽",
    "98 000 ₸"
   ],
   "img": "img/GP0416.jpg",
@@ -2032,7 +2032,7 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 167.0,
   "from": false,
   "local": [
-   "13 700 ₽",
+   "13 800 ₽",
    "75 500 ₸"
   ],
   "img": "img/GP0360.jpg",
@@ -2172,7 +2172,7 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 128.0,
   "from": false,
   "local": [
-   "10 500 ₽",
+   "10 600 ₽",
    "58 000 ₸"
   ],
   "img": "img/GP0468.jpg",
@@ -2472,7 +2472,7 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 245.0,
   "from": false,
   "local": [
-   "20 100 ₽",
+   "20 200 ₽",
    "110 500 ₸"
   ],
   "img": "img/GP0275.jpg",
@@ -2752,7 +2752,7 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 518.0,
   "from": false,
   "local": [
-   "42 500 ₽",
+   "42 600 ₽",
    "233 500 ₸"
   ],
   "img": "img/GP0240.jpg",
@@ -3352,7 +3352,7 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 245.0,
   "from": false,
   "local": [
-   "20 100 ₽",
+   "20 200 ₽",
    "110 500 ₸"
   ],
   "img": "img/GP0168.jpg",
@@ -3392,7 +3392,7 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 273.0,
   "from": false,
   "local": [
-   "22 400 ₽",
+   "22 500 ₽",
    "123 000 ₸"
   ],
   "img": "img/GP0167.jpg",
@@ -3472,7 +3472,7 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 178.0,
   "from": false,
   "local": [
-   "14 600 ₽",
+   "14 700 ₽",
    "80 500 ₸"
   ],
   "img": "img/GP0161.jpg",
@@ -3932,7 +3932,7 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 295.0,
   "from": false,
   "local": [
-   "24 200 ₽",
+   "24 300 ₽",
    "133 000 ₸"
   ],
   "img": "img/GP0053.jpg",
@@ -4112,7 +4112,7 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 128.0,
   "from": false,
   "local": [
-   "10 500 ₽",
+   "10 600 ₽",
    "58 000 ₸"
   ],
   "img": "img/GP0091.jpg",
@@ -4312,7 +4312,7 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 128.0,
   "from": false,
   "local": [
-   "10 500 ₽",
+   "10 600 ₽",
    "58 000 ₸"
   ],
   "img": "img/GP0081.jpg",
@@ -4596,7 +4596,7 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 234.0,
   "from": false,
   "local": [
-   "19 200 ₽",
+   "19 300 ₽",
    "105 500 ₸"
   ],
   "img": "img/GP0069.jpg",
@@ -4704,5 +4704,5 @@ window.GRABPAIR_PRODUCTS = [
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0061%20Adidas%20Cold.rdy%20Boot%20GY4382%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  }
 ];
-window.GRABPAIR_RATES = {"USD": 1.0, "RUB": 82.021771, "KZT": 449.86229, "UZS": 11967.454061, "KGS": 87.436617, "BYN": 2.993756};
+window.GRABPAIR_RATES = {"USD": 1.0, "RUB": 82.062616, "KZT": 449.946365, "UZS": 11987.908877, "KGS": 87.451126, "BYN": 2.995302};
 window.GRABPAIR_CURRENCIES = [{"code": "USD", "sign": "$", "step": 1}, {"code": "RUB", "sign": "₽", "step": 100}, {"code": "KZT", "sign": "₸", "step": 500}, {"code": "UZS", "sign": "сум", "step": 10000}, {"code": "KGS", "sign": "сом", "step": 100}, {"code": "BYN", "sign": "BYN", "step": 1}];
