@@ -1,5 +1,25 @@
 window.GRABPAIR_PRODUCTS = [
  {
+  "id": 881,
+  "sku": "GP0881",
+  "brand": "Nike",
+  "gender": "men",
+  "category": "shoes",
+  "name": "Nike Air Max · IR1944-400",
+  "article": "IR1944-400",
+  "sizes": [],
+  "anySize": true,
+  "usd": 228.0,
+  "from": false,
+  "local": [
+   "18 800 ₽",
+   "103 000 ₸"
+  ],
+  "img": "img/GP0881.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0881%20Nike%20Air%20Max%20%C2%B7%20IR1944-400%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 880,
   "sku": "GP0880",
   "brand": "Adidas",
