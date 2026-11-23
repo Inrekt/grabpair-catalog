@@ -13,7 +13,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 100 ₽",
-   "55 500 ₸"
+   "56 500 ₸"
   ],
   "img": "img/GP0922.jpg",
   "tg": null,
@@ -33,7 +33,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 400 ₽",
-   "68 000 ₸"
+   "69 000 ₸"
   ],
   "img": "img/GP0880.jpg",
   "tg": null,
@@ -53,7 +53,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 900 ₽",
-   "65 000 ₸"
+   "66 000 ₸"
   ],
   "img": "img/GP0858.jpg",
   "tg": null,
@@ -73,7 +73,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "15 700 ₽",
-   "86 000 ₸"
+   "87 500 ₸"
   ],
   "img": "img/GP0857.jpg",
   "tg": null,
@@ -93,7 +93,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "7 800 ₽",
-   "43 000 ₸"
+   "43 500 ₸"
   ],
   "img": "img/GP0918.jpg",
   "tg": null,
@@ -113,7 +113,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 500 ₽",
-   "63 000 ₸"
+   "64 000 ₸"
   ],
   "img": "img/GP0879.jpg",
   "tg": null,
@@ -133,7 +133,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "22 400 ₽",
-   "122 500 ₸"
+   "124 000 ₸"
   ],
   "img": "img/GP0703.jpg",
   "tg": null,
@@ -152,8 +152,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 128.0,
   "from": false,
   "local": [
-   "10 600 ₽",
-   "58 000 ₸"
+   "10 500 ₽",
+   "58 500 ₸"
   ],
   "img": "img/GP0854.jpg",
   "tg": null,
@@ -173,7 +173,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "19 200 ₽",
-   "105 000 ₸"
+   "106 500 ₸"
   ],
   "img": "img/GP0914.jpg",
   "tg": null,
@@ -193,7 +193,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 100 ₽",
-   "61 000 ₸"
+   "62 000 ₸"
   ],
   "img": "img/GP0878.jpg",
   "tg": null,
@@ -213,7 +213,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "19 000 ₽",
-   "104 000 ₸"
+   "105 500 ₸"
   ],
   "img": "img/GP0700.jpg",
   "tg": null,
@@ -233,7 +233,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "28 100 ₽",
-   "154 000 ₸"
+   "156 000 ₸"
   ],
   "img": "img/GP0693.jpg",
   "tg": null,
@@ -253,7 +253,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 300 ₽",
-   "62 000 ₸"
+   "62 500 ₸"
   ],
   "img": "img/GP0913.jpg",
   "tg": null,
@@ -273,7 +273,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 600 ₽",
-   "63 500 ₸"
+   "64 500 ₸"
   ],
   "img": "img/GP0876.jpg",
   "tg": null,
@@ -293,7 +293,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "19 100 ₽",
-   "104 500 ₸"
+   "106 000 ₸"
   ],
   "img": "img/GP0699.jpg",
   "tg": null,
@@ -313,7 +313,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 900 ₽",
-   "71 000 ₸"
+   "72 000 ₸"
   ],
   "img": "img/GP0692.jpg",
   "tg": null,
@@ -333,7 +333,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 600 ₽",
-   "52 500 ₸"
+   "53 000 ₸"
   ],
   "img": "img/GP0911.jpg",
   "tg": null,
@@ -353,7 +353,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 000 ₽",
-   "60 500 ₸"
+   "61 500 ₸"
   ],
   "img": "img/GP0874.jpg",
   "tg": null,
@@ -373,7 +373,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 900 ₽",
-   "59 500 ₸"
+   "60 500 ₸"
   ],
   "img": "img/GP0698.jpg",
   "tg": null,
@@ -393,7 +393,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "23 300 ₽",
-   "127 500 ₸"
+   "129 000 ₸"
   ],
   "img": "img/GP0690.jpg",
   "tg": null,
@@ -413,7 +413,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 300 ₽",
-   "62 000 ₸"
+   "62 500 ₸"
   ],
   "img": "img/GP0910.jpg",
   "tg": null,
@@ -433,7 +433,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 200 ₽",
-   "50 500 ₸"
+   "51 500 ₸"
   ],
   "img": "img/GP0873.jpg",
   "tg": null,
@@ -452,8 +452,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 384.0,
   "from": false,
   "local": [
-   "31 600 ₽",
-   "173 000 ₸"
+   "31 500 ₽",
+   "175 000 ₸"
   ],
   "img": "img/GP0697.jpg",
   "tg": null,
@@ -473,7 +473,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "20 100 ₽",
-   "110 000 ₸"
+   "111 500 ₸"
   ],
   "img": "img/GP0689.jpg",
   "tg": null,
@@ -493,7 +493,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 800 ₽",
-   "59 000 ₸"
+   "60 000 ₸"
   ],
   "img": "img/GP0909.jpg",
   "tg": null,
@@ -513,7 +513,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 700 ₽",
-   "53 500 ₸"
+   "54 000 ₸"
   ],
   "img": "img/GP0872.jpg",
   "tg": null,
@@ -533,7 +533,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "17 100 ₽",
-   "94 000 ₸"
+   "95 000 ₸"
   ],
   "img": "img/GP0696.jpg",
   "tg": null,
@@ -553,7 +553,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "23 100 ₽",
-   "126 500 ₸"
+   "128 500 ₸"
   ],
   "img": "img/GP0688.jpg",
   "tg": null,
@@ -573,7 +573,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "18 100 ₽",
-   "99 000 ₸"
+   "100 500 ₸"
   ],
   "img": "img/GP0907.jpg",
   "tg": null,
@@ -593,7 +593,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 200 ₽",
-   "50 500 ₸"
+   "51 500 ₸"
   ],
   "img": "img/GP0871.jpg",
   "tg": null,
@@ -613,7 +613,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 300 ₽",
-   "51 000 ₸"
+   "51 500 ₸"
   ],
   "img": "img/GP0695.jpg",
   "tg": null,
@@ -633,7 +633,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "14 600 ₽",
-   "80 000 ₸"
+   "81 000 ₸"
   ],
   "img": "img/GP0685.jpg",
   "tg": null,
@@ -653,7 +653,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 200 ₽",
-   "56 000 ₸"
+   "57 000 ₸"
   ],
   "img": "img/GP0903.jpg",
   "tg": null,
@@ -673,7 +673,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "18 500 ₽",
-   "101 500 ₸"
+   "103 000 ₸"
   ],
   "img": "img/GP0870.jpg",
   "tg": null,
@@ -693,7 +693,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "34 600 ₽",
-   "189 500 ₸"
+   "192 000 ₸"
   ],
   "img": "img/GP0684.jpg",
   "tg": null,
@@ -713,7 +713,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 300 ₽",
-   "56 500 ₸"
+   "57 000 ₸"
   ],
   "img": "img/GP0902.jpg",
   "tg": null,
@@ -733,7 +733,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 800 ₽",
-   "54 000 ₸"
+   "54 500 ₸"
   ],
   "img": "img/GP0869.jpg",
   "tg": null,
@@ -753,7 +753,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "33 200 ₽",
-   "182 000 ₸"
+   "184 500 ₸"
   ],
   "img": "img/GP0683.jpg",
   "tg": null,
@@ -773,7 +773,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 300 ₽",
-   "73 000 ₸"
+   "74 000 ₸"
   ],
   "img": "img/GP0893.jpg",
   "tg": null,
@@ -793,7 +793,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 500 ₽",
-   "57 500 ₸"
+   "58 000 ₸"
   ],
   "img": "img/GP0868.jpg",
   "tg": null,
@@ -813,7 +813,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "23 100 ₽",
-   "126 500 ₸"
+   "128 500 ₸"
   ],
   "img": "img/GP0680.jpg",
   "tg": null,
@@ -833,7 +833,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 200 ₽",
-   "72 000 ₸"
+   "73 000 ₸"
   ],
   "img": "img/GP0889.jpg",
   "tg": null,
@@ -853,7 +853,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 200 ₽",
-   "50 000 ₸"
+   "51 000 ₸"
   ],
   "img": "img/GP0867.jpg",
   "tg": null,
@@ -873,7 +873,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "14 100 ₽",
-   "77 000 ₸"
+   "78 000 ₸"
   ],
   "img": "img/GP0679.jpg",
   "tg": null,
@@ -893,7 +893,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 100 ₽",
-   "49 500 ₸"
+   "50 500 ₸"
   ],
   "img": "img/GP0885.jpg",
   "tg": null,
@@ -913,7 +913,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 100 ₽",
-   "55 000 ₸"
+   "56 000 ₸"
   ],
   "img": "img/GP0866.jpg",
   "tg": null,
@@ -933,7 +933,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 400 ₽",
-   "62 500 ₸"
+   "63 000 ₸"
   ],
   "img": "img/GP0676.jpg",
   "tg": null,
@@ -953,7 +953,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 300 ₽",
-   "56 500 ₸"
+   "57 000 ₸"
   ],
   "img": "img/GP0883.jpg",
   "tg": null,
@@ -973,7 +973,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 700 ₽",
-   "64 000 ₸"
+   "65 000 ₸"
   ],
   "img": "img/GP0865.jpg",
   "tg": null,
@@ -993,7 +993,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 800 ₽",
-   "64 500 ₸"
+   "65 500 ₸"
   ],
   "img": "img/GP0674.jpg",
   "tg": null,
@@ -1013,7 +1013,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 400 ₽",
-   "62 500 ₸"
+   "63 000 ₸"
   ],
   "img": "img/GP0882.jpg",
   "tg": null,
@@ -1033,7 +1033,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 900 ₽",
-   "59 500 ₸"
+   "60 500 ₸"
   ],
   "img": "img/GP0863.jpg",
   "tg": null,
@@ -1053,7 +1053,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 200 ₽",
-   "56 000 ₸"
+   "57 000 ₸"
   ],
   "img": "img/GP0672.jpg",
   "tg": null,
@@ -1072,8 +1072,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 228.0,
   "from": false,
   "local": [
-   "18 800 ₽",
-   "103 000 ₸"
+   "18 700 ₽",
+   "104 000 ₸"
   ],
   "img": "img/GP0881.jpg",
   "tg": null,
@@ -1093,7 +1093,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 900 ₽",
-   "54 000 ₸"
+   "55 000 ₸"
   ],
   "img": "img/GP0862.jpg",
   "tg": null,
@@ -1113,7 +1113,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 400 ₽",
-   "62 500 ₸"
+   "63 000 ₸"
   ],
   "img": "img/GP0671.jpg",
   "tg": null,
@@ -1133,7 +1133,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 300 ₽",
-   "73 000 ₸"
+   "74 000 ₸"
   ],
   "img": "img/GP0850.jpg",
   "tg": null,
@@ -1153,7 +1153,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 500 ₽",
-   "57 500 ₸"
+   "58 000 ₸"
   ],
   "img": "img/GP0860.jpg",
   "tg": null,
@@ -1173,7 +1173,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 900 ₽",
-   "59 500 ₸"
+   "60 500 ₸"
   ],
   "img": "img/GP0670.jpg",
   "tg": null,
@@ -1193,7 +1193,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "19 800 ₽",
-   "108 500 ₸"
+   "110 000 ₸"
   ],
   "img": "img/GP0844.jpg",
   "tg": null,
@@ -1213,7 +1213,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "16 100 ₽",
-   "88 500 ₸"
+   "89 500 ₸"
   ],
   "img": "img/GP0765.jpg",
   "tg": null,
@@ -1233,7 +1233,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "15 700 ₽",
-   "86 000 ₸"
+   "87 500 ₸"
   ],
   "img": "img/GP0669.jpg",
   "tg": null,
@@ -1253,7 +1253,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 600 ₽",
-   "52 500 ₸"
+   "53 000 ₸"
   ],
   "img": "img/GP0843.jpg",
   "tg": null,
@@ -1273,7 +1273,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 400 ₽",
-   "68 000 ₸"
+   "69 000 ₸"
   ],
   "img": "img/GP0764.jpg",
   "tg": null,
@@ -1293,7 +1293,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 300 ₽",
-   "51 000 ₸"
+   "51 500 ₸"
   ],
   "img": "img/GP0668.jpg",
   "tg": null,
@@ -1312,8 +1312,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 245.0,
   "from": false,
   "local": [
-   "20 200 ₽",
-   "110 500 ₸"
+   "20 100 ₽",
+   "112 000 ₸"
   ],
   "img": "img/GP0841.jpg",
   "tg": null,
@@ -1333,7 +1333,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "8 100 ₽",
-   "44 500 ₸"
+   "45 000 ₸"
   ],
   "img": "img/GP0762.jpg",
   "tg": null,
@@ -1353,7 +1353,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 500 ₽",
-   "52 000 ₸"
+   "52 500 ₸"
   ],
   "img": "img/GP0667.jpg",
   "tg": null,
@@ -1373,7 +1373,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "18 900 ₽",
-   "103 500 ₸"
+   "105 000 ₸"
   ],
   "img": "img/GP0839.jpg",
   "tg": null,
@@ -1393,7 +1393,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "23 600 ₽",
-   "129 500 ₸"
+   "131 000 ₸"
   ],
   "img": "img/GP0761.jpg",
   "tg": null,
@@ -1413,7 +1413,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 900 ₽",
-   "65 500 ₸"
+   "66 500 ₸"
   ],
   "img": "img/GP0649.jpg",
   "tg": "https://t.me/grabpair/596",
@@ -1433,7 +1433,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "18 500 ₽",
-   "101 500 ₸"
+   "103 000 ₸"
   ],
   "img": "img/GP0838.jpg",
   "tg": null,
@@ -1453,7 +1453,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "22 700 ₽",
-   "124 500 ₸"
+   "126 000 ₸"
   ],
   "img": "img/GP0759.jpg",
   "tg": null,
@@ -1472,8 +1472,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 300.0,
   "from": false,
   "local": [
-   "24 700 ₽",
-   "135 000 ₸"
+   "24 600 ₽",
+   "137 000 ₸"
   ],
   "img": "img/GP0647.jpg",
   "tg": "https://t.me/grabpair/591",
@@ -1492,8 +1492,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 217.0,
   "from": false,
   "local": [
-   "17 900 ₽",
-   "98 000 ₸"
+   "17 800 ₽",
+   "99 000 ₸"
   ],
   "img": "img/GP0837.jpg",
   "tg": null,
@@ -1512,8 +1512,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 156.0,
   "from": false,
   "local": [
-   "12 900 ₽",
-   "70 500 ₸"
+   "12 800 ₽",
+   "71 500 ₸"
   ],
   "img": "img/GP0758.jpg",
   "tg": null,
@@ -1533,7 +1533,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "19 400 ₽",
-   "106 500 ₸"
+   "108 000 ₸"
   ],
   "img": "img/GP0645.jpg",
   "tg": "https://t.me/grabpair/586",
@@ -1553,7 +1553,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 100 ₽",
-   "61 000 ₸"
+   "62 000 ₸"
   ],
   "img": "img/GP0836.jpg",
   "tg": null,
@@ -1573,7 +1573,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 400 ₽",
-   "57 000 ₸"
+   "57 500 ₸"
   ],
   "img": "img/GP0756.jpg",
   "tg": null,
@@ -1593,7 +1593,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "15 700 ₽",
-   "86 000 ₸"
+   "87 500 ₸"
   ],
   "img": "img/GP0643.jpg",
   "tg": "https://t.me/grabpair/582",
@@ -1613,7 +1613,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "21 600 ₽",
-   "118 500 ₸"
+   "120 000 ₸"
   ],
   "img": "img/GP0835.jpg",
   "tg": null,
@@ -1633,7 +1633,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 100 ₽",
-   "49 500 ₸"
+   "50 500 ₸"
   ],
   "img": "img/GP0755.jpg",
   "tg": null,
@@ -1653,7 +1653,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 800 ₽",
-   "70 000 ₸"
+   "71 000 ₸"
   ],
   "img": "img/GP0641.jpg",
   "tg": "https://t.me/grabpair/577",
@@ -1672,8 +1672,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 150.0,
   "from": false,
   "local": [
-   "12 400 ₽",
-   "67 500 ₸"
+   "12 300 ₽",
+   "68 500 ₸"
   ],
   "img": "img/GP0833.jpg",
   "tg": null,
@@ -1693,7 +1693,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 400 ₽",
-   "57 000 ₸"
+   "57 500 ₸"
   ],
   "img": "img/GP0754.jpg",
   "tg": null,
@@ -1713,7 +1713,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "19 400 ₽",
-   "106 500 ₸"
+   "108 000 ₸"
   ],
   "img": "img/GP0640.jpg",
   "tg": "https://t.me/grabpair/573",
@@ -1733,7 +1733,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "8 700 ₽",
-   "47 500 ₸"
+   "48 000 ₸"
   ],
   "img": "img/GP0831.jpg",
   "tg": null,
@@ -1753,7 +1753,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 200 ₽",
-   "50 000 ₸"
+   "51 000 ₸"
   ],
   "img": "img/GP0753.jpg",
   "tg": null,
@@ -1773,7 +1773,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 500 ₽",
-   "52 000 ₸"
+   "52 500 ₸"
   ],
   "img": "img/GP0639.jpg",
   "tg": "https://t.me/grabpair/568",
@@ -1793,7 +1793,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 000 ₽",
-   "71 500 ₸"
+   "72 500 ₸"
   ],
   "img": "img/GP0824.jpg",
   "tg": null,
@@ -1813,7 +1813,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 300 ₽",
-   "72 500 ₸"
+   "73 500 ₸"
   ],
   "img": "img/GP0752.jpg",
   "tg": null,
@@ -1833,7 +1833,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 800 ₽",
-   "64 500 ₸"
+   "65 500 ₸"
   ],
   "img": "img/GP0638.jpg",
   "tg": "https://t.me/grabpair/563",
@@ -1853,7 +1853,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 400 ₽",
-   "73 500 ₸"
+   "74 500 ₸"
   ],
   "img": "img/GP0823.jpg",
   "tg": null,
@@ -1873,7 +1873,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 400 ₽",
-   "62 500 ₸"
+   "63 000 ₸"
   ],
   "img": "img/GP0751.jpg",
   "tg": null,
@@ -1893,7 +1893,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 800 ₽",
-   "70 000 ₸"
+   "71 000 ₸"
   ],
   "img": "img/GP0637.jpg",
   "tg": "https://t.me/grabpair/558",
@@ -1913,7 +1913,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "7 000 ₽",
-   "38 500 ₸"
+   "39 000 ₸"
   ],
   "img": "img/GP0822.jpg",
   "tg": null,
@@ -1933,7 +1933,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 400 ₽",
-   "57 000 ₸"
+   "57 500 ₸"
   ],
   "img": "img/GP0750.jpg",
   "tg": null,
@@ -1953,7 +1953,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 200 ₽",
-   "61 500 ₸"
+   "62 000 ₸"
   ],
   "img": "img/GP0636.jpg",
   "tg": "https://t.me/grabpair/553",
@@ -1973,7 +1973,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "8 500 ₽",
-   "46 500 ₸"
+   "47 000 ₸"
   ],
   "img": "img/GP0820.jpg",
   "tg": null,
@@ -1993,7 +1993,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 400 ₽",
-   "51 500 ₸"
+   "52 000 ₸"
   ],
   "img": "img/GP0749.jpg",
   "tg": null,
@@ -2013,7 +2013,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "7 900 ₽",
-   "43 500 ₸"
+   "44 000 ₸"
   ],
   "img": "img/GP0819.jpg",
   "tg": null,
@@ -2033,7 +2033,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 200 ₽",
-   "56 000 ₸"
+   "57 000 ₸"
   ],
   "img": "img/GP0748.jpg",
   "tg": null,
@@ -2053,7 +2053,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 300 ₽",
-   "51 000 ₸"
+   "51 500 ₸"
   ],
   "img": "img/GP0818.jpg",
   "tg": null,
@@ -2073,7 +2073,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "15 100 ₽",
-   "82 500 ₸"
+   "83 500 ₸"
   ],
   "img": "img/GP0747.jpg",
   "tg": null,
@@ -2093,7 +2093,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "8 700 ₽",
-   "48 000 ₸"
+   "48 500 ₸"
   ],
   "img": "img/GP0815.jpg",
   "tg": null,
@@ -2113,7 +2113,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 500 ₽",
-   "63 000 ₸"
+   "64 000 ₸"
   ],
   "img": "img/GP0746.jpg",
   "tg": null,
@@ -2133,7 +2133,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "7 700 ₽",
-   "42 000 ₸"
+   "42 500 ₸"
   ],
   "img": "img/GP0814.jpg",
   "tg": null,
@@ -2153,7 +2153,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 500 ₽",
-   "63 000 ₸"
+   "64 000 ₸"
   ],
   "img": "img/GP0745.jpg",
   "tg": null,
@@ -2173,7 +2173,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 300 ₽",
-   "73 000 ₸"
+   "74 000 ₸"
   ],
   "img": "img/GP0808.jpg",
   "tg": null,
@@ -2193,7 +2193,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 000 ₽",
-   "60 000 ₸"
+   "61 000 ₸"
   ],
   "img": "img/GP0744.jpg",
   "tg": null,
@@ -2213,7 +2213,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "14 000 ₽",
-   "76 500 ₸"
+   "77 500 ₸"
   ],
   "img": "img/GP0806.jpg",
   "tg": null,
@@ -2233,7 +2233,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 000 ₽",
-   "71 500 ₸"
+   "72 500 ₸"
   ],
   "img": "img/GP0743.jpg",
   "tg": null,
@@ -2253,7 +2253,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 300 ₽",
-   "73 000 ₸"
+   "74 000 ₸"
   ],
   "img": "img/GP0805.jpg",
   "tg": null,
@@ -2273,7 +2273,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 900 ₽",
-   "59 500 ₸"
+   "60 500 ₸"
   ],
   "img": "img/GP0741.jpg",
   "tg": null,
@@ -2293,7 +2293,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 900 ₽",
-   "76 500 ₸"
+   "77 500 ₸"
   ],
   "img": "img/GP0802.jpg",
   "tg": null,
@@ -2313,7 +2313,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 800 ₽",
-   "59 000 ₸"
+   "60 000 ₸"
   ],
   "img": "img/GP0740.jpg",
   "tg": null,
@@ -2333,7 +2333,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 300 ₽",
-   "73 000 ₸"
+   "74 000 ₸"
   ],
   "img": "img/GP0799.jpg",
   "tg": null,
@@ -2353,7 +2353,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 400 ₽",
-   "68 000 ₸"
+   "69 000 ₸"
   ],
   "img": "img/GP0739.jpg",
   "tg": null,
@@ -2372,8 +2372,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 211.0,
   "from": false,
   "local": [
-   "17 400 ₽",
-   "95 000 ₸"
+   "17 300 ₽",
+   "96 500 ₸"
   ],
   "img": "img/GP0797.jpg",
   "tg": null,
@@ -2393,7 +2393,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 200 ₽",
-   "56 000 ₸"
+   "57 000 ₸"
   ],
   "img": "img/GP0738.jpg",
   "tg": null,
@@ -2413,7 +2413,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "15 300 ₽",
-   "84 000 ₸"
+   "85 000 ₸"
   ],
   "img": "img/GP0796.jpg",
   "tg": null,
@@ -2433,7 +2433,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 900 ₽",
-   "59 500 ₸"
+   "60 500 ₸"
   ],
   "img": "img/GP0737.jpg",
   "tg": null,
@@ -2452,8 +2452,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 156.0,
   "from": false,
   "local": [
-   "12 900 ₽",
-   "70 500 ₸"
+   "12 800 ₽",
+   "71 500 ₸"
   ],
   "img": "img/GP0795.jpg",
   "tg": null,
@@ -2473,7 +2473,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 300 ₽",
-   "51 000 ₸"
+   "51 500 ₸"
   ],
   "img": "img/GP0731.jpg",
   "tg": null,
@@ -2493,7 +2493,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "17 300 ₽",
-   "94 500 ₸"
+   "96 000 ₸"
   ],
   "img": "img/GP0793.jpg",
   "tg": null,
@@ -2512,8 +2512,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 128.0,
   "from": false,
   "local": [
-   "10 600 ₽",
-   "58 000 ₸"
+   "10 500 ₽",
+   "58 500 ₸"
   ],
   "img": "img/GP0730.jpg",
   "tg": null,
@@ -2533,7 +2533,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 000 ₽",
-   "71 500 ₸"
+   "72 500 ₸"
   ],
   "img": "img/GP0792.jpg",
   "tg": null,
@@ -2553,7 +2553,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 100 ₽",
-   "55 000 ₸"
+   "56 000 ₸"
   ],
   "img": "img/GP0728.jpg",
   "tg": null,
@@ -2572,8 +2572,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 167.0,
   "from": false,
   "local": [
-   "13 800 ₽",
-   "75 500 ₸"
+   "13 700 ₽",
+   "76 500 ₸"
   ],
   "img": "img/GP0791.jpg",
   "tg": null,
@@ -2593,7 +2593,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 200 ₽",
-   "50 000 ₸"
+   "51 000 ₸"
   ],
   "img": "img/GP0727.jpg",
   "tg": null,
@@ -2612,8 +2612,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 278.0,
   "from": false,
   "local": [
-   "22 900 ₽",
-   "125 500 ₸"
+   "22 800 ₽",
+   "127 000 ₸"
   ],
   "img": "img/GP0788.jpg",
   "tg": null,
@@ -2633,7 +2633,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 000 ₽",
-   "66 000 ₸"
+   "67 000 ₸"
   ],
   "img": "img/GP0726.jpg",
   "tg": null,
@@ -2652,8 +2652,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 311.0,
   "from": false,
   "local": [
-   "25 600 ₽",
-   "140 000 ₸"
+   "25 500 ₽",
+   "142 000 ₸"
   ],
   "img": "img/GP0786.jpg",
   "tg": null,
@@ -2672,8 +2672,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 117.0,
   "from": false,
   "local": [
-   "9 700 ₽",
-   "53 000 ₸"
+   "9 600 ₽",
+   "53 500 ₸"
   ],
   "img": "img/GP0725.jpg",
   "tg": null,
@@ -2693,7 +2693,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "20 600 ₽",
-   "113 000 ₸"
+   "114 500 ₸"
   ],
   "img": "img/GP0783.jpg",
   "tg": null,
@@ -2713,7 +2713,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 500 ₽",
-   "57 500 ₸"
+   "58 000 ₸"
   ],
   "img": "img/GP0724.jpg",
   "tg": null,
@@ -2733,7 +2733,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 000 ₽",
-   "71 500 ₸"
+   "72 500 ₸"
   ],
   "img": "img/GP0779.jpg",
   "tg": null,
@@ -2753,7 +2753,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 700 ₽",
-   "58 500 ₸"
+   "59 500 ₸"
   ],
   "img": "img/GP0723.jpg",
   "tg": null,
@@ -2773,7 +2773,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "19 900 ₽",
-   "109 000 ₸"
+   "110 500 ₸"
   ],
   "img": "img/GP0778.jpg",
   "tg": null,
@@ -2793,7 +2793,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 300 ₽",
-   "62 000 ₸"
+   "62 500 ₸"
   ],
   "img": "img/GP0721.jpg",
   "tg": null,
@@ -2813,7 +2813,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 300 ₽",
-   "72 500 ₸"
+   "73 500 ₸"
   ],
   "img": "img/GP0776.jpg",
   "tg": null,
@@ -2833,7 +2833,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "16 700 ₽",
-   "91 500 ₸"
+   "93 000 ₸"
   ],
   "img": "img/GP0718.jpg",
   "tg": null,
@@ -2853,7 +2853,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 000 ₽",
-   "71 500 ₸"
+   "72 500 ₸"
   ],
   "img": "img/GP0773.jpg",
   "tg": null,
@@ -2873,7 +2873,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 000 ₽",
-   "60 000 ₸"
+   "61 000 ₸"
   ],
   "img": "img/GP0714.jpg",
   "tg": null,
@@ -2893,7 +2893,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 500 ₽",
-   "52 000 ₸"
+   "52 500 ₸"
   ],
   "img": "img/GP0767.jpg",
   "tg": null,
@@ -2913,7 +2913,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 100 ₽",
-   "55 500 ₸"
+   "56 500 ₸"
   ],
   "img": "img/GP0713.jpg",
   "tg": null,
@@ -2933,7 +2933,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 800 ₽",
-   "59 000 ₸"
+   "60 000 ₸"
   ],
   "img": "img/GP0766.jpg",
   "tg": null,
@@ -2953,7 +2953,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 100 ₽",
-   "55 500 ₸"
+   "56 500 ₸"
   ],
   "img": "img/GP0709.jpg",
   "tg": null,
@@ -2973,7 +2973,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 800 ₽",
-   "76 000 ₸"
+   "77 000 ₸"
   ],
   "img": "img/GP0659.jpg",
   "tg": null,
@@ -2993,7 +2993,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "27 100 ₽",
-   "148 500 ₸"
+   "150 500 ₸"
   ],
   "img": "img/GP0708.jpg",
   "tg": null,
@@ -3013,7 +3013,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 400 ₽",
-   "73 500 ₸"
+   "74 500 ₸"
   ],
   "img": "img/GP0658.jpg",
   "tg": null,
@@ -3033,7 +3033,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "15 000 ₽",
-   "82 000 ₸"
+   "83 000 ₸"
   ],
   "img": "img/GP0704.jpg",
   "tg": null,
@@ -3053,7 +3053,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 200 ₽",
-   "61 500 ₸"
+   "62 000 ₸"
   ],
   "img": "img/GP0635.jpg",
   "tg": "https://t.me/grabpair/547",
@@ -3073,7 +3073,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 600 ₽",
-   "63 500 ₸"
+   "64 500 ₸"
   ],
   "img": "img/GP0618.jpg",
   "tg": null,
@@ -3093,7 +3093,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "14 300 ₽",
-   "78 500 ₸"
+   "79 500 ₸"
   ],
   "img": "img/GP0633.jpg",
   "tg": "https://t.me/grabpair/541",
@@ -3113,7 +3113,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "22 800 ₽",
-   "125 000 ₸"
+   "126 500 ₸"
   ],
   "img": "img/GP0611.jpg",
   "tg": null,
@@ -3133,7 +3133,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 400 ₽",
-   "51 500 ₸"
+   "52 000 ₸"
   ],
   "img": "img/GP0632.jpg",
   "tg": "https://t.me/grabpair/535",
@@ -3153,7 +3153,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "17 800 ₽",
-   "97 500 ₸"
+   "98 500 ₸"
   ],
   "img": "img/GP0610.jpg",
   "tg": null,
@@ -3173,7 +3173,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 900 ₽",
-   "59 500 ₸"
+   "60 500 ₸"
   ],
   "img": "img/GP0630.jpg",
   "tg": "https://t.me/grabpair/529",
@@ -3193,7 +3193,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 500 ₽",
-   "74 000 ₸"
+   "75 000 ₸"
   ],
   "img": "img/GP0609.jpg",
   "tg": null,
@@ -3213,7 +3213,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 600 ₽",
-   "58 500 ₸"
+   "59 000 ₸"
   ],
   "img": "img/GP0629.jpg",
   "tg": "https://t.me/grabpair/523",
@@ -3233,7 +3233,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "22 500 ₽",
-   "123 500 ₸"
+   "125 000 ₸"
   ],
   "img": "img/GP0608.jpg",
   "tg": null,
@@ -3253,7 +3253,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 600 ₽",
-   "63 500 ₸"
+   "64 500 ₸"
   ],
   "img": "img/GP0628.jpg",
   "tg": "https://t.me/grabpair/517",
@@ -3273,7 +3273,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "18 800 ₽",
-   "103 500 ₸"
+   "104 500 ₸"
   ],
   "img": "img/GP0604.jpg",
   "tg": null,
@@ -3293,7 +3293,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 000 ₽",
-   "66 000 ₸"
+   "67 000 ₸"
   ],
   "img": "img/GP0627.jpg",
   "tg": "https://t.me/grabpair/511",
@@ -3313,7 +3313,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "20 700 ₽",
-   "113 500 ₸"
+   "115 000 ₸"
   ],
   "img": "img/GP0571.jpg",
   "tg": null,
@@ -3333,7 +3333,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 900 ₽",
-   "54 000 ₸"
+   "55 000 ₸"
   ],
   "img": "img/GP0626.jpg",
   "tg": "https://t.me/grabpair/505",
@@ -3353,7 +3353,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 300 ₽",
-   "73 000 ₸"
+   "74 000 ₸"
   ],
   "img": "img/GP0565.jpg",
   "tg": null,
@@ -3373,7 +3373,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 400 ₽",
-   "73 500 ₸"
+   "74 500 ₸"
   ],
   "img": "img/GP0625.jpg",
   "tg": "https://t.me/grabpair/499",
@@ -3393,7 +3393,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 400 ₽",
-   "73 500 ₸"
+   "74 500 ₸"
   ],
   "img": "img/GP0563.jpg",
   "tg": null,
@@ -3412,8 +3412,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 200.0,
   "from": false,
   "local": [
-   "16 500 ₽",
-   "90 000 ₸"
+   "16 400 ₽",
+   "91 500 ₸"
   ],
   "img": "img/GP0624.jpg",
   "tg": "https://t.me/grabpair/493",
@@ -3433,7 +3433,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "21 300 ₽",
-   "117 000 ₸"
+   "118 500 ₸"
   ],
   "img": "img/GP0542.jpg",
   "tg": null,
@@ -3453,7 +3453,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "7 400 ₽",
-   "40 500 ₸"
+   "41 500 ₸"
   ],
   "img": "img/GP0623.jpg",
   "tg": "https://t.me/grabpair/487",
@@ -3473,7 +3473,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "19 500 ₽",
-   "107 000 ₸"
+   "108 500 ₸"
   ],
   "img": "img/GP0531.jpg",
   "tg": null,
@@ -3492,8 +3492,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 139.0,
   "from": false,
   "local": [
-   "11 500 ₽",
-   "63 000 ₸"
+   "11 400 ₽",
+   "63 500 ₸"
   ],
   "img": "img/GP0622.jpg",
   "tg": "https://t.me/grabpair/200",
@@ -3512,8 +3512,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 456.0,
   "from": false,
   "local": [
-   "37 500 ₽",
-   "205 500 ₸"
+   "37 400 ₽",
+   "208 000 ₸"
   ],
   "img": "img/GP0530.jpg",
   "tg": null,
@@ -3533,7 +3533,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 400 ₽",
-   "68 000 ₸"
+   "69 000 ₸"
   ],
   "img": "img/GP0620.jpg",
   "tg": "https://t.me/grabpair/129",
@@ -3553,7 +3553,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 000 ₽",
-   "54 500 ₸"
+   "55 500 ₸"
   ],
   "img": "img/GP0527.jpg",
   "tg": null,
@@ -3572,8 +3572,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 100.0,
   "from": false,
   "local": [
-   "8 300 ₽",
-   "45 000 ₸"
+   "8 200 ₽",
+   "46 000 ₸"
   ],
   "img": "img/GP0619.jpg",
   "tg": "https://t.me/grabpair/123",
@@ -3593,7 +3593,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "21 800 ₽",
-   "119 500 ₸"
+   "121 000 ₸"
   ],
   "img": "img/GP0516.jpg",
   "tg": null,
@@ -3613,7 +3613,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 200 ₽",
-   "61 500 ₸"
+   "62 000 ₸"
   ],
   "img": "img/GP0615.jpg",
   "tg": "https://t.me/grabpair/110",
@@ -3633,7 +3633,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "21 200 ₽",
-   "116 500 ₸"
+   "118 000 ₸"
   ],
   "img": "img/GP0502.jpg",
   "tg": null,
@@ -3653,7 +3653,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "8 600 ₽",
-   "47 000 ₸"
+   "47 500 ₸"
   ],
   "img": "img/GP0583.jpg",
   "tg": "https://t.me/grabpair/483",
@@ -3673,7 +3673,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 700 ₽",
-   "53 500 ₸"
+   "54 000 ₸"
   ],
   "img": "img/GP0501.jpg",
   "tg": null,
@@ -3693,7 +3693,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "17 200 ₽",
-   "94 500 ₸"
+   "95 500 ₸"
   ],
   "img": "img/GP0582.jpg",
   "tg": "https://t.me/grabpair/477",
@@ -3713,7 +3713,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "22 400 ₽",
-   "122 500 ₸"
+   "124 000 ₸"
   ],
   "img": "img/GP0474.jpg",
   "tg": null,
@@ -3733,7 +3733,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 300 ₽",
-   "73 000 ₸"
+   "74 000 ₸"
   ],
   "img": "img/GP0579.jpg",
   "tg": "https://t.me/grabpair/471",
@@ -3753,7 +3753,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 400 ₽",
-   "57 000 ₸"
+   "57 500 ₸"
   ],
   "img": "img/GP0473.jpg",
   "tg": null,
@@ -3773,7 +3773,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 700 ₽",
-   "64 000 ₸"
+   "65 000 ₸"
   ],
   "img": "img/GP0576.jpg",
   "tg": "https://t.me/grabpair/78",
@@ -3793,7 +3793,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 900 ₽",
-   "65 500 ₸"
+   "66 500 ₸"
   ],
   "img": "img/GP0472.jpg",
   "tg": null,
@@ -3812,8 +3812,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 89.0,
   "from": false,
   "local": [
-   "7 400 ₽",
-   "40 500 ₸"
+   "7 300 ₽",
+   "41 000 ₸"
   ],
   "img": "img/GP0562.jpg",
   "tg": "https://t.me/grabpair/470",
@@ -3833,7 +3833,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 800 ₽",
-   "76 000 ₸"
+   "77 000 ₸"
   ],
   "img": "img/GP0470.jpg",
   "tg": null,
@@ -3853,7 +3853,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 300 ₽",
-   "56 500 ₸"
+   "57 000 ₸"
   ],
   "img": "img/GP0560.jpg",
   "tg": "https://t.me/grabpair/104",
@@ -3873,7 +3873,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 300 ₽",
-   "72 500 ₸"
+   "73 500 ₸"
   ],
   "img": "img/GP0450.jpg",
   "tg": null,
@@ -3893,7 +3893,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 000 ₽",
-   "71 500 ₸"
+   "72 500 ₸"
   ],
   "img": "img/GP0559.jpg",
   "tg": "https://t.me/grabpair/464",
@@ -3913,7 +3913,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 200 ₽",
-   "72 000 ₸"
+   "73 000 ₸"
   ],
   "img": "img/GP0447.jpg",
   "tg": null,
@@ -3933,7 +3933,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "16 300 ₽",
-   "89 500 ₸"
+   "90 500 ₸"
   ],
   "img": "img/GP0554.jpg",
   "tg": "https://t.me/grabpair/458",
@@ -3953,7 +3953,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "21 300 ₽",
-   "117 000 ₸"
+   "118 500 ₸"
   ],
   "img": "img/GP0428.jpg",
   "tg": null,
@@ -3973,7 +3973,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 300 ₽",
-   "67 500 ₸"
+   "68 000 ₸"
   ],
   "img": "img/GP0552.jpg",
   "tg": "https://t.me/grabpair/456",
@@ -3993,7 +3993,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "19 600 ₽",
-   "107 500 ₸"
+   "108 500 ₸"
   ],
   "img": "img/GP0427.jpg",
   "tg": null,
@@ -4013,7 +4013,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 300 ₽",
-   "62 000 ₸"
+   "62 500 ₸"
   ],
   "img": "img/GP0548.jpg",
   "tg": "https://t.me/grabpair/98",
@@ -4033,7 +4033,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "18 300 ₽",
-   "100 000 ₸"
+   "101 500 ₸"
   ],
   "img": "img/GP0426.jpg",
   "tg": null,
@@ -4053,7 +4053,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "18 100 ₽",
-   "99 000 ₸"
+   "100 500 ₸"
   ],
   "img": "img/GP0541.jpg",
   "tg": "https://t.me/grabpair/97",
@@ -4073,7 +4073,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "21 700 ₽",
-   "119 000 ₸"
+   "120 500 ₸"
   ],
   "img": "img/GP0425.jpg",
   "tg": null,
@@ -4093,7 +4093,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "7 300 ₽",
-   "40 000 ₸"
+   "40 500 ₸"
   ],
   "img": "img/GP0540.jpg",
   "tg": "https://t.me/grabpair/450",
@@ -4113,7 +4113,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "8 500 ₽",
-   "46 500 ₸"
+   "47 000 ₸"
   ],
   "img": "img/GP0420.jpg",
   "tg": null,
@@ -4133,7 +4133,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 200 ₽",
-   "67 000 ₸"
+   "67 500 ₸"
   ],
   "img": "img/GP0539.jpg",
   "tg": "https://t.me/grabpair/444",
@@ -4153,7 +4153,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "14 100 ₽",
-   "77 000 ₸"
+   "78 000 ₸"
   ],
   "img": "img/GP0419.jpg",
   "tg": null,
@@ -4173,7 +4173,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 700 ₽",
-   "53 500 ₸"
+   "54 000 ₸"
   ],
   "img": "img/GP0538.jpg",
   "tg": "https://t.me/grabpair/439",
@@ -4193,7 +4193,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "7 600 ₽",
-   "41 500 ₸"
+   "42 000 ₸"
   ],
   "img": "img/GP0418.jpg",
   "tg": null,
@@ -4213,7 +4213,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 100 ₽",
-   "61 000 ₸"
+   "62 000 ₸"
   ],
   "img": "img/GP0536.jpg",
   "tg": "https://t.me/grabpair/433",
@@ -4233,7 +4233,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 300 ₽",
-   "67 500 ₸"
+   "68 000 ₸"
   ],
   "img": "img/GP0417.jpg",
   "tg": null,
@@ -4253,7 +4253,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 900 ₽",
-   "65 500 ₸"
+   "66 500 ₸"
   ],
   "img": "img/GP0526.jpg",
   "tg": "https://t.me/grabpair/432",
@@ -4272,8 +4272,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 217.0,
   "from": false,
   "local": [
-   "17 900 ₽",
-   "98 000 ₸"
+   "17 800 ₽",
+   "99 000 ₸"
   ],
   "img": "img/GP0416.jpg",
   "tg": null,
@@ -4293,7 +4293,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 100 ₽",
-   "61 000 ₸"
+   "62 000 ₸"
   ],
   "img": "img/GP0525.jpg",
   "tg": "https://t.me/grabpair/426",
@@ -4313,7 +4313,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "18 300 ₽",
-   "100 000 ₸"
+   "101 500 ₸"
   ],
   "img": "img/GP0415.jpg",
   "tg": null,
@@ -4333,7 +4333,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 000 ₽",
-   "60 500 ₸"
+   "61 500 ₸"
   ],
   "img": "img/GP0523.jpg",
   "tg": "https://t.me/grabpair/420",
@@ -4353,7 +4353,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 900 ₽",
-   "65 500 ₸"
+   "66 500 ₸"
   ],
   "img": "img/GP0414.jpg",
   "tg": null,
@@ -4373,7 +4373,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 900 ₽",
-   "65 500 ₸"
+   "66 500 ₸"
   ],
   "img": "img/GP0519.jpg",
   "tg": "https://t.me/grabpair/116",
@@ -4393,7 +4393,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "22 600 ₽",
-   "124 000 ₸"
+   "125 500 ₸"
   ],
   "img": "img/GP0390.jpg",
   "tg": null,
@@ -4413,7 +4413,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "7 200 ₽",
-   "39 500 ₸"
+   "40 000 ₸"
   ],
   "img": "img/GP0515.jpg",
   "tg": "https://t.me/grabpair/415",
@@ -4433,7 +4433,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "19 100 ₽",
-   "104 500 ₸"
+   "106 000 ₸"
   ],
   "img": "img/GP0389.jpg",
   "tg": null,
@@ -4453,7 +4453,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 700 ₽",
-   "53 500 ₸"
+   "54 000 ₸"
   ],
   "img": "img/GP0514.jpg",
   "tg": "https://t.me/grabpair/409",
@@ -4473,7 +4473,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "20 600 ₽",
-   "113 000 ₸"
+   "114 500 ₸"
   ],
   "img": "img/GP0388.jpg",
   "tg": null,
@@ -4493,7 +4493,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 800 ₽",
-   "59 000 ₸"
+   "60 000 ₸"
   ],
   "img": "img/GP0513.jpg",
   "tg": "https://t.me/grabpair/408",
@@ -4513,7 +4513,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "36 800 ₽",
-   "202 000 ₸"
+   "204 500 ₸"
   ],
   "img": "img/GP0387.jpg",
   "tg": null,
@@ -4533,7 +4533,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 900 ₽",
-   "65 500 ₸"
+   "66 500 ₸"
   ],
   "img": "img/GP0512.jpg",
   "tg": "https://t.me/grabpair/403",
@@ -4553,7 +4553,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 500 ₽",
-   "68 500 ₸"
+   "69 500 ₸"
   ],
   "img": "img/GP0386.jpg",
   "tg": null,
@@ -4573,7 +4573,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 300 ₽",
-   "62 000 ₸"
+   "62 500 ₸"
   ],
   "img": "img/GP0511.jpg",
   "tg": "https://t.me/grabpair/397",
@@ -4593,7 +4593,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 600 ₽",
-   "63 500 ₸"
+   "64 500 ₸"
   ],
   "img": "img/GP0384.jpg",
   "tg": null,
@@ -4613,7 +4613,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 700 ₽",
-   "53 500 ₸"
+   "54 000 ₸"
   ],
   "img": "img/GP0507.jpg",
   "tg": "https://t.me/grabpair/393",
@@ -4633,7 +4633,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 500 ₽",
-   "68 500 ₸"
+   "69 500 ₸"
   ],
   "img": "img/GP0382.jpg",
   "tg": null,
@@ -4653,7 +4653,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 000 ₽",
-   "49 500 ₸"
+   "50 000 ₸"
   ],
   "img": "img/GP0495.jpg",
   "tg": "https://t.me/grabpair/387",
@@ -4673,7 +4673,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "7 400 ₽",
-   "40 500 ₸"
+   "41 500 ₸"
   ],
   "img": "img/GP0381.jpg",
   "tg": null,
@@ -4693,7 +4693,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "7 900 ₽",
-   "43 500 ₸"
+   "44 000 ₸"
   ],
   "img": "img/GP0493.jpg",
   "tg": "https://t.me/grabpair/386",
@@ -4713,7 +4713,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "20 800 ₽",
-   "114 000 ₸"
+   "115 500 ₸"
   ],
   "img": "img/GP0366.jpg",
   "tg": null,
@@ -4733,7 +4733,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 900 ₽",
-   "65 500 ₸"
+   "66 500 ₸"
   ],
   "img": "img/GP0491.jpg",
   "tg": "https://t.me/grabpair/380",
@@ -4753,7 +4753,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 900 ₽",
-   "59 500 ₸"
+   "60 500 ₸"
   ],
   "img": "img/GP0364.jpg",
   "tg": null,
@@ -4773,7 +4773,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "8 700 ₽",
-   "48 000 ₸"
+   "48 500 ₸"
   ],
   "img": "img/GP0490.jpg",
   "tg": "https://t.me/grabpair/374",
@@ -4793,7 +4793,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 900 ₽",
-   "59 500 ₸"
+   "60 500 ₸"
   ],
   "img": "img/GP0362.jpg",
   "tg": null,
@@ -4813,7 +4813,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 600 ₽",
-   "58 500 ₸"
+   "59 000 ₸"
   ],
   "img": "img/GP0488.jpg",
   "tg": "https://t.me/grabpair/368",
@@ -4833,7 +4833,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 700 ₽",
-   "69 500 ₸"
+   "70 500 ₸"
   ],
   "img": "img/GP0361.jpg",
   "tg": null,
@@ -4853,7 +4853,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "8 300 ₽",
-   "45 500 ₸"
+   "46 500 ₸"
   ],
   "img": "img/GP0480.jpg",
   "tg": "https://t.me/grabpair/363",
@@ -4872,8 +4872,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 167.0,
   "from": false,
   "local": [
-   "13 800 ₽",
-   "75 500 ₸"
+   "13 700 ₽",
+   "76 500 ₸"
   ],
   "img": "img/GP0360.jpg",
   "tg": null,
@@ -4892,8 +4892,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 100.0,
   "from": false,
   "local": [
-   "8 300 ₽",
-   "45 000 ₸"
+   "8 200 ₽",
+   "46 000 ₸"
   ],
   "img": "img/GP0469.jpg",
   "tg": "https://t.me/grabpair/357",
@@ -4913,7 +4913,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 800 ₽",
-   "59 000 ₸"
+   "60 000 ₸"
   ],
   "img": "img/GP0359.jpg",
   "tg": null,
@@ -4932,8 +4932,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 128.0,
   "from": false,
   "local": [
-   "10 600 ₽",
-   "58 000 ₸"
+   "10 500 ₽",
+   "58 500 ₸"
   ],
   "img": "img/GP0468.jpg",
   "tg": "https://t.me/grabpair/351",
@@ -4953,7 +4953,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "20 900 ₽",
-   "114 500 ₸"
+   "116 000 ₸"
   ],
   "img": "img/GP0347.jpg",
   "tg": null,
@@ -4973,7 +4973,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 800 ₽",
-   "59 000 ₸"
+   "60 000 ₸"
   ],
   "img": "img/GP0466.jpg",
   "tg": "https://t.me/grabpair/345",
@@ -4993,7 +4993,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 700 ₽",
-   "69 500 ₸"
+   "70 500 ₸"
   ],
   "img": "img/GP0346.jpg",
   "tg": null,
@@ -5013,7 +5013,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 200 ₽",
-   "56 000 ₸"
+   "57 000 ₸"
   ],
   "img": "img/GP0457.jpg",
   "tg": "https://t.me/grabpair/343",
@@ -5033,7 +5033,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 600 ₽",
-   "74 500 ₸"
+   "75 500 ₸"
   ],
   "img": "img/GP0345.jpg",
   "tg": null,
@@ -5053,7 +5053,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "14 000 ₽",
-   "76 500 ₸"
+   "77 500 ₸"
   ],
   "img": "img/GP0442.jpg",
   "tg": "https://t.me/grabpair/337",
@@ -5073,7 +5073,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "19 300 ₽",
-   "106 000 ₸"
+   "107 500 ₸"
   ],
   "img": "img/GP0329.jpg",
   "tg": null,
@@ -5093,7 +5093,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "15 400 ₽",
-   "84 500 ₸"
+   "85 500 ₸"
   ],
   "img": "img/GP0441.jpg",
   "tg": "https://t.me/grabpair/336",
@@ -5113,7 +5113,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 100 ₽",
-   "55 500 ₸"
+   "56 500 ₸"
   ],
   "img": "img/GP0326.jpg",
   "tg": null,
@@ -5133,7 +5133,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 600 ₽",
-   "63 500 ₸"
+   "64 500 ₸"
   ],
   "img": "img/GP0438.jpg",
   "tg": "https://t.me/grabpair/331",
@@ -5153,7 +5153,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "14 100 ₽",
-   "77 000 ₸"
+   "78 000 ₸"
   ],
   "img": "img/GP0323.jpg",
   "tg": null,
@@ -5173,7 +5173,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 000 ₽",
-   "54 500 ₸"
+   "55 500 ₸"
   ],
   "img": "img/GP0436.jpg",
   "tg": "https://t.me/grabpair/325",
@@ -5193,7 +5193,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 200 ₽",
-   "67 000 ₸"
+   "67 500 ₸"
   ],
   "img": "img/GP0322.jpg",
   "tg": null,
@@ -5213,7 +5213,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 000 ₽",
-   "54 500 ₸"
+   "55 500 ₸"
   ],
   "img": "img/GP0434.jpg",
   "tg": "https://t.me/grabpair/320",
@@ -5233,7 +5233,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "14 000 ₽",
-   "76 500 ₸"
+   "77 500 ₸"
   ],
   "img": "img/GP0305.jpg",
   "tg": null,
@@ -5253,7 +5253,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 900 ₽",
-   "71 000 ₸"
+   "72 000 ₸"
   ],
   "img": "img/GP0411.jpg",
   "tg": "https://t.me/grabpair/319",
@@ -5273,7 +5273,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 700 ₽",
-   "75 000 ₸"
+   "76 000 ₸"
   ],
   "img": "img/GP0304.jpg",
   "tg": null,
@@ -5293,7 +5293,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "15 000 ₽",
-   "82 000 ₸"
+   "83 000 ₸"
   ],
   "img": "img/GP0410.jpg",
   "tg": "https://t.me/grabpair/313",
@@ -5312,8 +5312,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 245.0,
   "from": false,
   "local": [
-   "20 200 ₽",
-   "110 500 ₸"
+   "20 100 ₽",
+   "112 000 ₸"
   ],
   "img": "img/GP0275.jpg",
   "tg": null,
@@ -5333,7 +5333,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 500 ₽",
-   "68 500 ₸"
+   "69 500 ₸"
   ],
   "img": "img/GP0405.jpg",
   "tg": "https://t.me/grabpair/307",
@@ -5353,7 +5353,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "21 800 ₽",
-   "119 500 ₸"
+   "121 000 ₸"
   ],
   "img": "img/GP0274.jpg",
   "tg": null,
@@ -5373,7 +5373,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 400 ₽",
-   "57 000 ₸"
+   "57 500 ₸"
   ],
   "img": "img/GP0404.jpg",
   "tg": "https://t.me/grabpair/93",
@@ -5393,7 +5393,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 900 ₽",
-   "76 500 ₸"
+   "77 500 ₸"
   ],
   "img": "img/GP0273.jpg",
   "tg": null,
@@ -5413,7 +5413,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 800 ₽",
-   "54 000 ₸"
+   "54 500 ₸"
   ],
   "img": "img/GP0401.jpg",
   "tg": "https://t.me/grabpair/72",
@@ -5433,7 +5433,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "18 900 ₽",
-   "103 500 ₸"
+   "105 000 ₸"
   ],
   "img": "img/GP0268.jpg",
   "tg": null,
@@ -5453,7 +5453,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 100 ₽",
-   "55 500 ₸"
+   "56 500 ₸"
   ],
   "img": "img/GP0379.jpg",
   "tg": "https://t.me/grabpair/304",
@@ -5473,7 +5473,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 700 ₽",
-   "75 000 ₸"
+   "76 000 ₸"
   ],
   "img": "img/GP0264.jpg",
   "tg": null,
@@ -5493,7 +5493,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 300 ₽",
-   "73 000 ₸"
+   "74 000 ₸"
   ],
   "img": "img/GP0374.jpg",
   "tg": "https://t.me/grabpair/66",
@@ -5513,7 +5513,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 500 ₽",
-   "74 000 ₸"
+   "75 000 ₸"
   ],
   "img": "img/GP0258.jpg",
   "tg": null,
@@ -5533,7 +5533,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 400 ₽",
-   "51 500 ₸"
+   "52 000 ₸"
   ],
   "img": "img/GP0357.jpg",
   "tg": "https://t.me/grabpair/298",
@@ -5553,7 +5553,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 000 ₽",
-   "54 500 ₸"
+   "55 500 ₸"
   ],
   "img": "img/GP0241.jpg",
   "tg": null,
@@ -5573,7 +5573,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 900 ₽",
-   "54 000 ₸"
+   "55 000 ₸"
   ],
   "img": "img/GP0354.jpg",
   "tg": "https://t.me/grabpair/294",
@@ -5592,8 +5592,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 518.0,
   "from": false,
   "local": [
-   "42 600 ₽",
-   "233 500 ₸"
+   "42 500 ₽",
+   "236 500 ₸"
   ],
   "img": "img/GP0240.jpg",
   "tg": null,
@@ -5613,7 +5613,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 600 ₽",
-   "58 500 ₸"
+   "59 000 ₸"
   ],
   "img": "img/GP0337.jpg",
   "tg": "https://t.me/grabpair/288",
@@ -5633,7 +5633,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "22 500 ₽",
-   "123 500 ₸"
+   "125 000 ₸"
   ],
   "img": "img/GP0239.jpg",
   "tg": null,
@@ -5653,7 +5653,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "14 800 ₽",
-   "81 000 ₸"
+   "82 500 ₸"
   ],
   "img": "img/GP0321.jpg",
   "tg": "https://t.me/grabpair/60",
@@ -5673,7 +5673,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 400 ₽",
-   "57 000 ₸"
+   "57 500 ₸"
   ],
   "img": "img/GP0237.jpg",
   "tg": null,
@@ -5692,8 +5692,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 156.0,
   "from": false,
   "local": [
-   "12 900 ₽",
-   "70 500 ₸"
+   "12 800 ₽",
+   "71 500 ₸"
   ],
   "img": "img/GP0320.jpg",
   "tg": "https://t.me/grabpair/283",
@@ -5713,7 +5713,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 100 ₽",
-   "72 000 ₸"
+   "72 500 ₸"
   ],
   "img": "img/GP0235.jpg",
   "tg": null,
@@ -5733,7 +5733,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 300 ₽",
-   "62 000 ₸"
+   "62 500 ₸"
   ],
   "img": "img/GP0318.jpg",
   "tg": "https://t.me/grabpair/277",
@@ -5753,7 +5753,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "14 200 ₽",
-   "77 500 ₸"
+   "78 500 ₸"
   ],
   "img": "img/GP0234.jpg",
   "tg": null,
@@ -5773,7 +5773,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 300 ₽",
-   "67 500 ₸"
+   "68 000 ₸"
   ],
   "img": "img/GP0303.jpg",
   "tg": "https://t.me/grabpair/54",
@@ -5793,7 +5793,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 300 ₽",
-   "72 500 ₸"
+   "73 500 ₸"
   ],
   "img": "img/GP0233.jpg",
   "tg": null,
@@ -5813,7 +5813,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 100 ₽",
-   "55 500 ₸"
+   "56 500 ₸"
   ],
   "img": "img/GP0302.jpg",
   "tg": "https://t.me/grabpair/271",
@@ -5833,7 +5833,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 700 ₽",
-   "64 000 ₸"
+   "65 000 ₸"
   ],
   "img": "img/GP0231.jpg",
   "tg": null,
@@ -5853,7 +5853,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "16 100 ₽",
-   "88 500 ₸"
+   "89 500 ₸"
   ],
   "img": "img/GP0300.jpg",
   "tg": "https://t.me/grabpair/267",
@@ -5873,7 +5873,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 300 ₽",
-   "72 500 ₸"
+   "73 500 ₸"
   ],
   "img": "img/GP0230.jpg",
   "tg": null,
@@ -5893,7 +5893,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "6 800 ₽",
-   "37 000 ₸"
+   "37 500 ₸"
   ],
   "img": "img/GP0299.jpg",
   "tg": "https://t.me/grabpair/261",
@@ -5913,7 +5913,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "21 700 ₽",
-   "119 000 ₸"
+   "120 500 ₸"
   ],
   "img": "img/GP0204.jpg",
   "tg": null,
@@ -5933,7 +5933,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 500 ₽",
-   "57 500 ₸"
+   "58 000 ₸"
   ],
   "img": "img/GP0286.jpg",
   "tg": "https://t.me/grabpair/255",
@@ -5953,7 +5953,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "24 600 ₽",
-   "135 000 ₸"
+   "136 500 ₸"
   ],
   "img": "img/GP0203.jpg",
   "tg": null,
@@ -5973,7 +5973,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 900 ₽",
-   "54 000 ₸"
+   "55 000 ₸"
   ],
   "img": "img/GP0255.jpg",
   "tg": "https://t.me/grabpair/48",
@@ -5993,7 +5993,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "26 400 ₽",
-   "144 500 ₸"
+   "146 500 ₸"
   ],
   "img": "img/GP0201.jpg",
   "tg": null,
@@ -6013,7 +6013,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "14 100 ₽",
-   "77 000 ₸"
+   "78 000 ₸"
   ],
   "img": "img/GP0227.jpg",
   "tg": "https://t.me/grabpair/42",
@@ -6033,7 +6033,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 700 ₽",
-   "58 500 ₸"
+   "59 500 ₸"
   ],
   "img": "img/GP0198.jpg",
   "tg": null,
@@ -6053,7 +6053,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 900 ₽",
-   "59 500 ₸"
+   "60 500 ₸"
   ],
   "img": "img/GP0224.jpg",
   "tg": "https://t.me/grabpair/249",
@@ -6073,7 +6073,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "25 700 ₽",
-   "141 000 ₸"
+   "143 000 ₸"
   ],
   "img": "img/GP0196.jpg",
   "tg": null,
@@ -6093,7 +6093,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 000 ₽",
-   "49 500 ₸"
+   "50 000 ₸"
   ],
   "img": "img/GP0221.jpg",
   "tg": "https://t.me/grabpair/243",
@@ -6113,7 +6113,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "8 500 ₽",
-   "46 500 ₸"
+   "47 000 ₸"
   ],
   "img": "img/GP0193.jpg",
   "tg": null,
@@ -6133,7 +6133,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 800 ₽",
-   "54 000 ₸"
+   "54 500 ₸"
   ],
   "img": "img/GP0217.jpg",
   "tg": "https://t.me/grabpair/90",
@@ -6153,7 +6153,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "23 200 ₽",
-   "127 000 ₸"
+   "129 000 ₸"
   ],
   "img": "img/GP0169.jpg",
   "tg": null,
@@ -6173,7 +6173,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "14 500 ₽",
-   "79 500 ₸"
+   "80 500 ₸"
   ],
   "img": "img/GP0191.jpg",
   "tg": "https://t.me/grabpair/237",
@@ -6192,8 +6192,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 245.0,
   "from": false,
   "local": [
-   "20 200 ₽",
-   "110 500 ₸"
+   "20 100 ₽",
+   "112 000 ₸"
   ],
   "img": "img/GP0168.jpg",
   "tg": null,
@@ -6213,7 +6213,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "14 300 ₽",
-   "78 500 ₸"
+   "79 500 ₸"
   ],
   "img": "img/GP0190.jpg",
   "tg": "https://t.me/grabpair/231",
@@ -6232,8 +6232,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 273.0,
   "from": false,
   "local": [
-   "22 500 ₽",
-   "123 000 ₸"
+   "22 400 ₽",
+   "124 500 ₸"
   ],
   "img": "img/GP0167.jpg",
   "tg": null,
@@ -6253,7 +6253,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 800 ₽",
-   "59 000 ₸"
+   "60 000 ₸"
   ],
   "img": "img/GP0189.jpg",
   "tg": "https://t.me/grabpair/230",
@@ -6273,7 +6273,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 000 ₽",
-   "60 000 ₸"
+   "61 000 ₸"
   ],
   "img": "img/GP0163.jpg",
   "tg": null,
@@ -6293,7 +6293,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 400 ₽",
-   "68 000 ₸"
+   "69 000 ₸"
   ],
   "img": "img/GP0179.jpg",
   "tg": "https://t.me/grabpair/36",
@@ -6312,8 +6312,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 178.0,
   "from": false,
   "local": [
-   "14 700 ₽",
-   "80 500 ₸"
+   "14 600 ₽",
+   "81 500 ₸"
   ],
   "img": "img/GP0161.jpg",
   "tg": null,
@@ -6333,7 +6333,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 400 ₽",
-   "51 500 ₸"
+   "52 000 ₸"
   ],
   "img": "img/GP0178.jpg",
   "tg": "https://t.me/grabpair/224",
@@ -6352,8 +6352,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 139.0,
   "from": false,
   "local": [
-   "11 500 ₽",
-   "63 000 ₸"
+   "11 400 ₽",
+   "63 500 ₸"
   ],
   "img": "img/GP0159.jpg",
   "tg": null,
@@ -6373,7 +6373,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "8 300 ₽",
-   "45 500 ₸"
+   "46 500 ₸"
   ],
   "img": "img/GP0155.jpg",
   "tg": "https://t.me/grabpair/218",
@@ -6393,7 +6393,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "20 000 ₽",
-   "109 500 ₸"
+   "111 000 ₸"
   ],
   "img": "img/GP0115.jpg",
   "tg": null,
@@ -6412,8 +6412,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 189.0,
   "from": false,
   "local": [
-   "15 600 ₽",
-   "85 500 ₸"
+   "15 500 ₽",
+   "86 500 ₸"
   ],
   "img": "img/GP0149.jpg",
   "tg": "https://t.me/grabpair/88",
@@ -6433,7 +6433,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "20 400 ₽",
-   "112 000 ₸"
+   "113 500 ₸"
   ],
   "img": "img/GP0114.jpg",
   "tg": null,
@@ -6453,7 +6453,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "14 100 ₽",
-   "77 000 ₸"
+   "78 000 ₸"
   ],
   "img": "img/GP0148.jpg",
   "tg": "https://t.me/grabpair/212",
@@ -6472,8 +6472,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 289.0,
   "from": false,
   "local": [
-   "23 800 ₽",
-   "130 500 ₸"
+   "23 700 ₽",
+   "132 000 ₸"
   ],
   "img": "img/GP0113.jpg",
   "tg": null,
@@ -6493,7 +6493,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "17 300 ₽",
-   "94 500 ₸"
+   "96 000 ₸"
   ],
   "img": "img/GP0147.jpg",
   "tg": "https://t.me/grabpair/194",
@@ -6513,7 +6513,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "21 700 ₽",
-   "119 000 ₸"
+   "120 500 ₸"
   ],
   "img": "img/GP0112.jpg",
   "tg": null,
@@ -6533,7 +6533,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 200 ₽",
-   "56 000 ₸"
+   "57 000 ₸"
   ],
   "img": "img/GP0136.jpg",
   "tg": "https://t.me/grabpair/188",
@@ -6552,8 +6552,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 239.0,
   "from": false,
   "local": [
-   "19 700 ₽",
-   "108 000 ₸"
+   "19 600 ₽",
+   "109 000 ₸"
   ],
   "img": "img/GP0111.jpg",
   "tg": null,
@@ -6573,7 +6573,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 700 ₽",
-   "58 500 ₸"
+   "59 500 ₸"
   ],
   "img": "img/GP0134.jpg",
   "tg": "https://t.me/grabpair/182",
@@ -6593,7 +6593,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "23 600 ₽",
-   "129 500 ₸"
+   "131 000 ₸"
   ],
   "img": "img/GP0107.jpg",
   "tg": null,
@@ -6613,7 +6613,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 700 ₽",
-   "69 500 ₸"
+   "70 500 ₸"
   ],
   "img": "img/GP0058.jpg",
   "tg": "https://t.me/grabpair/176",
@@ -6633,7 +6633,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "18 800 ₽",
-   "103 500 ₸"
+   "104 500 ₸"
   ],
   "img": "img/GP0105.jpg",
   "tg": null,
@@ -6653,7 +6653,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "8 700 ₽",
-   "48 000 ₸"
+   "48 500 ₸"
   ],
   "img": "img/GP0055.jpg",
   "tg": "https://t.me/grabpair/170",
@@ -6673,7 +6673,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "21 200 ₽",
-   "116 500 ₸"
+   "118 000 ₸"
   ],
   "img": "img/GP0104.jpg",
   "tg": null,
@@ -6692,8 +6692,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 295.0,
   "from": false,
   "local": [
-   "24 300 ₽",
-   "133 000 ₸"
+   "24 200 ₽",
+   "134 500 ₸"
   ],
   "img": "img/GP0053.jpg",
   "tg": "https://t.me/grabpair/24",
@@ -6713,7 +6713,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "20 200 ₽",
-   "111 000 ₸"
+   "112 500 ₸"
   ],
   "img": "img/GP0101.jpg",
   "tg": null,
@@ -6733,7 +6733,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 000 ₽",
-   "71 500 ₸"
+   "72 500 ₸"
   ],
   "img": "img/GP0052.jpg",
   "tg": "https://t.me/grabpair/30",
@@ -6753,7 +6753,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "19 800 ₽",
-   "108 500 ₸"
+   "110 000 ₸"
   ],
   "img": "img/GP0100.jpg",
   "tg": null,
@@ -6773,7 +6773,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 600 ₽",
-   "58 500 ₸"
+   "59 000 ₸"
   ],
   "img": "img/GP0049.jpg",
   "tg": "https://t.me/grabpair/155",
@@ -6793,7 +6793,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "24 800 ₽",
-   "136 000 ₸"
+   "138 000 ₸"
   ],
   "img": "img/GP0099.jpg",
   "tg": null,
@@ -6813,7 +6813,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 700 ₽",
-   "53 500 ₸"
+   "54 000 ₸"
   ],
   "img": "img/GP0041.jpg",
   "tg": "https://t.me/grabpair/149",
@@ -6833,7 +6833,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "20 900 ₽",
-   "114 500 ₸"
+   "116 000 ₸"
   ],
   "img": "img/GP0097.jpg",
   "tg": null,
@@ -6853,7 +6853,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 700 ₽",
-   "53 500 ₸"
+   "54 000 ₸"
   ],
   "img": "img/GP0040.jpg",
   "tg": "https://t.me/grabpair/141",
@@ -6873,7 +6873,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 000 ₽",
-   "60 500 ₸"
+   "61 500 ₸"
   ],
   "img": "img/GP0096.jpg",
   "tg": null,
@@ -6893,7 +6893,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 000 ₽",
-   "54 500 ₸"
+   "55 500 ₸"
   ],
   "img": "img/GP0039.jpg",
   "tg": "https://t.me/grabpair/82",
@@ -6913,7 +6913,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 000 ₽",
-   "66 000 ₸"
+   "67 000 ₸"
   ],
   "img": "img/GP0094.jpg",
   "tg": null,
@@ -6933,7 +6933,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 300 ₽",
-   "62 000 ₸"
+   "62 500 ₸"
   ],
   "img": "img/GP0036.jpg",
   "tg": "https://t.me/grabpair/143",
@@ -6952,8 +6952,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 128.0,
   "from": false,
   "local": [
-   "10 600 ₽",
-   "58 000 ₸"
+   "10 500 ₽",
+   "58 500 ₸"
   ],
   "img": "img/GP0091.jpg",
   "tg": null,
@@ -6973,7 +6973,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 100 ₽",
-   "66 500 ₸"
+   "67 000 ₸"
   ],
   "img": "img/GP0033.jpg",
   "tg": "https://t.me/grabpair/80",
@@ -6993,7 +6993,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 000 ₽",
-   "54 500 ₸"
+   "55 500 ₸"
   ],
   "img": "img/GP0088.jpg",
   "tg": null,
@@ -7013,7 +7013,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "11 400 ₽",
-   "62 500 ₸"
+   "63 000 ₸"
   ],
   "img": "img/GP0030.jpg",
   "tg": "https://t.me/grabpair/164",
@@ -7033,7 +7033,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 100 ₽",
-   "55 000 ₸"
+   "56 000 ₸"
   ],
   "img": "img/GP0087.jpg",
   "tg": null,
@@ -7053,7 +7053,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 600 ₽",
-   "58 500 ₸"
+   "59 000 ₸"
   ],
   "img": "img/GP0027.jpg",
   "tg": "https://t.me/grabpair/158",
@@ -7073,7 +7073,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 600 ₽",
-   "69 000 ₸"
+   "70 000 ₸"
   ],
   "img": "img/GP0084.jpg",
   "tg": null,
@@ -7093,7 +7093,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "15 100 ₽",
-   "83 000 ₸"
+   "84 000 ₸"
   ],
   "img": "img/GP0025.jpg",
   "tg": "https://t.me/grabpair/206",
@@ -7113,7 +7113,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 500 ₽",
-   "57 500 ₸"
+   "58 000 ₸"
   ],
   "img": "img/GP0082.jpg",
   "tg": null,
@@ -7133,7 +7133,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "9 800 ₽",
-   "54 000 ₸"
+   "54 500 ₸"
   ],
   "img": "img/GP0016.jpg",
   "tg": "https://t.me/grabpair/135",
@@ -7152,8 +7152,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 128.0,
   "from": false,
   "local": [
-   "10 600 ₽",
-   "58 000 ₸"
+   "10 500 ₽",
+   "58 500 ₸"
   ],
   "img": "img/GP0081.jpg",
   "tg": null,
@@ -7173,7 +7173,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 600 ₽",
-   "69 000 ₸"
+   "70 000 ₸"
   ],
   "img": "img/GP0010.jpg",
   "tg": "https://t.me/grabpair/18",
@@ -7193,7 +7193,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "15 400 ₽",
-   "84 500 ₸"
+   "85 500 ₸"
   ],
   "img": "img/GP0080.jpg",
   "tg": null,
@@ -7215,7 +7215,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "12 100 ₽",
-   "66 500 ₸"
+   "67 000 ₸"
   ],
   "img": "img/GP0009.jpg",
   "tg": "https://t.me/grabpair/15",
@@ -7235,7 +7235,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 000 ₽",
-   "54 500 ₸"
+   "55 500 ₸"
   ],
   "img": "img/GP0079.jpg",
   "tg": null,
@@ -7257,7 +7257,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "10 700 ₽",
-   "58 500 ₸"
+   "59 500 ₸"
   ],
   "img": "img/GP0008.jpg",
   "tg": "https://t.me/grabpair/6",
@@ -7277,7 +7277,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "19 600 ₽",
-   "107 500 ₸"
+   "108 500 ₸"
   ],
   "img": "img/GP0078.jpg",
   "tg": null,
@@ -7297,7 +7297,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "19 900 ₽",
-   "109 000 ₸"
+   "110 500 ₸"
   ],
   "img": "img/GP0076.jpg",
   "tg": null,
@@ -7317,7 +7317,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "14 900 ₽",
-   "81 500 ₸"
+   "82 500 ₸"
   ],
   "img": "img/GP0075.jpg",
   "tg": null,
@@ -7336,8 +7336,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 150.0,
   "from": false,
   "local": [
-   "12 400 ₽",
-   "67 500 ₸"
+   "12 300 ₽",
+   "68 500 ₸"
   ],
   "img": "img/GP0074.jpg",
   "tg": null,
@@ -7357,7 +7357,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "13 900 ₽",
-   "76 500 ₸"
+   "77 500 ₸"
   ],
   "img": "img/GP0073.jpg",
   "tg": null,
@@ -7377,7 +7377,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "18 500 ₽",
-   "101 500 ₸"
+   "103 000 ₸"
   ],
   "img": "img/GP0072.jpg",
   "tg": null,
@@ -7396,8 +7396,8 @@ window.GRABPAIR_PRODUCTS = [
   "usd": 234.0,
   "from": false,
   "local": [
-   "19 300 ₽",
-   "105 500 ₸"
+   "19 200 ₽",
+   "107 000 ₸"
   ],
   "img": "img/GP0069.jpg",
   "tg": null,
@@ -7417,7 +7417,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "15 000 ₽",
-   "82 000 ₸"
+   "83 000 ₸"
   ],
   "img": "img/GP0068.jpg",
   "tg": null,
@@ -7437,7 +7437,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "14 500 ₽",
-   "79 500 ₸"
+   "80 500 ₸"
   ],
   "img": "img/GP0065.jpg",
   "tg": null,
@@ -7457,7 +7457,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "16 100 ₽",
-   "88 500 ₸"
+   "89 500 ₸"
   ],
   "img": "img/GP0064.jpg",
   "tg": null,
@@ -7477,7 +7477,7 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "47 800 ₽",
-   "262 000 ₸"
+   "265 500 ₸"
   ],
   "img": "img/GP0062.jpg",
   "tg": null,
@@ -7497,12 +7497,12 @@ window.GRABPAIR_PRODUCTS = [
   "from": false,
   "local": [
    "16 200 ₽",
-   "89 000 ₸"
+   "90 000 ₸"
   ],
   "img": "img/GP0061.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0061%20Adidas%20Cold.rdy%20Boot%20GY4382%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
  }
 ];
-window.GRABPAIR_RATES = {"USD": 1.0, "RUB": 82.062616, "KZT": 449.946365, "UZS": 11987.908877, "KGS": 87.451126, "BYN": 2.995302};
+window.GRABPAIR_RATES = {"USD": 1.0, "RUB": 81.988351, "KZT": 455.698773, "UZS": 11921.409559, "KGS": 87.469301, "BYN": 2.993982};
 window.GRABPAIR_CURRENCIES = [{"code": "USD", "sign": "$", "step": 1}, {"code": "RUB", "sign": "₽", "step": 100}, {"code": "KZT", "sign": "₸", "step": 500}, {"code": "UZS", "sign": "сум", "step": 10000}, {"code": "KGS", "sign": "сом", "step": 100}, {"code": "BYN", "sign": "BYN", "step": 1}];
