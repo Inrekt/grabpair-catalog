@@ -1,5 +1,25 @@
 window.GRABPAIR_PRODUCTS = [
  {
+  "id": 930,
+  "sku": "GP0930",
+  "brand": "Under Armour",
+  "gender": "men",
+  "category": "shoes",
+  "name": "Under Armour Under Armour Curry 3028115-001",
+  "article": "3028115-001",
+  "sizes": [],
+  "anySize": true,
+  "usd": 328.0,
+  "from": false,
+  "local": [
+   "26 900 ₽",
+   "149 500 ₸"
+  ],
+  "img": "img/GP0930.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0930%20Under%20Armour%20Under%20Armour%20Curry%203028115-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 927,
   "sku": "GP0927",
   "brand": "Puma",
