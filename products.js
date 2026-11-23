@@ -1,5 +1,25 @@
 window.GRABPAIR_PRODUCTS = [
  {
+  "id": 858,
+  "sku": "GP0858",
+  "brand": "Under Armour",
+  "gender": "unisex",
+  "category": "shoes",
+  "name": "Under Armour Under Armour 3026620-100",
+  "article": "3026620-100",
+  "sizes": [],
+  "anySize": true,
+  "usd": 144.0,
+  "from": false,
+  "local": [
+   "11 900 ₽",
+   "65 000 ₸"
+  ],
+  "img": "img/GP0858.jpg",
+  "tg": null,
+  "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0858%20Under%20Armour%20Under%20Armour%203026620-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
+ },
+ {
   "id": 857,
   "sku": "GP0857",
   "brand": "Puma",
