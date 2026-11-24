@@ -4749,11 +4749,11 @@ window.GRABPAIR_PRODUCTS = [
   "article": "IH1698-003",
   "sizes": [],
   "anySize": true,
-  "usd": 162.0,
+  "usd": 147.0,
   "from": false,
   "local": [
-   "13 300 ₽",
-   "74 000 ₸"
+   "12 100 ₽",
+   "67 000 ₸"
   ],
   "img": "img/GP0579.jpg",
   "tg": "https://t.me/grabpair/471",
@@ -5029,11 +5029,11 @@ window.GRABPAIR_PRODUCTS = [
   "article": "HF5441-100",
   "sizes": [],
   "anySize": true,
-  "usd": 137.0,
+  "usd": 134.0,
   "from": false,
   "local": [
-   "11 300 ₽",
-   "62 500 ₸"
+   "11 000 ₽",
+   "61 500 ₸"
   ],
   "img": "img/GP0548.jpg",
   "tg": "https://t.me/grabpair/98",
