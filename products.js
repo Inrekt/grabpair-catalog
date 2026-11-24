@@ -2709,11 +2709,11 @@ window.GRABPAIR_PRODUCTS = [
   "article": "DN1791-500",
   "sizes": [],
   "anySize": true,
-  "usd": 113.0,
+  "usd": 109.0,
   "from": false,
   "local": [
-   "9 300 ₽",
-   "51 500 ₸"
+   "9 000 ₽",
+   "50 000 ₸"
   ],
   "img": "img/GP0818.jpg",
   "tg": null,
