@@ -125,6 +125,12 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
 .tile .n{display:block;overflow-wrap:anywhere;font-weight:500;font-size:15px;line-height:1.35}
 .tile .s{display:block;color:var(--muted);font-size:14px;line-height:1.4}
 .tile .p{display:block;font-weight:700;font-size:15px;margin-top:8px}
+.tile .ph{position:relative}
+.tile .flag{position:absolute;left:8px;top:8px;background:var(--text);color:var(--bg);font-size:12px;font-weight:600;padding:3px 8px;border-radius:999px}
+.tile .was{display:inline-block;white-space:nowrap}
+.tile .old{font-weight:400;color:var(--muted)}
+.tile .off{font-weight:600;color:#d33918}
+.tabs a.sale[aria-current=true]{color:#d33918;border-bottom-color:#d33918}
 .empty{padding:80px 0;text-align:center;color:var(--muted)}
 .empty b{display:block;color:var(--text);font-size:20px;font-weight:500;margin-bottom:6px}
 
@@ -192,6 +198,7 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
     <a href="#men" data-g="men">Мужское <span class="c"></span></a>
     <a href="#women" data-g="women">Женское <span class="c"></span></a>
     <a href="#unisex" data-g="unisex">Унисекс <span class="c"></span></a>
+    <a href="#sale" data-g="sale" class="sale">🔥 Распродажа <span class="c"></span></a>
   </nav>
 
   <div class="layout">
@@ -325,7 +332,7 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
                         "42", "42.5", "43", "44", "44.5", "45", "46"];
   /* pure helpers (also run in node by the tests) */
   var LETTER_SIZES = ["XS", "S", "M", "L", "XL", "XXL"];
-  var GENDERS = ["all", "men", "women", "unisex"];
+  var GENDERS = ["all", "men", "women", "unisex", "sale"];   // "sale": hot deals + last sizes
   function catOf(p) { return p.category === "clothing" ? "clothing" : "shoes"; }
   function hasClothing(items) { return items.some(function (p) { return catOf(p) === "clothing"; }); }
   // clothing: XS..XXL; shoes: the usual EU run; both plus anything the products really have
@@ -381,7 +388,8 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
 
   function matches(p, skipGender) {
     if (catOf(p) !== state.cat) return false;
-    if (!skipGender && state.gender !== "all" && p.gender !== state.gender) return false;
+    if (!skipGender && state.gender === "sale" && !p.sale) return false;
+    if (!skipGender && state.gender !== "all" && state.gender !== "sale" && p.gender !== state.gender) return false;
     var q = state.q.trim().toLowerCase().replace(/[\s-]+/g, "");
     var hay = (p.name + p.article + p.sku).toLowerCase().replace(/[\s-]+/g, "");
     if (q && hay.indexOf(q) < 0) return false;
@@ -403,7 +411,17 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
     var text = el("span", "t");
     text.appendChild(el("span", "n", p.name));
     text.appendChild(el("span", "s", p.article ? p.sku + " · " + p.article : p.sku));
-    text.appendChild(el("span", "p", priceText(p, state.cur)));
+    var price = el("span", "p", priceText(p, state.cur));
+    if (p.marketUsd) {   // hot deal: the market price crossed out and the discount, on their own
+      var was = el("span", "was");   // line when the tile is narrow (review 24.11: it overflowed)
+      was.appendChild(el("s", "old", fmt(conv(p.marketUsd, state.cur), state.cur)));
+      was.appendChild(document.createTextNode(" "));
+      was.appendChild(el("span", "off", "−" + Math.round((1 - p.usd / p.marketUsd) * 100) + "%"));
+      price.appendChild(document.createTextNode(" "));
+      price.appendChild(was);
+    }
+    text.appendChild(price);
+    if (p.hot) ph.appendChild(el("span", "flag", "🔥 Горящее"));
     t.appendChild(ph); t.appendChild(text);
     t.onclick = function () { openProduct(p, true); };
     return t;
@@ -411,11 +429,12 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
 
   // each tab shows how many products it would show with the other filters kept
   function paintTabs() {
-    var counts = {all: 0, men: 0, women: 0, unisex: 0};
+    var counts = {all: 0, men: 0, women: 0, unisex: 0, sale: 0};
     ALL.forEach(function (p) {
       if (!matches(p, true)) return;
       counts.all++;
       if (counts[p.gender] !== undefined) counts[p.gender]++;
+      if (p.sale) counts.sale++;
     });
     Array.prototype.forEach.call($("tabs").querySelectorAll("a"), function (a) {
       var g = a.getAttribute("data-g");
@@ -479,6 +498,9 @@ select.pill{appearance:none;-webkit-appearance:none;padding-right:34px;backgroun
       info.appendChild(el("div", "m-any", "Любой — подберём"));
     }
     var badges = el("ul", "m-badges");
+    if (p.hot) badges.appendChild(el("li", "", p.marketUsd
+      ? "🔥 Горящее предложение: дешевле рынка на " + Math.round((1 - p.usd / p.marketUsd) * 100) + "%"
+      : "🔥 Горящее предложение — количество ограничено"));
     badges.appendChild(el("li", "", "✅ Оригинал · гарантия подлинности"));
     badges.appendChild(el("li", "", "📦 Гарантия доставки"));
     info.appendChild(badges);

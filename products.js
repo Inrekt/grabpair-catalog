@@ -15,6 +15,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 500 ₽",
    "75 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP1020.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP1020%20Adidas%20Adizero%20EVO%20SL%20JR4888%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -35,6 +38,9 @@ window.GRABPAIR_PRODUCTS = [
    "18 300 ₽",
    "101 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP1001.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP1001%20Under%20Armour%20Under%20Armour%203028498-280%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -55,6 +61,9 @@ window.GRABPAIR_PRODUCTS = [
    "16 000 ₽",
    "88 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0996.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0996%20Puma%20Suede%20396451-10%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -75,6 +84,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 700 ₽",
    "65 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0993.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0993%20Nike%20Air%20Force%201%20%C2%B7%20IZ4702-235%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -95,6 +107,9 @@ window.GRABPAIR_PRODUCTS = [
    "6 900 ₽",
    "38 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP1019.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP1019%20Adidas%20Duramo%20SL%20FY6681%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -115,6 +130,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 000 ₽",
    "55 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0998.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0998%20Under%20Armour%20Under%20Armour%20Curry%203027723-101%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -135,6 +153,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 900 ₽",
    "60 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0995.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0995%20Puma%20Speedcat%20OG%20398846-02%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -155,6 +176,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 200 ₽",
    "57 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0986.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0986%20Nike%20Air%20Jordan%20%C2%B7%20553558-136%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -175,6 +199,9 @@ window.GRABPAIR_PRODUCTS = [
    "15 100 ₽",
    "84 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP1018.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP1018%20Adidas%20Solarboost%2019%20FW7814%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -195,6 +222,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 800 ₽",
    "65 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0997.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0997%20Under%20Armour%20Under%20Armour%20Curry%203026274-101%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -215,6 +245,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 000 ₽",
    "55 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0994.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0994%20Puma%20Speedcat%20OG%20398846-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -235,6 +268,9 @@ window.GRABPAIR_PRODUCTS = [
    "8 100 ₽",
    "45 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0984.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0984%20Nike%20Air%20Force%201%20%C2%B7%20DH2920-111%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -255,6 +291,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 800 ₽",
    "54 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP1017.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP1017%20Adidas%20Campus%2000S%20JQ4111%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -275,6 +314,9 @@ window.GRABPAIR_PRODUCTS = [
    "26 900 ₽",
    "149 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0930.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0930%20Under%20Armour%20Under%20Armour%20Curry%203028115-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -295,6 +337,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 200 ₽",
    "67 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0927.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0927%20Puma%20AIl-Pro%20Nitro%20379081-03%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -315,6 +360,9 @@ window.GRABPAIR_PRODUCTS = [
    "18 200 ₽",
    "101 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0983.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0983%20Nike%20Kobe%20%C2%B7%20IM0542-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -335,6 +383,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 200 ₽",
    "51 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP1016.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP1016%20Adidas%20Jabbar%20LO%20JI3431%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -355,6 +406,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 900 ₽",
    "66 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0858.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0858%20Under%20Armour%20Under%20Armour%203026620-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -375,6 +429,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 600 ₽",
    "53 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0926.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0926%20Puma%20Sneakers%20404456-19%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -395,6 +452,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 400 ₽",
    "63 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0981.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0981%20Nike%20Air%20Jordan%20%C2%B7%20IQ5493-600%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -415,6 +475,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 900 ₽",
    "55 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP1015.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP1015%20Adidas%20Forum%20LOW%20CL%20LA3801%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -435,6 +498,9 @@ window.GRABPAIR_PRODUCTS = [
    "22 400 ₽",
    "124 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0703.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0703%20Under%20Armour%20Underarmour%20S%20S%203028193-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -455,6 +521,9 @@ window.GRABPAIR_PRODUCTS = [
    "15 700 ₽",
    "87 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0857.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0857%20Puma%20Suede%20395205-02%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -475,6 +544,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 900 ₽",
    "66 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0980.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0980%20Nike%20S%20T%20Charge%20%C2%B7%20IW1897-400%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -495,6 +567,9 @@ window.GRABPAIR_PRODUCTS = [
    "8 700 ₽",
    "48 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP1011.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP1011%20Adidas%20Centennial%20RM%20IH3071%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -515,6 +590,9 @@ window.GRABPAIR_PRODUCTS = [
    "19 000 ₽",
    "105 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0700.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0700%20Under%20Armour%20Underarmour%20F%20W%203027983-465%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -535,6 +613,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 500 ₽",
    "58 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0854.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0854%20Puma%20Sneakers%20408243-03%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -555,6 +636,9 @@ window.GRABPAIR_PRODUCTS = [
    "22 900 ₽",
    "127 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0979.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0979%20Nike%20Running%20Shoes%20%C2%B7%20HF6414-800%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -575,6 +659,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 300 ₽",
    "62 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP1010.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP1010%20Adidas%20Superstar%20II%20KJ9947%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -595,6 +682,9 @@ window.GRABPAIR_PRODUCTS = [
    "19 100 ₽",
    "106 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0699.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0699%20Under%20Armour%20Underarmour%20F%20W%203027983-500%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -615,6 +705,9 @@ window.GRABPAIR_PRODUCTS = [
    "28 100 ₽",
    "156 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0693.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0693%20Puma%20Suede%20405345-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -635,6 +728,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 400 ₽",
    "63 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0978.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0978%20Nike%20Pegasus%20%C2%B7%20IB1873-110%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -655,6 +751,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 800 ₽",
    "71 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP1009.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP1009%20Adidas%20Brain%20Dead%20Forest%20Hills%20JR7943%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -675,6 +774,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 900 ₽",
    "60 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0698.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0698%20Under%20Armour%20Under%20Armour%203027502-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -695,6 +797,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 900 ₽",
    "72 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0692.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0692%20Puma%20Suede%20399781-02%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -715,6 +820,9 @@ window.GRABPAIR_PRODUCTS = [
    "21 400 ₽",
    "118 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0976.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0976%20Nike%20Vomero%20Premium%20%C2%B7%20HQ2050-104%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -735,6 +843,9 @@ window.GRABPAIR_PRODUCTS = [
    "8 800 ₽",
    "49 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP1008.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP1008%20Adidas%20Centennial%20RM%20IH3066%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -755,6 +866,9 @@ window.GRABPAIR_PRODUCTS = [
    "31 500 ₽",
    "175 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0697.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0697%20Under%20Armour%20Under%20Armour%203028496-494%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -775,6 +889,9 @@ window.GRABPAIR_PRODUCTS = [
    "23 300 ₽",
    "129 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0690.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0690%20Puma%20Suede%20396468-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -795,6 +912,9 @@ window.GRABPAIR_PRODUCTS = [
    "6 900 ₽",
    "38 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0975.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0975%20Nike%20Downshifter%2014%20%C2%B7%20IB1895-201%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -815,6 +935,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 400 ₽",
    "57 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP1007.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP1007%20Adidas%20Superstar%20II%20KH8023%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -835,6 +958,9 @@ window.GRABPAIR_PRODUCTS = [
    "17 100 ₽",
    "95 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0696.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0696%20Under%20Armour%20Under%20Armour%203027629-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -855,6 +981,9 @@ window.GRABPAIR_PRODUCTS = [
    "20 100 ₽",
    "111 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0689.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0689%20Puma%20Suede%20399781-03%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -875,6 +1004,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 200 ₽",
    "73 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0965.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0965%20Nike%20Vomero%20%C2%B7%20HM6804-005%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -895,6 +1027,9 @@ window.GRABPAIR_PRODUCTS = [
    "25 600 ₽",
    "142 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP1006.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP1006%20Adidas%20AV%20Decon%20Superstar%20KI0733%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -915,6 +1050,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 300 ₽",
    "51 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0695.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0695%20Under%20Armour%20UA%20ChargedBanditTR2%203024186-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -935,6 +1073,9 @@ window.GRABPAIR_PRODUCTS = [
    "23 100 ₽",
    "128 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0688.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0688%20Puma%20Army%20Trainer%20Suede%20388156-09%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -955,6 +1096,9 @@ window.GRABPAIR_PRODUCTS = [
    "15 500 ₽",
    "86 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0962.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0962%20Nike%20Vomero%20%C2%B7%20JA4407-101%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -975,6 +1119,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 600 ₽",
    "53 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP1005.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP1005%20Adidas%20Sesame%20Street%20Grand%20Court%20GX3691%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -995,6 +1142,9 @@ window.GRABPAIR_PRODUCTS = [
    "14 600 ₽",
    "81 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0685.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0685%20Puma%20Suede%20399781-15%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1015,6 +1165,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 300 ₽",
    "74 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0961.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0961%20Nike%20Vomero%20%C2%B7%20HM6804-402%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1035,6 +1188,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 600 ₽",
    "75 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP1003.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP1003%20Adidas%20Samba%20Decon%20IF0641%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1055,6 +1211,9 @@ window.GRABPAIR_PRODUCTS = [
    "34 600 ₽",
    "192 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0684.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0684%20Puma%20Suede%20397648-10%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1075,6 +1234,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 300 ₽",
    "62 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0957.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0957%20Nike%20Pegasus%20%C2%B7%20IB1881-602%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1095,6 +1257,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 200 ₽",
    "57 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP1002.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP1002%20Adidas%20Samba%20OG%20IE1417%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1115,6 +1280,9 @@ window.GRABPAIR_PRODUCTS = [
    "33 200 ₽",
    "184 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0683.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0683%20Puma%20Suede%20398708-02%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1135,6 +1303,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 800 ₽",
    "65 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0956.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0956%20Nike%20Pegasus%20%C2%B7%20IZ6178-101%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1155,6 +1326,9 @@ window.GRABPAIR_PRODUCTS = [
    "6 100 ₽",
    "34 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0941.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0941%20Adidas%20ALL%20DAY%20Essential%20IH6038%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1175,6 +1349,9 @@ window.GRABPAIR_PRODUCTS = [
    "23 100 ₽",
    "128 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0680.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0680%20Puma%20Suede%20368903-03%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1195,6 +1372,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 400 ₽",
    "63 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0954.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0954%20Nike%20Pegasus%20%C2%B7%20IB1873-107%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1215,6 +1395,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 300 ₽",
    "51 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0940.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0940%20Adidas%20Adizero%20RC%204%20LB9710%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1235,6 +1418,9 @@ window.GRABPAIR_PRODUCTS = [
    "14 100 ₽",
    "78 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0679.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0679%20Puma%20Mardi%20Mercredi%20Suede%20396259-02%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1255,6 +1441,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 500 ₽",
    "64 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0953.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0953%20Nike%20Pegasus%20%C2%B7%20IB1873-020%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1275,6 +1464,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 700 ₽",
    "54 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0939.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0939%20Adidas%20Campus%2000S%20JQ4109%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1295,6 +1487,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 400 ₽",
    "63 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0676.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0676%20Puma%20Sneakers%20407168-07%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1315,6 +1510,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 600 ₽",
    "75 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0952.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0952%20Nike%20Pegasus%20%C2%B7%20IW2349-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1335,6 +1533,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 800 ₽",
    "65 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0938.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0938%20Adidas%20Superstar%20II%20KJ7300%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1355,6 +1556,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 800 ₽",
    "65 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0674.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0674%20Puma%20Sneakers%20407307-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1375,6 +1579,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 400 ₽",
    "69 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0951.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0951%20Nike%20Air%20Jordan%20%C2%B7%20IW6276-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1395,6 +1602,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 100 ₽",
    "56 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0937.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0937%20Adidas%20Campus%2000S%20IF4339%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1415,6 +1625,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 200 ₽",
    "57 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0672.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0672%20Puma%20Sneakers%20407307-05%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1435,6 +1648,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 500 ₽",
    "75 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0950.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0950%20Nike%20Air%20Jordan%20%C2%B7%20BQ6472-160%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1455,6 +1671,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 300 ₽",
    "62 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0936.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0936%20Adidas%20Superstar%20II%20JP9677%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1475,6 +1694,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 400 ₽",
    "63 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0671.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0671%20Puma%20K-Street%20MA%20Suede%20409194-02%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1495,6 +1717,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 000 ₽",
    "55 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0949.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0949%20Nike%20Air%20Jordan%20%C2%B7%20DC0774-200%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1515,6 +1740,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 500 ₽",
    "58 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0935.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0935%20Adidas%20ADI2000%20HQ6916%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1535,6 +1763,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 900 ₽",
    "60 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0670.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0670%20Puma%20Suede%20Classic%20399781-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1555,6 +1786,9 @@ window.GRABPAIR_PRODUCTS = [
    "16 400 ₽",
    "91 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0946.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0946%20Nike%20Air%20Max%20%C2%B7%20849559-405%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1575,6 +1809,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 200 ₽",
    "62 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0934.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0934%20Adidas%20Superstar%20LO%20PRO%20KK0427%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1595,6 +1832,9 @@ window.GRABPAIR_PRODUCTS = [
    "15 700 ₽",
    "87 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0669.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0669%20Puma%20Club%20v5%20391131-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1615,6 +1855,9 @@ window.GRABPAIR_PRODUCTS = [
    "14 800 ₽",
    "82 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0945.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0945%20Nike%20Air%20Max%20%C2%B7%20FQ7860-002%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1635,6 +1878,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 100 ₽",
    "56 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0933.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0933%20Adidas%20Gazelle%20Indoor%20IE1051%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1655,6 +1901,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 300 ₽",
    "51 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0668.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0668%20Puma%20Caven%20404484-29%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1675,6 +1924,9 @@ window.GRABPAIR_PRODUCTS = [
    "15 700 ₽",
    "87 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0944.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0944%20Nike%20Dunk%20Low%20%C2%B7%20HF3704-003%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1695,6 +1947,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 100 ₽",
    "56 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0932.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0932%20Adidas%20Gazelle%20Indoor%20JR2430%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1715,6 +1970,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 500 ₽",
    "52 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0667.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0667%20Puma%20Sneakers%20408243-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1735,6 +1993,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 000 ₽",
    "61 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0942.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0942%20Nike%20Dunk%20Low%20%C2%B7%20IM6025-121%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1755,6 +2016,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 400 ₽",
    "57 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0931.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0931%20Adidas%20Gazelle%20Indoor%20KZ6951%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1775,6 +2039,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 900 ₽",
    "66 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0649.jpg",
   "tg": "https://t.me/grabpair/596",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0649%20Puma%20Suede%20403228-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1795,6 +2062,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 100 ₽",
    "56 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0922.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0922%20Nike%20Manoa%20Leather%20%C2%B7%20HF7095-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1815,6 +2085,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 400 ₽",
    "69 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0880.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0880%20Adidas%20Zyrion%20PRO%20LA6927%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1835,6 +2108,9 @@ window.GRABPAIR_PRODUCTS = [
    "24 600 ₽",
    "137 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0647.jpg",
   "tg": "https://t.me/grabpair/591",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0647%20Puma%20Suede%20Expedition%20395783-02%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1855,6 +2131,9 @@ window.GRABPAIR_PRODUCTS = [
    "7 800 ₽",
    "43 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0918.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0918%20Nike%20BIG%20Logo%20%C2%B7%20355152-106%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1875,6 +2154,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 500 ₽",
    "64 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0879.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0879%20Adidas%20Supernova%20GW9109%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1895,6 +2177,9 @@ window.GRABPAIR_PRODUCTS = [
    "19 400 ₽",
    "108 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0645.jpg",
   "tg": "https://t.me/grabpair/586",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0645%20Puma%20Suede%20387049-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1915,6 +2200,9 @@ window.GRABPAIR_PRODUCTS = [
    "19 200 ₽",
    "106 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0914.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0914%20Nike%20Air%20Jordan%20%C2%B7%20IB1519-200%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1935,6 +2223,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 100 ₽",
    "62 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0878.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0878%20Adidas%20Stan%20Smith%20XLG%20IF1579%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1955,6 +2246,9 @@ window.GRABPAIR_PRODUCTS = [
    "15 700 ₽",
    "87 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0643.jpg",
   "tg": "https://t.me/grabpair/582",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0643%20Puma%20Suede%20356414-03%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1975,6 +2269,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 300 ₽",
    "62 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0913.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0913%20Nike%20Sabrina%20Halloween%20EP%20%C2%B7%20IX7057-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -1995,6 +2292,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 600 ₽",
    "64 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0876.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0876%20Adidas%20FORUM2000%20JS3157%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2015,6 +2315,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 800 ₽",
    "71 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0641.jpg",
   "tg": "https://t.me/grabpair/577",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0641%20Puma%20Suede%20395205-12%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2035,6 +2338,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 600 ₽",
    "53 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0911.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0911%20Nike%20Air%20Jordan%20%C2%B7%20DC0774-008%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2055,6 +2361,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 000 ₽",
    "61 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0874.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0874%20Adidas%20Montreal%2076%20JR8372%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2075,6 +2384,9 @@ window.GRABPAIR_PRODUCTS = [
    "19 400 ₽",
    "108 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0640.jpg",
   "tg": "https://t.me/grabpair/573",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0640%20Puma%20Suede%20364391-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2095,6 +2407,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 300 ₽",
    "62 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0910.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0910%20Nike%20Sabrina%20%C2%B7%20II0403-101%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2115,6 +2430,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 200 ₽",
    "51 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0873.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0873%20Adidas%20Glenburn%20KJ5041%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2135,6 +2453,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 500 ₽",
    "52 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0639.jpg",
   "tg": "https://t.me/grabpair/568",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0639%20Puma%20SQUIDGAMExPUMA%20Suede%20399428-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2155,6 +2476,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 800 ₽",
    "60 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0909.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0909%20Nike%20Air%20Jordan%20%C2%B7%20IQ5494-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2175,6 +2499,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 700 ₽",
    "54 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0872.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0872%20Adidas%20Forum%20LOW%20HQ6335%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2195,6 +2522,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 800 ₽",
    "65 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0638.jpg",
   "tg": "https://t.me/grabpair/563",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0638%20Puma%20Suede%20352634-05%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2215,6 +2545,9 @@ window.GRABPAIR_PRODUCTS = [
    "18 100 ₽",
    "100 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0907.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0907%20Nike%20Running%20Shoes%20%C2%B7%20IR1229-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2235,6 +2568,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 200 ₽",
    "51 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0871.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0871%20Adidas%20Campus%2000S%20HQ8708%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2255,6 +2591,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 800 ₽",
    "71 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0637.jpg",
   "tg": "https://t.me/grabpair/558",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0637%20Puma%20PM%20407682-02%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2275,6 +2614,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 200 ₽",
    "57 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0903.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0903%20Nike%20Cortez%20%C2%B7%20IR0042-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2295,6 +2637,9 @@ window.GRABPAIR_PRODUCTS = [
    "18 500 ₽",
    "103 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0870.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0870%20Adidas%20Bape%20Sstr%20V%20JR2702%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2315,6 +2660,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 200 ₽",
    "62 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0636.jpg",
   "tg": "https://t.me/grabpair/553",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0636%20Puma%20Sneakers%20406329-01%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2335,6 +2683,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 300 ₽",
    "57 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0902.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0902%20Nike%20Blazer%20%C2%B7%20CU5283-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2355,6 +2706,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 800 ₽",
    "54 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0869.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0869%20Adidas%20Forum%20LOW%20CL%20LA3804%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2375,6 +2729,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 300 ₽",
    "74 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0893.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0893%20Nike%20Vomero%20%C2%B7%20HM6803-015%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2395,6 +2752,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 500 ₽",
    "58 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0868.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0868%20Adidas%20Drop%20Step%20SE%20GZ2572%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2415,6 +2775,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 200 ₽",
    "73 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0889.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0889%20Nike%20Vomero%2018%20%C2%B7%20IQ0458-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2435,6 +2798,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 200 ₽",
    "51 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0867.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0867%20Adidas%20Gazelle%20IE0546%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2455,6 +2821,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 100 ₽",
    "50 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0885.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0885%20Nike%20Air%20Jordan%20%C2%B7%20II3792-107%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2475,6 +2844,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 100 ₽",
    "56 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0866.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0866%20Adidas%20Gazelle%20Indoor%20JQ8395%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2495,6 +2867,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 300 ₽",
    "57 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0883.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0883%20Nike%20Air%20Jordan%20%C2%B7%20DH7381-110%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2515,6 +2890,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 700 ₽",
    "65 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0865.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0865%20Adidas%20Gazelle%20Indoor%20IG4994%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2535,6 +2913,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 400 ₽",
    "63 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0882.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0882%20Nike%20Air%20Jordan%20%C2%B7%20DQ8426-007%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2555,6 +2936,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 900 ₽",
    "60 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0863.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0863%20Adidas%20Samba%20OG%20IH9167%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2575,6 +2959,9 @@ window.GRABPAIR_PRODUCTS = [
    "18 700 ₽",
    "104 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0881.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0881%20Nike%20Air%20Max%20%C2%B7%20IR1944-400%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2595,6 +2982,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 900 ₽",
    "55 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0862.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0862%20Adidas%20Samba%20IG2339%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2615,6 +3005,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 300 ₽",
    "74 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0850.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0850%20Nike%20Dunk%20%C2%B7%20IB7746-300%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2635,6 +3028,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 500 ₽",
    "58 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0860.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0860%20Adidas%20Samba%20OG%20KI8888%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2655,6 +3051,9 @@ window.GRABPAIR_PRODUCTS = [
    "19 800 ₽",
    "110 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0844.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0844%20Nike%20Jordan%20City%20%C2%B7%20HV4580-202%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2675,6 +3074,9 @@ window.GRABPAIR_PRODUCTS = [
    "16 100 ₽",
    "89 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0765.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0765%20Adidas%20Hyperboost%20Ephr%20LA6211%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2695,6 +3097,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 600 ₽",
    "53 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0843.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0843%20Nike%20Jordan%20%C2%B7%20IF1611-104%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2715,6 +3120,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 400 ₽",
    "69 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0764.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0764%20Adidas%20Spiritain%202000%20GX6605%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2735,6 +3143,9 @@ window.GRABPAIR_PRODUCTS = [
    "20 100 ₽",
    "112 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0841.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0841%20Nike%20LeBron%2024%20%C2%B7%20IX5105-200%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2755,6 +3166,9 @@ window.GRABPAIR_PRODUCTS = [
    "8 100 ₽",
    "45 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0762.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0762%20Adidas%20Response%20Super%203.0%20IG0338%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2775,6 +3189,9 @@ window.GRABPAIR_PRODUCTS = [
    "18 900 ₽",
    "105 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0839.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0839%20Nike%20Jordan%20Air%2011%20%C2%B7%20FV5104-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2795,6 +3212,9 @@ window.GRABPAIR_PRODUCTS = [
    "23 600 ₽",
    "131 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0761.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0761%20Adidas%20Adizero%20Adios%20PRO%204%20M%20AMG%20KH8840%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2815,6 +3235,9 @@ window.GRABPAIR_PRODUCTS = [
    "18 500 ₽",
    "103 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0838.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0838%20Nike%20Jordan%20CJ1%20T-Rexx%20%C2%B7%20IM9113-300%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2835,6 +3258,9 @@ window.GRABPAIR_PRODUCTS = [
    "22 700 ₽",
    "126 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0759.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0759%20Adidas%20Dingyun%20Zhang%20Samba%20IE3176%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2855,6 +3281,9 @@ window.GRABPAIR_PRODUCTS = [
    "17 800 ₽",
    "99 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0837.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0837%20Nike%20Kobe%20Protro%20%C2%B7%20IM1820-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2875,6 +3304,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 800 ₽",
    "71 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0758.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0758%20Adidas%20Rivalry%20RM%20LOW%20FV4181%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2895,6 +3327,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 100 ₽",
    "62 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0836.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0836%20Nike%20JA%20Halloween%20EP%20%C2%B7%20IO7936-300%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2915,6 +3350,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 400 ₽",
    "57 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0756.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0756%20Adidas%20Mnufc%20X%20Familia%20Gazelle%20ADV%20IH0522%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2935,6 +3373,9 @@ window.GRABPAIR_PRODUCTS = [
    "21 600 ₽",
    "120 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0835.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0835%20Nike%20Foamposite%20Pro%20%C2%B7%20IV6246-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2955,6 +3396,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 100 ₽",
    "50 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0755.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0755%20Adidas%20Adimatic%20KI8879%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2975,6 +3419,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 300 ₽",
    "68 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0833.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0833%20Nike%20NikeZoo%20Kobe5ProtroDodgers%20GS%20%C2%B7%20IR1848-400%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -2995,6 +3442,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 400 ₽",
    "57 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0754.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0754%20Adidas%20ADI2000%20IF0395%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3015,6 +3465,9 @@ window.GRABPAIR_PRODUCTS = [
    "8 700 ₽",
    "48 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0831.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0831%20Nike%20Basketball%20Shoes%20%C2%B7%20HV9775-003%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3035,6 +3488,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 200 ₽",
    "51 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0753.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0753%20Adidas%20Campus%2000S%20JQ5733%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3055,6 +3511,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 000 ₽",
    "72 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0824.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0824%20Nike%20React%20%C2%B7%20IV5066-600%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3075,6 +3534,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 300 ₽",
    "73 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0752.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0752%20Adidas%20Forum%2084%20LOW%20AEC%20HP9543%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3095,6 +3557,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 400 ₽",
    "74 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0823.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0823%20Nike%20Structure%2026%20VIS%20%C2%B7%20IQ0457-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3115,6 +3580,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 400 ₽",
    "63 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0751.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0751%20Adidas%20Superstar%20II%20KJ6293%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3135,6 +3603,9 @@ window.GRABPAIR_PRODUCTS = [
    "7 000 ₽",
    "39 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0822.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0822%20Nike%20Revolution%20%C2%B7%20HQ2414-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3155,6 +3626,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 400 ₽",
    "57 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0750.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0750%20Adidas%20Forum%20JP9967%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3175,6 +3649,9 @@ window.GRABPAIR_PRODUCTS = [
    "8 500 ₽",
    "47 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0820.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0820%20Nike%20Cortez%20%C2%B7%20DZ2795-609%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3195,6 +3672,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 400 ₽",
    "52 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0749.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0749%20Adidas%20Campus%2000S%20JP6145%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3215,6 +3695,9 @@ window.GRABPAIR_PRODUCTS = [
    "7 900 ₽",
    "44 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0819.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0819%20Nike%20Cortez%20%C2%B7%20DN1791-108%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3235,6 +3718,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 200 ₽",
    "57 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0748.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0748%20Adidas%20Handball%20Spezial%20HQ5130%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3255,6 +3741,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 000 ₽",
    "50 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0818.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0818%20Nike%20Cortez%20%C2%B7%20DN1791-500%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3275,6 +3764,9 @@ window.GRABPAIR_PRODUCTS = [
    "15 100 ₽",
    "83 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0747.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0747%20Adidas%20Clot%20Gazelle%20OG%20BY%20Edison%20Chen%20IH3725%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3295,6 +3787,9 @@ window.GRABPAIR_PRODUCTS = [
    "8 700 ₽",
    "48 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0815.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0815%20Nike%20Cortez%20%C2%B7%20IB1857-002%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3315,6 +3810,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 500 ₽",
    "64 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0746.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0746%20Adidas%20Samba%20OG%20LA6441%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3335,6 +3833,9 @@ window.GRABPAIR_PRODUCTS = [
    "7 700 ₽",
    "42 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0814.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0814%20Nike%20Cortez%20%C2%B7%20DN1791-107%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3355,6 +3856,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 500 ₽",
    "64 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0745.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0745%20Adidas%20Forum%2084%20LOW%20GX9058%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3375,6 +3879,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 300 ₽",
    "74 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0808.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0808%20Nike%20Vomero%20%C2%B7%20HM6803-007%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3395,6 +3902,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 000 ₽",
    "61 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0744.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0744%20Adidas%20Forum%20LOW%20CL%20LA3803%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3415,6 +3925,9 @@ window.GRABPAIR_PRODUCTS = [
    "14 000 ₽",
    "77 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0806.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0806%20Nike%20Zoom%20%C2%B7%20FV2295-002%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3435,6 +3948,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 000 ₽",
    "72 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0743.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0743%20Adidas%20Rivalry%2086%20LOW%202.5%20IF3401%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3455,6 +3971,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 800 ₽",
    "71 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0805.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0805%20Nike%20Vomero%20%C2%B7%20HM6804-608%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3475,6 +3994,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 900 ₽",
    "60 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0741.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0741%20Adidas%20Superstar%20II%20LB9761%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3495,6 +4017,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 900 ₽",
    "77 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0802.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0802%20Nike%20Vomero%2018%20%C2%B7%20HM6803-114%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3515,6 +4040,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 800 ₽",
    "60 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0740.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0740%20Adidas%20Gazelle%2085%20GY2532%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3535,6 +4063,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 300 ₽",
    "74 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0799.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0799%20Nike%20Zoom%20%C2%B7%20FV2295-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3555,6 +4086,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 400 ₽",
    "69 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0739.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0739%20Adidas%20Gazelle%2085%20FZ5593%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3575,6 +4109,9 @@ window.GRABPAIR_PRODUCTS = [
    "17 300 ₽",
    "96 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0797.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0797%20Nike%20React%20%C2%B7%20HM6804-104%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3595,6 +4132,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 200 ₽",
    "57 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0738.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0738%20Adidas%20Gazelle%20IG0671%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3615,6 +4155,9 @@ window.GRABPAIR_PRODUCTS = [
    "15 300 ₽",
    "85 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0796.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0796%20Nike%20Vomero%20%C2%B7%20HV8150-112%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3635,6 +4178,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 900 ₽",
    "60 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0737.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0737%20Adidas%20Gazelle%20Indoor%20JR2431%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3655,6 +4201,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 800 ₽",
    "71 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0795.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0795%20Nike%20Vomero%20%C2%B7%20HM6803-115%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3675,6 +4224,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 300 ₽",
    "51 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0731.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0731%20Adidas%20Gazelle%20IE3691%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3695,6 +4247,9 @@ window.GRABPAIR_PRODUCTS = [
    "17 300 ₽",
    "96 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0793.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0793%20Nike%20Vomero%20%C2%B7%20IQ1040-500%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3715,6 +4270,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 500 ₽",
    "58 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0730.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0730%20Adidas%20Gazelle%20Indoor%20KZ6952%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3735,6 +4293,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 000 ₽",
    "72 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0792.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0792%20Nike%20Vomero%20%C2%B7%20IO9915-101%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3755,6 +4316,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 100 ₽",
    "56 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0728.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0728%20Adidas%20Gazelle%20IG6201%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3775,6 +4339,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 700 ₽",
    "76 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0791.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0791%20Nike%20Vomero%20%C2%B7%20IM8330-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3795,6 +4362,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 200 ₽",
    "51 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0727.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0727%20Adidas%20Gazelle%20BB5476%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3815,6 +4385,9 @@ window.GRABPAIR_PRODUCTS = [
    "22 800 ₽",
    "127 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0788.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0788%20Nike%20Pegasus%20%C2%B7%20HQ2593-301%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3835,6 +4408,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 000 ₽",
    "67 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0726.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0726%20Adidas%20Gazelle%20BB5478%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3855,6 +4431,9 @@ window.GRABPAIR_PRODUCTS = [
    "25 500 ₽",
    "142 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0786.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0786%20Nike%20Pegasus%20%C2%B7%20IR1811-664%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3875,6 +4454,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 600 ₽",
    "53 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0725.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0725%20Adidas%20Gazelle%20GY7339%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3895,6 +4477,9 @@ window.GRABPAIR_PRODUCTS = [
    "20 600 ₽",
    "114 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0783.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0783%20Nike%20Pegasus%20%C2%B7%20IZ0240-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3915,6 +4500,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 500 ₽",
    "58 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0724.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0724%20Adidas%20Gazelle%20Indoor%20JS1406%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3935,6 +4523,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 000 ₽",
    "72 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0779.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0779%20Nike%20Air%20Jordan%20%C2%B7%20IU2268-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3955,6 +4546,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 700 ₽",
    "59 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0723.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0723%20Adidas%20Gazelle%20Bold%20HQ6912%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3975,6 +4569,9 @@ window.GRABPAIR_PRODUCTS = [
    "19 900 ₽",
    "110 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0778.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0778%20Nike%20Air%20Jordan%20%C2%B7%20FV4227-202%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -3995,6 +4592,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 300 ₽",
    "62 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0721.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0721%20Adidas%20Samba%20OG%20KI6674%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4015,6 +4615,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 300 ₽",
    "73 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0776.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0776%20Nike%20Air%20Jordan%20%C2%B7%20DN8266-200%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4035,6 +4638,9 @@ window.GRABPAIR_PRODUCTS = [
    "16 700 ₽",
    "93 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0718.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0718%20Adidas%20Samba%20Spikeless%20Golf%20JH6151%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4055,6 +4661,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 000 ₽",
    "72 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0773.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0773%20Nike%20Air%20Force%201%20%C2%B7%20IV5103-600%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4075,6 +4684,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 000 ₽",
    "61 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0714.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0714%20Adidas%20Samba%20OG%20KZ7552%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4095,6 +4707,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 500 ₽",
    "52 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0767.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0767%20Nike%20Air%20Force%201%20%C2%B7%20FJ4146-007%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4115,6 +4730,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 100 ₽",
    "56 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0713.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0713%20Adidas%20Samba%20OG%20JI3201%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4135,6 +4753,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 800 ₽",
    "60 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0766.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0766%20Nike%20Dunk%20Low%20%C2%B7%20IO4244-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4155,6 +4776,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 100 ₽",
    "56 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0709.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0709%20Adidas%20Samba%20OG%20JH8798%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4175,6 +4799,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 800 ₽",
    "77 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0659.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0659%20Nike%20Air%20Force%201%20%C2%B7%20IV2857-010%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4195,6 +4822,9 @@ window.GRABPAIR_PRODUCTS = [
    "27 100 ₽",
    "150 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0708.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0708%20Adidas%20Wales%20Bonner%20Samba%20JH9826%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4215,6 +4845,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 400 ₽",
    "74 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0658.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0658%20Nike%20Air%20Force%201%20%C2%B7%20IV2857-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4235,6 +4868,9 @@ window.GRABPAIR_PRODUCTS = [
    "15 000 ₽",
    "83 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0704.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0704%20Adidas%20Samba%20Jane%20TOY%20Story%20LA1428%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4255,6 +4891,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 200 ₽",
    "62 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0635.jpg",
   "tg": "https://t.me/grabpair/547",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0635%20Nike%20Air%20Max%20%C2%B7%20859550-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4275,6 +4914,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 600 ₽",
    "64 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0618.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0618%20Adidas%20Hyperboost%20Lite%20KH6788%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4295,6 +4937,9 @@ window.GRABPAIR_PRODUCTS = [
    "14 300 ₽",
    "79 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0633.jpg",
   "tg": "https://t.me/grabpair/541",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0633%20Nike%20Air%20Force%201%20%C2%B7%20IZ1207-010%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4315,6 +4960,9 @@ window.GRABPAIR_PRODUCTS = [
    "22 800 ₽",
    "126 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0611.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0611%20Adidas%20Miaou%20Boot%20JQ9121%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4335,6 +4983,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 400 ₽",
    "52 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0632.jpg",
   "tg": "https://t.me/grabpair/535",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0632%20Nike%20Sneakers%20%C2%B7%20DX4361-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4355,6 +5006,9 @@ window.GRABPAIR_PRODUCTS = [
    "17 800 ₽",
    "98 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0610.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0610%20Adidas%20Ghost%20Moto%20MID%20KI4562%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4375,6 +5029,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 900 ₽",
    "60 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0630.jpg",
   "tg": "https://t.me/grabpair/529",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0630%20Nike%20Ja%20%C2%B7%20IM4136-405%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4395,6 +5052,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 500 ₽",
    "75 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0609.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0609%20Adidas%20Japan%20VH%20IF9636%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4415,6 +5075,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 600 ₽",
    "59 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0629.jpg",
   "tg": "https://t.me/grabpair/523",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0629%20Nike%20S%20T%20Charge%20%C2%B7%20IW1897-101%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4435,6 +5098,9 @@ window.GRABPAIR_PRODUCTS = [
    "22 500 ₽",
    "125 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0608.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0608%20Adidas%20FOS%20Boots%20JQ9382%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4455,6 +5121,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 600 ₽",
    "64 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0628.jpg",
   "tg": "https://t.me/grabpair/517",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0628%20Nike%20Ja%20%C2%B7%20JA9741-400%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4475,6 +5144,9 @@ window.GRABPAIR_PRODUCTS = [
    "18 800 ₽",
    "104 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0604.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0604%20Adidas%20Hiking%20Boots%20IF1793%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4495,6 +5167,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 000 ₽",
    "67 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0627.jpg",
   "tg": "https://t.me/grabpair/511",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0627%20Nike%20Air%20Jordan%20%C2%B7%20553558-040%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4515,6 +5190,9 @@ window.GRABPAIR_PRODUCTS = [
    "20 700 ₽",
    "115 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0571.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0571%20Adidas%20Yeezy%20Boost%20350%20V2%20FZ5421%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4535,6 +5213,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 900 ₽",
    "55 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0626.jpg",
   "tg": "https://t.me/grabpair/505",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0626%20Nike%20Air%20Jordan%20%C2%B7%20553558-303%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4555,6 +5236,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 300 ₽",
    "74 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0565.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0565%20Adidas%20Adizero%20EVO%20SL%20KI6949%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4575,6 +5259,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 400 ₽",
    "74 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0625.jpg",
   "tg": "https://t.me/grabpair/499",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0625%20Nike%20Zoom%20%C2%B7%20IQ0665-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4595,6 +5282,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 400 ₽",
    "74 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0563.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0563%20Adidas%20Adizero%20EVO%20SL%20Woven%20JQ4442%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4615,6 +5305,9 @@ window.GRABPAIR_PRODUCTS = [
    "16 400 ₽",
    "91 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0624.jpg",
   "tg": "https://t.me/grabpair/493",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0624%20Nike%20Zoom%20%C2%B7%20HF6416-101%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4635,6 +5328,9 @@ window.GRABPAIR_PRODUCTS = [
    "21 300 ₽",
    "118 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0542.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0542%20Adidas%20YZY%20700%20V3%20Mono%20Safflower%20HP5425%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4655,6 +5351,9 @@ window.GRABPAIR_PRODUCTS = [
    "7 400 ₽",
    "41 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0623.jpg",
   "tg": "https://t.me/grabpair/487",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0623%20Nike%20Running%20Shoes%20%C2%B7%20IR0890-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4675,6 +5374,9 @@ window.GRABPAIR_PRODUCTS = [
    "19 500 ₽",
    "108 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0531.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0531%20Adidas%20Yeezy%20Boost%20350%20V2%20Onyx%20HQ4540%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4695,6 +5397,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 400 ₽",
    "63 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0622.jpg",
   "tg": "https://t.me/grabpair/200",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0622%20Nike%20Blazer%20%C2%B7%20DD3111-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4715,6 +5420,9 @@ window.GRABPAIR_PRODUCTS = [
    "37 400 ₽",
    "208 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0530.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0530%20Adidas%20Yeezy%20Boost%20700%20Inertia%20EG7597%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4735,6 +5443,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 400 ₽",
    "69 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0620.jpg",
   "tg": "https://t.me/grabpair/129",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0620%20Nike%20Vomero%2018%20RR%20%C2%B7%20II7189-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4755,6 +5466,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 000 ₽",
    "55 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0527.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0527%20Adidas%20Samba%20OG%20JI3185%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4775,6 +5489,9 @@ window.GRABPAIR_PRODUCTS = [
    "8 200 ₽",
    "46 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0619.jpg",
   "tg": "https://t.me/grabpair/123",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0619%20Nike%20Air%20Force%201%20%C2%B7%20FV5951-111%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4795,6 +5512,9 @@ window.GRABPAIR_PRODUCTS = [
    "21 800 ₽",
    "121 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0516.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0516%20Adidas%20Yeezy%20Boost%20380%20Covellite%20FZ1269%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4815,6 +5535,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 200 ₽",
    "62 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0615.jpg",
   "tg": "https://t.me/grabpair/110",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0615%20Nike%20Ja%20%C2%B7%20IM4136-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4835,6 +5558,9 @@ window.GRABPAIR_PRODUCTS = [
    "21 200 ₽",
    "118 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0502.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0502%20Adidas%20YZY%20700%20V3%20Fade%20Carbon%20GW1814%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4855,6 +5581,9 @@ window.GRABPAIR_PRODUCTS = [
    "8 600 ₽",
    "47 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0583.jpg",
   "tg": "https://t.me/grabpair/483",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0583%20Nike%20Tanjun%20%C2%B7%20AO0355-004%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4875,6 +5604,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 700 ₽",
    "54 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0501.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0501%20Adidas%20Samba%20OG%20JS3832%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4895,6 +5627,9 @@ window.GRABPAIR_PRODUCTS = [
    "17 200 ₽",
    "95 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0582.jpg",
   "tg": "https://t.me/grabpair/477",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0582%20Nike%20Jordan%20City%20Boot%20%C2%B7%20HV4580-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4915,6 +5650,9 @@ window.GRABPAIR_PRODUCTS = [
    "22 400 ₽",
    "124 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0474.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0474%20Adidas%20YZY%20Qntm%20HP6595%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4935,6 +5673,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 100 ₽",
    "67 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0579.jpg",
   "tg": "https://t.me/grabpair/471",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0579%20Nike%20Air%20Force%201%20%C2%B7%20IH1698-003%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4955,6 +5696,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 400 ₽",
    "57 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0473.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0473%20Adidas%20Samba%20OG%20ID0478%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4975,6 +5719,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 700 ₽",
    "65 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0576.jpg",
   "tg": "https://t.me/grabpair/78",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0576%20Nike%20Dunk%20Low%20%C2%B7%20HF5441-105%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -4995,6 +5742,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 900 ₽",
    "66 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0472.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0472%20Adidas%20Zyrion%20PRO%20LA6928%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5015,6 +5765,9 @@ window.GRABPAIR_PRODUCTS = [
    "7 300 ₽",
    "41 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0562.jpg",
   "tg": "https://t.me/grabpair/470",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0562%20Nike%20Initiator%20%C2%B7%20394055-004%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5035,6 +5788,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 800 ₽",
    "77 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0470.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0470%20Adidas%20Adizero%20EVO%20SL%20JH6206%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5055,6 +5811,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 300 ₽",
    "57 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0560.jpg",
   "tg": "https://t.me/grabpair/104",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0560%20Nike%20Structure%2026%20%C2%B7%20HJ1102-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5075,6 +5834,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 300 ₽",
    "73 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0450.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0450%20Adidas%20Adizero%20EVO%20SL%20EXO%20KJ0430%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5095,6 +5857,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 000 ₽",
    "72 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0559.jpg",
   "tg": "https://t.me/grabpair/464",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0559%20Nike%20Zoom%20%C2%B7%20IR0962-601%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5115,6 +5880,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 200 ₽",
    "73 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0447.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0447%20Adidas%20Dreampace%20BOA%20KZ7118%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5135,6 +5903,9 @@ window.GRABPAIR_PRODUCTS = [
    "16 300 ₽",
    "90 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0554.jpg",
   "tg": "https://t.me/grabpair/458",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0554%20Nike%20Air%20Max%20%C2%B7%20IQ0229-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5155,6 +5926,9 @@ window.GRABPAIR_PRODUCTS = [
    "21 300 ₽",
    "118 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0428.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0428%20Adidas%20YZY%20Knit%20RNR%20Stone%20Carbon%20GY1759%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5175,6 +5949,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 300 ₽",
    "68 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0552.jpg",
   "tg": "https://t.me/grabpair/456",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0552%20Nike%20Air%20Force%201%20%C2%B7%20IV5754-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5195,6 +5972,9 @@ window.GRABPAIR_PRODUCTS = [
    "19 600 ₽",
    "108 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0427.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0427%20Adidas%20YZY%20Knit%20RNR%20Stone%20Onyx%20IG7831%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5215,6 +5995,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 000 ₽",
    "61 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0548.jpg",
   "tg": "https://t.me/grabpair/98",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0548%20Nike%20Dunk%20Low%20%C2%B7%20HF5441-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5235,6 +6018,9 @@ window.GRABPAIR_PRODUCTS = [
    "18 300 ₽",
    "101 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0426.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0426%20Adidas%20Yeezy%20450%20Stone%20Flax%20ID1623%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5255,6 +6041,9 @@ window.GRABPAIR_PRODUCTS = [
    "18 100 ₽",
    "100 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0541.jpg",
   "tg": "https://t.me/grabpair/97",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0541%20Nike%20Air%20Jordan%20%C2%B7%20IV4871-400%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5275,6 +6064,9 @@ window.GRABPAIR_PRODUCTS = [
    "21 700 ₽",
    "120 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0425.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0425%20Adidas%20Yeezy%20700%20V3%20GY0260%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5295,6 +6087,9 @@ window.GRABPAIR_PRODUCTS = [
    "7 300 ₽",
    "40 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0540.jpg",
   "tg": "https://t.me/grabpair/450",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0540%20Nike%20Running%20Shoes%20%C2%B7%20FD6033-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5315,6 +6110,9 @@ window.GRABPAIR_PRODUCTS = [
    "8 500 ₽",
    "47 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0420.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0420%20Adidas%20Cushionnova%20LA2127%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5335,6 +6133,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 200 ₽",
    "67 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0539.jpg",
   "tg": "https://t.me/grabpair/444",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0539%20Nike%20Air%20Force%201%20%C2%B7%20CT2302-002%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5349,12 +6150,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "JQ4771",
   "sizes": [],
   "anySize": true,
-  "usd": 171.0,
+  "usd": 172.0,
   "from": false,
   "local": [
-   "14 100 ₽",
-   "78 000 ₸"
+   "14 200 ₽",
+   "78 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0419.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0419%20Adidas%20UB%20ATR%20JQ4771%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5375,6 +6179,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 700 ₽",
    "54 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0538.jpg",
   "tg": "https://t.me/grabpair/439",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0538%20Nike%20Air%20Force%201%20%C2%B7%20CT2302-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5395,6 +6202,9 @@ window.GRABPAIR_PRODUCTS = [
    "7 600 ₽",
    "42 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0418.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0418%20Adidas%20Adizero%20BK%20JP6529%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5415,6 +6225,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 100 ₽",
    "62 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0536.jpg",
   "tg": "https://t.me/grabpair/433",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0536%20Nike%20Air%20Force%201%20%C2%B7%20FZ7372-200%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5429,12 +6242,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "KI5699",
   "sizes": [],
   "anySize": true,
-  "usd": 149.0,
+  "usd": 150.0,
   "from": false,
   "local": [
    "12 300 ₽",
-   "68 000 ₸"
+   "68 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0417.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0417%20Adidas%20Adizero%20Adios%209%20KI5699%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5455,6 +6271,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 900 ₽",
    "66 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0526.jpg",
   "tg": "https://t.me/grabpair/432",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0526%20Nike%20Air%20Jordan%20%C2%B7%20IB7110-002%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5475,6 +6294,9 @@ window.GRABPAIR_PRODUCTS = [
    "17 800 ₽",
    "99 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0416.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0416%20Adidas%20Hyperboost%20Edge%20KI0358%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5495,6 +6317,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 100 ₽",
    "62 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0525.jpg",
   "tg": "https://t.me/grabpair/426",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0525%20Nike%20Jordan%20Delta%20%C2%B7%20CV8121-102%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5515,6 +6340,9 @@ window.GRABPAIR_PRODUCTS = [
    "18 300 ₽",
    "101 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0415.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0415%20Adidas%20Solarglide%20M%20AOP%20JR3744%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5535,6 +6363,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 000 ₽",
    "61 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0523.jpg",
   "tg": "https://t.me/grabpair/420",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0523%20Nike%20Air%20Force%201%20%C2%B7%20IV5732-002%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5555,6 +6386,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 900 ₽",
    "66 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0414.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0414%20Adidas%20Sftm%20Supernova%20Rise%203%20LA3962%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5575,6 +6409,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 900 ₽",
    "66 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0519.jpg",
   "tg": "https://t.me/grabpair/116",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0519%20Nike%20Dunk%20%C2%B7%20DD1391-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5595,6 +6432,9 @@ window.GRABPAIR_PRODUCTS = [
    "22 600 ₽",
    "125 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0390.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0390%20Adidas%20YZY%20Qntm%20Amber%20Tint%20GX1331%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5615,6 +6455,9 @@ window.GRABPAIR_PRODUCTS = [
    "7 200 ₽",
    "40 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0515.jpg",
   "tg": "https://t.me/grabpair/415",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0515%20Nike%20Court%20%C2%B7%20DH3158-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5635,6 +6478,9 @@ window.GRABPAIR_PRODUCTS = [
    "19 100 ₽",
    "106 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0389.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0389%20Adidas%20Yeezy%20500%20Supermoon%20Yellow%20DB2966%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5655,6 +6501,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 700 ₽",
    "54 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0514.jpg",
   "tg": "https://t.me/grabpair/409",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0514%20Nike%20Winflo%20%C2%B7%20HV9272-002%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5675,6 +6524,9 @@ window.GRABPAIR_PRODUCTS = [
    "20 600 ₽",
    "114 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0388.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0388%20Adidas%20Yeezy%20Boost%20350%20V2%20Beluga%20RF%20GW1229%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5695,6 +6547,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 800 ₽",
    "60 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0513.jpg",
   "tg": "https://t.me/grabpair/408",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0513%20Nike%20Zoom%20%C2%B7%20IU7360-103%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5715,6 +6570,9 @@ window.GRABPAIR_PRODUCTS = [
    "36 800 ₽",
    "204 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0387.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0387%20Adidas%20Yeezy%20Boost%20700%20V2%20Geode%20EG6860%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5735,6 +6593,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 900 ₽",
    "66 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0512.jpg",
   "tg": "https://t.me/grabpair/403",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0512%20Nike%20Air%20Force%201%20%C2%B7%20JF2948-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5755,6 +6616,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 500 ₽",
    "69 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0386.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0386%20Adidas%20Samba%20OG%20LC5009%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5775,6 +6639,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 300 ₽",
    "62 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0511.jpg",
   "tg": "https://t.me/grabpair/397",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0511%20Nike%20Air%20Force%201%20%C2%B7%20CZ0270-106%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5795,6 +6662,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 600 ₽",
    "64 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0384.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0384%20Adidas%20Samba%20OG%20TOY%20Story%20LA3984%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5815,6 +6685,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 700 ₽",
    "54 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0507.jpg",
   "tg": "https://t.me/grabpair/393",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0507%20Nike%20Dunk%20Low%20%C2%B7%20DD1503-101%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5829,12 +6702,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "LA5307",
   "sizes": [],
   "anySize": true,
-  "usd": 152.0,
+  "usd": 153.0,
   "from": false,
   "local": [
-   "12 500 ₽",
-   "69 500 ₸"
+   "12 600 ₽",
+   "70 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0382.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0382%20Adidas%20Adizero%20Boston%2013%20LA5307%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5855,6 +6731,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 000 ₽",
    "50 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0495.jpg",
   "tg": "https://t.me/grabpair/387",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0495%20Nike%20Initiator%20%C2%B7%20394055-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5875,6 +6754,9 @@ window.GRABPAIR_PRODUCTS = [
    "7 400 ₽",
    "41 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0381.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0381%20Adidas%20Adizero%20BK%20KH7663%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5895,6 +6777,9 @@ window.GRABPAIR_PRODUCTS = [
    "7 900 ₽",
    "44 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0493.jpg",
   "tg": "https://t.me/grabpair/386",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0493%20Nike%20Jordan%20Court%20%C2%B7%20IQ5698-003%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5915,6 +6800,9 @@ window.GRABPAIR_PRODUCTS = [
    "20 800 ₽",
    "115 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0366.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0366%20Adidas%20Yeezy%20Boost%20350%20V2%20FW5191%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5935,6 +6823,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 900 ₽",
    "66 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0491.jpg",
   "tg": "https://t.me/grabpair/380",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0491%20Nike%2024%20Sneaker%20%C2%B7%20IR0447-200%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5955,6 +6846,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 900 ₽",
    "60 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0364.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0364%20Adidas%20Dreampace%20Climawarm%20KZ7107%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5975,6 +6869,9 @@ window.GRABPAIR_PRODUCTS = [
    "8 700 ₽",
    "48 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0490.jpg",
   "tg": "https://t.me/grabpair/374",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0490%20Nike%20Running%20Shoes%20%C2%B7%20HQ1179-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -5995,6 +6892,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 900 ₽",
    "60 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0362.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0362%20Adidas%20Dreampace%20Climawarm%20KZ7110%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6015,6 +6915,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 600 ₽",
    "59 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0488.jpg",
   "tg": "https://t.me/grabpair/368",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0488%20Nike%20Air%20Jordan%20%C2%B7%20IZ5846-101%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6035,6 +6938,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 700 ₽",
    "70 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0361.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0361%20Adidas%20XLG%20Runner%20IH0426%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6055,6 +6961,9 @@ window.GRABPAIR_PRODUCTS = [
    "8 300 ₽",
    "46 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0480.jpg",
   "tg": "https://t.me/grabpair/363",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0480%20Nike%20Dunk%20Low%20%C2%B7%20CW1590-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6075,6 +6984,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 700 ₽",
    "76 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0360.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0360%20Adidas%20Predator%20Megaride%20JP7121%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6095,6 +7007,9 @@ window.GRABPAIR_PRODUCTS = [
    "8 200 ₽",
    "46 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0469.jpg",
   "tg": "https://t.me/grabpair/357",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0469%20Nike%20Air%20Max%20%C2%B7%20343846-002%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6115,6 +7030,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 800 ₽",
    "60 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0359.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0359%20Adidas%20Climaproof%20ATR%20KH7032%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6135,6 +7053,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 500 ₽",
    "58 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0468.jpg",
   "tg": "https://t.me/grabpair/351",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0468%20Nike%20Air%20Jordan%20%C2%B7%20IX6375-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6155,6 +7076,9 @@ window.GRABPAIR_PRODUCTS = [
    "20 900 ₽",
    "116 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0347.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0347%20Adidas%20Yeezy%20Boost%20380%20Covellite%20FZ4982%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6175,6 +7099,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 800 ₽",
    "60 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0466.jpg",
   "tg": "https://t.me/grabpair/345",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0466%20Nike%20Sabrina%20%C2%B7%20IV5267-500%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6195,6 +7122,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 700 ₽",
    "70 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0346.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0346%20Adidas%20Anylander%20JH6234%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6215,6 +7145,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 200 ₽",
    "57 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0457.jpg",
   "tg": "https://t.me/grabpair/343",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0457%20Nike%20Dunk%20%C2%B7%20IM4413-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6235,6 +7168,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 600 ₽",
    "75 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0345.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0345%20Adidas%20Adizero%20Takumi%20SEN%2010%20IH5717%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6255,6 +7191,9 @@ window.GRABPAIR_PRODUCTS = [
    "14 000 ₽",
    "77 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0442.jpg",
   "tg": "https://t.me/grabpair/337",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0442%20Nike%20Pegasus%20%C2%B7%20IM2541-002%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6275,6 +7214,9 @@ window.GRABPAIR_PRODUCTS = [
    "19 300 ₽",
    "107 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0329.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0329%20Adidas%20YZY%20700%20V3%20GY4109%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6295,6 +7237,9 @@ window.GRABPAIR_PRODUCTS = [
    "15 400 ₽",
    "85 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0441.jpg",
   "tg": "https://t.me/grabpair/336",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0441%20Nike%20Vomero%20Plus%20CM%20%C2%B7%20IQ6942-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6309,12 +7254,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "KH7837",
   "sizes": [],
   "anySize": true,
-  "usd": 123.0,
+  "usd": 124.0,
   "from": false,
   "local": [
-   "10 100 ₽",
-   "56 500 ₸"
+   "10 200 ₽",
+   "57 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0326.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0326%20Adidas%20Samba%20OG%20KH7837%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6335,6 +7283,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 600 ₽",
    "64 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0438.jpg",
   "tg": "https://t.me/grabpair/331",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0438%20Nike%20Air%20Force%201%20%C2%B7%20CJ9179-002%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6355,6 +7306,9 @@ window.GRABPAIR_PRODUCTS = [
    "14 100 ₽",
    "78 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0323.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0323%20Adidas%20Adizero%20EVO%20SL%20Woven%20KI1451%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6375,6 +7329,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 000 ₽",
    "55 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0436.jpg",
   "tg": "https://t.me/grabpair/325",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0436%20Nike%20Air%20Force%201%20%C2%B7%20CW2288-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6395,6 +7352,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 200 ₽",
    "67 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0322.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0322%20Adidas%20Hyperboost%20Lite%20LC1374%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6415,6 +7375,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 000 ₽",
    "55 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0434.jpg",
   "tg": "https://t.me/grabpair/320",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0434%20Nike%20Air%20Force%201%20%C2%B7%20IX5019-131%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6435,6 +7398,9 @@ window.GRABPAIR_PRODUCTS = [
    "14 000 ₽",
    "77 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0305.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0305%20Adidas%20Adizero%20EVO%20SL%20JP7149%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6455,6 +7421,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 900 ₽",
    "72 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0411.jpg",
   "tg": "https://t.me/grabpair/319",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0411%20Nike%20Air%20Max%20%C2%B7%20DM0032-043%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6475,6 +7444,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 700 ₽",
    "76 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0304.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0304%20Adidas%20Adizero%20EVO%20SL%20KK1348%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6495,6 +7467,9 @@ window.GRABPAIR_PRODUCTS = [
    "15 000 ₽",
    "83 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0410.jpg",
   "tg": "https://t.me/grabpair/313",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0410%20Nike%20Shox%20Ride%20%C2%B7%20IO4296-005%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6509,12 +7484,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "ID4811",
   "sizes": [],
   "anySize": true,
-  "usd": 245.0,
+  "usd": 246.0,
   "from": false,
   "local": [
-   "20 100 ₽",
-   "112 000 ₸"
+   "20 200 ₽",
+   "112 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0275.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0275%20Adidas%20Yeezy%20Boost%20350%20V2%20MX%20Dark%20Salt%20ID4811%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6535,6 +7513,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 500 ₽",
    "69 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0405.jpg",
   "tg": "https://t.me/grabpair/307",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0405%20Nike%20Air%20Force%201%20%C2%B7%20IB0018-600%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6549,12 +7530,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "GW6945",
   "sizes": [],
   "anySize": true,
-  "usd": 265.0,
+  "usd": 266.0,
   "from": false,
   "local": [
-   "21 800 ₽",
-   "121 000 ₸"
+   "21 900 ₽",
+   "121 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0274.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0274%20Adidas%20YZY%20350%20V2%20Cmpct%20GW6945%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6575,6 +7559,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 400 ₽",
    "57 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0404.jpg",
   "tg": "https://t.me/grabpair/93",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0404%20Nike%20Air%20Force%201%20%C2%B7%20FJ4146-134%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6589,12 +7576,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "GY3969",
   "sizes": [],
   "anySize": true,
-  "usd": 169.0,
+  "usd": 170.0,
   "from": false,
   "local": [
-   "13 900 ₽",
+   "14 000 ₽",
    "77 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0273.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0273%20Adidas%20YZY%20Foam%20RNR%20GY3969%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6615,6 +7605,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 800 ₽",
    "54 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0401.jpg",
   "tg": "https://t.me/grabpair/72",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0401%20Nike%20Air%20Force%201%20%C2%B7%20CW2288-111%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6635,6 +7628,9 @@ window.GRABPAIR_PRODUCTS = [
    "18 900 ₽",
    "105 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0268.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0268%20Adidas%20Yeezy%20Boost%20350%20V2%20Flax%20FX9028%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6655,6 +7651,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 100 ₽",
    "56 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0379.jpg",
   "tg": "https://t.me/grabpair/304",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0379%20Nike%20Lebron%20TR%20%C2%B7%20FJ6151-602%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6675,6 +7674,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 700 ₽",
    "76 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0264.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0264%20Adidas%20Adizero%20EVO%20SL%20JH6208%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6695,6 +7697,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 300 ₽",
    "74 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0374.jpg",
   "tg": "https://t.me/grabpair/66",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0374%20Nike%20Air%20Force%201%20%C2%B7%20IV4884-200%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6715,6 +7720,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 500 ₽",
    "75 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0258.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0258%20Adidas%20Adizero%20EVO%20SL%20KJ1365%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6735,6 +7743,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 400 ₽",
    "52 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0357.jpg",
   "tg": "https://t.me/grabpair/298",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0357%20Nike%20AVA%20X%20%C2%B7%20IQ7633-700%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6755,6 +7766,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 000 ₽",
    "55 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0241.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0241%20Adidas%20Yeezy%20Slide%20Slate%20Grey%20ID2350%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6775,6 +7789,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 900 ₽",
    "55 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0354.jpg",
   "tg": "https://t.me/grabpair/294",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0354%20Nike%20Air%20Force%201%20%C2%B7%20DD8959-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6789,12 +7806,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "EE9614",
   "sizes": [],
   "anySize": true,
-  "usd": 518.0,
+  "usd": 519.0,
   "from": false,
   "local": [
-   "42 500 ₽",
-   "236 500 ₸"
+   "42 600 ₽",
+   "237 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0240.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0240%20Adidas%20Yeezy%20Boost%20700%20Mauve%20EE9614%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6815,6 +7835,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 600 ₽",
    "59 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0337.jpg",
   "tg": "https://t.me/grabpair/288",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0337%20Nike%20Air%20Force%201%20%C2%B7%20CT1990-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6835,6 +7858,9 @@ window.GRABPAIR_PRODUCTS = [
    "22 500 ₽",
    "125 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0239.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0239%20Adidas%20Yeezy%20Boost%20350%20V2%20FV3250%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6855,6 +7881,9 @@ window.GRABPAIR_PRODUCTS = [
    "14 800 ₽",
    "82 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0321.jpg",
   "tg": "https://t.me/grabpair/60",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0321%20Nike%20Pegasus%20%C2%B7%20IQ0450-005%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6875,6 +7904,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 400 ₽",
    "57 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0237.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0237%20Adidas%20Samba%20OG%20JR0891%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6895,6 +7927,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 800 ₽",
    "71 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0320.jpg",
   "tg": "https://t.me/grabpair/283",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0320%20Nike%20AJ1%20%C2%B7%20JA4395-041%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6915,6 +7950,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 100 ₽",
    "72 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0235.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0235%20Adidas%20Samba%20LX%20Freizeit%20HQ9251%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6935,6 +7973,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 300 ₽",
    "62 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0318.jpg",
   "tg": "https://t.me/grabpair/277",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0318%20Nike%20Jordan%20Cmft%20ERA%20%C2%B7%20HJ6777-060%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6955,6 +7996,9 @@ window.GRABPAIR_PRODUCTS = [
    "14 200 ₽",
    "78 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0234.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0234%20Adidas%20Adizero%20EVO%20SL%20Woven%20KJ4984%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6975,6 +8019,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 300 ₽",
    "68 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0303.jpg",
   "tg": "https://t.me/grabpair/54",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0303%20Nike%20Air%20Jordan%20%C2%B7%20DC0774-105%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -6995,6 +8042,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 300 ₽",
    "73 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0233.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0233%20Adidas%20Adizero%20EVO%20SL%20Woven%20KK3675%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7015,6 +8065,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 100 ₽",
    "56 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0302.jpg",
   "tg": "https://t.me/grabpair/271",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0302%20Nike%20Running%20Shoes%20%C2%B7%20HJ6777-002%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7029,12 +8082,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "KI4776",
   "sizes": [],
   "anySize": true,
-  "usd": 142.0,
+  "usd": 143.0,
   "from": false,
   "local": [
-   "11 700 ₽",
-   "65 000 ₸"
+   "11 800 ₽",
+   "65 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0231.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0231%20Adidas%20Adizero%20Boston%2013%20KI4776%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7055,6 +8111,9 @@ window.GRABPAIR_PRODUCTS = [
    "16 100 ₽",
    "89 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0300.jpg",
   "tg": "https://t.me/grabpair/267",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0300%20Nike%20Air%20Max%20%C2%B7%20849559-004%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7069,12 +8128,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "JR3736",
   "sizes": [],
   "anySize": true,
-  "usd": 161.0,
+  "usd": 162.0,
   "from": false,
   "local": [
    "13 300 ₽",
-   "73 500 ₸"
+   "74 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0230.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0230%20Adidas%20Campus%2000S%20WTR%20MD%20JR3736%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7095,6 +8157,9 @@ window.GRABPAIR_PRODUCTS = [
    "6 800 ₽",
    "37 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0299.jpg",
   "tg": "https://t.me/grabpair/261",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0299%20Nike%20Running%20Shoes%20%C2%B7%20HJ9198-002%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7115,6 +8180,9 @@ window.GRABPAIR_PRODUCTS = [
    "21 700 ₽",
    "120 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0204.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0204%20Adidas%20Yeezy%20Boost%20350%20V2%20Cloud%20White%20FW3043%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7135,6 +8203,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 500 ₽",
    "58 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0286.jpg",
   "tg": "https://t.me/grabpair/255",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0286%20Nike%20Air%20Force%201%20%C2%B7%20IX7257-133%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7149,12 +8220,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "GW6373",
   "sizes": [],
   "anySize": true,
-  "usd": 299.0,
+  "usd": 300.0,
   "from": false,
   "local": [
    "24 600 ₽",
-   "136 500 ₸"
+   "137 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0203.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0203%20Adidas%20Yeezy%20500%20Granite%20GW6373%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7175,6 +8249,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 900 ₽",
    "55 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0255.jpg",
   "tg": "https://t.me/grabpair/48",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0255%20Nike%20Zoom%20%C2%B7%20HQ2181-004%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7195,6 +8272,9 @@ window.GRABPAIR_PRODUCTS = [
    "26 400 ₽",
    "146 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0201.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0201%20Adidas%20Yeezy%20Boost%20350%20V2%20FU9006%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7215,6 +8295,9 @@ window.GRABPAIR_PRODUCTS = [
    "14 100 ₽",
    "78 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0227.jpg",
   "tg": "https://t.me/grabpair/42",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0227%20Nike%20AVA%20Edge%20%C2%B7%20IM1973-004%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7235,6 +8318,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 700 ₽",
    "59 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0198.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0198%20Adidas%20Samba%20OG%20KJ7447%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7255,6 +8341,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 900 ₽",
    "60 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0224.jpg",
   "tg": "https://t.me/grabpair/249",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0224%20Nike%20Sabrina4%20%C2%B7%20II0403-300%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7275,6 +8364,9 @@ window.GRABPAIR_PRODUCTS = [
    "25 700 ₽",
    "143 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0196.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0196%20Adidas%20Adizero%20Adios%20PRO%205%20LM6688%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7295,6 +8387,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 000 ₽",
    "50 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0221.jpg",
   "tg": "https://t.me/grabpair/243",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0221%20Nike%20winflo%2012%20%C2%B7%20HV9272-105%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7315,6 +8410,9 @@ window.GRABPAIR_PRODUCTS = [
    "8 500 ₽",
    "47 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0193.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0193%20Adidas%20Feroza%20Base%20MER%20JQ3273%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7335,6 +8433,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 800 ₽",
    "54 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0217.jpg",
   "tg": "https://t.me/grabpair/90",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0217%20Nike%20Air%20Force%201%20%C2%B7%20FZ3592-259%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7349,12 +8450,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "FZ1267",
   "sizes": [],
   "anySize": true,
-  "usd": 282.0,
+  "usd": 283.0,
   "from": false,
   "local": [
-   "23 200 ₽",
+   "23 300 ₽",
    "129 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0169.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0169%20Adidas%20Yeezy%20Boost%20350%20V2%20FZ1267%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7375,6 +8479,9 @@ window.GRABPAIR_PRODUCTS = [
    "14 500 ₽",
    "80 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0191.jpg",
   "tg": "https://t.me/grabpair/237",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0191%20Nike%20Pegasus%20%C2%B7%20IQ1084-002%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7389,12 +8496,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "GX3607",
   "sizes": [],
   "anySize": true,
-  "usd": 245.0,
+  "usd": 246.0,
   "from": false,
   "local": [
-   "20 100 ₽",
-   "112 000 ₸"
+   "20 200 ₽",
+   "112 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0168.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0168%20Adidas%20Yeezy%20500%20ASH%20Grey%20GX3607%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7415,6 +8525,9 @@ window.GRABPAIR_PRODUCTS = [
    "14 300 ₽",
    "79 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0190.jpg",
   "tg": "https://t.me/grabpair/231",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0190%20Nike%20Air%20Max%20%C2%B7%20IV3471-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7435,6 +8548,9 @@ window.GRABPAIR_PRODUCTS = [
    "22 400 ₽",
    "124 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0167.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0167%20Adidas%20YZY%20Dsrt%20BT%20OIL%20EG6463%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7455,6 +8571,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 800 ₽",
    "60 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0189.jpg",
   "tg": "https://t.me/grabpair/230",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0189%20Nike%20Air%20Max%20%C2%B7%20IQ4924-301%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7475,6 +8594,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 000 ₽",
    "61 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0163.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0163%20Adidas%20Samba%20OG%20KZ7551%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7495,6 +8617,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 400 ₽",
    "69 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0179.jpg",
   "tg": "https://t.me/grabpair/36",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0179%20Nike%20Dunk%20%C2%B7%20IM4415-201%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7515,6 +8640,9 @@ window.GRABPAIR_PRODUCTS = [
    "14 600 ₽",
    "81 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0161.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0161%20Adidas%20Adizero%20EVO%20SL%20Woven%20KI6929%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7535,6 +8663,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 400 ₽",
    "52 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0178.jpg",
   "tg": "https://t.me/grabpair/224",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0178%20Nike%20Dunk%20%C2%B7%20DD1503-103%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7555,6 +8686,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 400 ₽",
    "63 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0159.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0159%20Adidas%20ONE%20Locale%20Samba%20JP%20KH8601%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7575,6 +8709,9 @@ window.GRABPAIR_PRODUCTS = [
    "8 300 ₽",
    "46 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0155.jpg",
   "tg": "https://t.me/grabpair/218",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0155%20Nike%20Initiator%20%C2%B7%20394055-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7589,12 +8726,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "IG9608",
   "sizes": [],
   "anySize": true,
-  "usd": 243.0,
+  "usd": 244.0,
   "from": false,
   "local": [
-   "20 000 ₽",
-   "111 000 ₸"
+   "20 100 ₽",
+   "111 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0115.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0115%20Adidas%20Yeezy%20350%20V2%20Cmpct%20Slate%20White%20IG9608%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7615,6 +8755,9 @@ window.GRABPAIR_PRODUCTS = [
    "15 500 ₽",
    "86 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0149.jpg",
   "tg": "https://t.me/grabpair/88",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0149%20Nike%20Air%20Max%20%C2%B7%20HJ9743-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7635,6 +8778,9 @@ window.GRABPAIR_PRODUCTS = [
    "20 400 ₽",
    "113 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0114.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0114%20Adidas%20Yeezy%20Boost%20380%20Covellite%20FZ1270%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7655,6 +8801,9 @@ window.GRABPAIR_PRODUCTS = [
    "14 100 ₽",
    "78 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0148.jpg",
   "tg": "https://t.me/grabpair/212",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0148%20Nike%20Mind%20002%20%C2%B7%20HQ4310-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7675,6 +8824,9 @@ window.GRABPAIR_PRODUCTS = [
    "23 700 ₽",
    "132 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0113.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0113%20Adidas%20Yeezy%20500%20Taupe%20Light%20GX3605%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7695,6 +8847,9 @@ window.GRABPAIR_PRODUCTS = [
    "17 300 ₽",
    "96 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0147.jpg",
   "tg": "https://t.me/grabpair/194",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0147%20Nike%20Sneakers%20%C2%B7%20IH7853-003%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7709,12 +8864,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "HQ6316",
   "sizes": [],
   "anySize": true,
-  "usd": 264.0,
+  "usd": 265.0,
   "from": false,
   "local": [
-   "21 700 ₽",
-   "120 500 ₸"
+   "21 800 ₽",
+   "121 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0112.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0112%20Adidas%20Yeezy%20Boost%20350%20V2%20Bone%20HQ6316%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7735,6 +8893,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 200 ₽",
    "57 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0136.jpg",
   "tg": "https://t.me/grabpair/188",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0136%20Nike%20Dunk%20%C2%B7%20IM4414-700%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7755,6 +8916,9 @@ window.GRABPAIR_PRODUCTS = [
    "19 600 ₽",
    "109 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0111.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0111%20Adidas%20Yeezy%20Boost%20350%20V2%20Zebra%20CP9652%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7775,6 +8939,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 700 ₽",
    "59 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0134.jpg",
   "tg": "https://t.me/grabpair/182",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0134%20Nike%20Dunk%20Low%20%C2%B7%20HF5441-112%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7789,12 +8956,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "BY9612",
   "sizes": [],
   "anySize": true,
-  "usd": 287.0,
+  "usd": 288.0,
   "from": false,
   "local": [
-   "23 600 ₽",
-   "131 000 ₸"
+   "23 700 ₽",
+   "131 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0107.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0107%20Adidas%20Yeezy%20Boost%20350%20V2%20Core%20Black%20RED%20BY9612%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7815,6 +8985,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 700 ₽",
    "70 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0058.jpg",
   "tg": "https://t.me/grabpair/176",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0058%20Nike%20Vomero%20SE%20SP%20%C2%B7%20CI1694-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7835,6 +9008,9 @@ window.GRABPAIR_PRODUCTS = [
    "18 800 ₽",
    "104 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0105.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0105%20Adidas%20Yeezy%20500%20Stone%20Taupe%20ID1600%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7855,6 +9031,9 @@ window.GRABPAIR_PRODUCTS = [
    "8 700 ₽",
    "48 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0055.jpg",
   "tg": "https://t.me/grabpair/170",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0055%20Nike%20Air%20Max%20%C2%B7%20CN2159-002%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7875,6 +9054,9 @@ window.GRABPAIR_PRODUCTS = [
    "21 200 ₽",
    "118 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0104.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0104%20Adidas%20YZY%20700%20Mnvn%20Geode%20GW9526%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7895,6 +9077,9 @@ window.GRABPAIR_PRODUCTS = [
    "24 200 ₽",
    "134 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0053.jpg",
   "tg": "https://t.me/grabpair/24",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0053%20Nike%20Vomero%20Premium%20%C2%B7%20HQ2050-003%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7909,12 +9094,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "GY0189",
   "sizes": [],
   "anySize": true,
-  "usd": 246.0,
+  "usd": 247.0,
   "from": false,
   "local": [
-   "20 200 ₽",
-   "112 500 ₸"
+   "20 300 ₽",
+   "113 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0101.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0101%20Adidas%20Yeezy%20700%20V3%20GY0189%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7935,6 +9123,9 @@ window.GRABPAIR_PRODUCTS = [
    "13 000 ₽",
    "72 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0052.jpg",
   "tg": "https://t.me/grabpair/30",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0052%20Nike%20Jordan%20Sixty%20Plus%20%C2%B7%20IH2047-005%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7949,12 +9140,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "CP9366",
   "sizes": [],
   "anySize": true,
-  "usd": 241.0,
+  "usd": 242.0,
   "from": false,
   "local": [
-   "19 800 ₽",
-   "110 000 ₸"
+   "19 900 ₽",
+   "110 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0100.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0100%20Adidas%20Yeezy%20Boost%20350%20V2%20Zebra%20CP9366%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7975,6 +9169,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 600 ₽",
    "59 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0049.jpg",
   "tg": "https://t.me/grabpair/155",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0049%20Nike%20Air%20Max%20%C2%B7%20IM9616-002%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -7995,6 +9192,9 @@ window.GRABPAIR_PRODUCTS = [
    "24 800 ₽",
    "138 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0099.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0099%20Adidas%20Yeezy%20Boost%20700%20Mnvn%20Bone%20FY3729%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8015,6 +9215,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 700 ₽",
    "54 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0041.jpg",
   "tg": "https://t.me/grabpair/149",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0041%20Nike%20Air%20Force%201%20%C2%B7%20FJ4146-127%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8035,6 +9238,9 @@ window.GRABPAIR_PRODUCTS = [
    "20 900 ₽",
    "116 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0097.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0097%20Adidas%20Yeezy%20Boost%20350%20V2%20Static%20EF2905%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8055,6 +9261,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 700 ₽",
    "54 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0040.jpg",
   "tg": "https://t.me/grabpair/141",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0040%20Nike%20Air%20Force%201%20%C2%B7%20IQ0187-600%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8075,6 +9284,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 000 ₽",
    "61 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0096.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0096%20Adidas%20Samba%20OG%20KK2268%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8095,6 +9307,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 000 ₽",
    "55 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0039.jpg",
   "tg": "https://t.me/grabpair/82",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0039%20Nike%20Air%20Force%201%20%C2%B7%20IV5732-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8115,6 +9330,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 000 ₽",
    "67 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0094.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0094%20Adidas%20Velosamba%20Leather%20IG5541%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8135,6 +9353,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 300 ₽",
    "62 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0036.jpg",
   "tg": "https://t.me/grabpair/143",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0036%20Nike%20Air%20Force%201%20%C2%B7%20FJ4146-303%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8155,6 +9376,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 500 ₽",
    "58 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0091.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0091%20Adidas%20Samba%20ADV%20JP5859%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8175,6 +9399,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 100 ₽",
    "67 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0033.jpg",
   "tg": "https://t.me/grabpair/80",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0033%20Nike%20Air%20Force%201%20%C2%B7%20FZ0627-010%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8195,6 +9422,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 000 ₽",
    "55 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0088.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0088%20Adidas%20Samba%20OG%20JS1394%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8215,6 +9445,9 @@ window.GRABPAIR_PRODUCTS = [
    "11 400 ₽",
    "63 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0030.jpg",
   "tg": "https://t.me/grabpair/164",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0030%20Nike%20Air%20Force%201%20%C2%B7%20CJ9179-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8229,12 +9462,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "JQ4097",
   "sizes": [],
   "anySize": true,
-  "usd": 122.0,
+  "usd": 123.0,
   "from": false,
   "local": [
    "10 100 ₽",
-   "56 000 ₸"
+   "56 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0087.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0087%20Adidas%20Samba%20OG%20JQ4097%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8255,6 +9491,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 600 ₽",
    "59 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0027.jpg",
   "tg": "https://t.me/grabpair/158",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0027%20Nike%20Air%20Force%201%20%C2%B7%20CJ9179-200%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8275,6 +9514,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 600 ₽",
    "70 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0084.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0084%20Adidas%20Samba%20WTR%20JR5704%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8295,6 +9537,9 @@ window.GRABPAIR_PRODUCTS = [
    "15 100 ₽",
    "84 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0025.jpg",
   "tg": "https://t.me/grabpair/206",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0025%20Nike%20Air%20Force%201%20%C2%B7%20IO1875-100%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8309,12 +9554,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "IF1810",
   "sizes": [],
   "anySize": true,
-  "usd": 127.0,
+  "usd": 128.0,
   "from": false,
   "local": [
    "10 500 ₽",
-   "58 000 ₸"
+   "58 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0082.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0082%20Adidas%20Samba%20OG%20IF1810%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8335,6 +9583,9 @@ window.GRABPAIR_PRODUCTS = [
    "9 800 ₽",
    "54 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0016.jpg",
   "tg": "https://t.me/grabpair/135",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0016%20Nike%20Dunk%20%C2%B7%20IB6651-700%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8355,6 +9606,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 500 ₽",
    "58 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0081.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0081%20Adidas%20Samba%20OG%20KK2273%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8375,6 +9629,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 600 ₽",
    "70 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0010.jpg",
   "tg": "https://t.me/grabpair/18",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0010%20Nike%20Dunk%20%C2%B7%20IM4413-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8395,6 +9652,9 @@ window.GRABPAIR_PRODUCTS = [
    "15 400 ₽",
    "85 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0080.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0080%20Adidas%20Samba%2062%20IH8603%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8417,6 +9677,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 100 ₽",
    "67 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": true,
   "img": "img/GP0009.jpg",
   "tg": "https://t.me/grabpair/15",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0009%20Nike%20Dunk%20Low%20%C2%B7%20DD1873-102%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%2038.5"
@@ -8437,6 +9700,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 000 ₽",
    "55 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0079.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0079%20Adidas%20Samba%20XLG%20IE1379%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8459,6 +9725,9 @@ window.GRABPAIR_PRODUCTS = [
    "10 700 ₽",
    "59 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": true,
   "img": "img/GP0008.jpg",
   "tg": "https://t.me/grabpair/6",
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0008%20Nike%20Dunk%20%C2%B7%20IB6651-001%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%2040.5"
@@ -8479,6 +9748,9 @@ window.GRABPAIR_PRODUCTS = [
    "19 600 ₽",
    "108 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0078.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0078%20Adidas%20Adizero%20Adios%20PRO%204%20JR1094%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8499,6 +9771,9 @@ window.GRABPAIR_PRODUCTS = [
    "19 900 ₽",
    "110 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0076.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0076%20Adidas%20Adizero%20Adios%20PRO%204%20JR1163%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8519,6 +9794,9 @@ window.GRABPAIR_PRODUCTS = [
    "14 900 ₽",
    "82 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0075.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0075%20Adidas%20Adizero%20EVO%20SL%20ATR%20KK2723%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8539,6 +9817,9 @@ window.GRABPAIR_PRODUCTS = [
    "12 300 ₽",
    "68 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0074.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0074%20Adidas%20XLG%20Storm%20Edge%20Dirty%20LA6730%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8553,12 +9834,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "JS4494",
   "sizes": [],
   "anySize": true,
-  "usd": 169.0,
+  "usd": 170.0,
   "from": false,
   "local": [
-   "13 900 ₽",
+   "14 000 ₽",
    "77 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0073.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0073%20Adidas%20Adizero%20EVO%20SL%20JS4494%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8579,6 +9863,9 @@ window.GRABPAIR_PRODUCTS = [
    "18 500 ₽",
    "103 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0072.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0072%20Adidas%20Seeulater%20IF6094%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8593,12 +9880,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "JR1269",
   "sizes": [],
   "anySize": true,
-  "usd": 234.0,
+  "usd": 235.0,
   "from": false,
   "local": [
-   "19 200 ₽",
-   "107 000 ₸"
+   "19 300 ₽",
+   "107 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0069.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0069%20Adidas%20Adizero%20Adios%20PRO%204%20JR1269%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8619,6 +9909,9 @@ window.GRABPAIR_PRODUCTS = [
    "15 000 ₽",
    "83 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0068.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0068%20Adidas%20Terrex%20Skychaser%20Gore-tex%20IH2799%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8639,6 +9932,9 @@ window.GRABPAIR_PRODUCTS = [
    "14 500 ₽",
    "80 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0065.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0065%20Adidas%20Ultraboost%20C.rdy%20EG9798%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8659,6 +9955,9 @@ window.GRABPAIR_PRODUCTS = [
    "16 100 ₽",
    "89 500 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0064.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0064%20Adidas%20Terrex%20Skychaser%20AX5%20MID%20GTX%20Clima%20JH7805%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8673,12 +9972,15 @@ window.GRABPAIR_PRODUCTS = [
   "article": "IH5564",
   "sizes": [],
   "anySize": true,
-  "usd": 582.0,
+  "usd": 583.0,
   "from": false,
   "local": [
    "47 800 ₽",
-   "265 500 ₸"
+   "266 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0062.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0062%20Adidas%20Adizero%20Adios%20PRO%20EVO%201%20IH5564%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
@@ -8699,6 +10001,9 @@ window.GRABPAIR_PRODUCTS = [
    "16 200 ₽",
    "90 000 ₸"
   ],
+  "hot": false,
+  "marketUsd": null,
+  "sale": false,
   "img": "img/GP0061.jpg",
   "tg": null,
   "order": "https://t.me/grabpair_orders?text=%D0%97%D0%B0%D0%BA%D0%B0%D0%B7%20GP0061%20Adidas%20Cold.rdy%20Boot%20GY4382%20%D1%80%D0%B0%D0%B7%D0%BC%D0%B5%D1%80%20%D0%BB%D1%8E%D0%B1%D0%BE%D0%B9"
