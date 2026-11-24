@@ -2355,11 +2355,11 @@ window.GRABPAIR_PRODUCTS = [
   "article": "JR8372",
   "sizes": [],
   "anySize": true,
-  "usd": 134.0,
+  "usd": 135.0,
   "from": false,
   "local": [
-   "11 000 ₽",
-   "61 500 ₸"
+   "11 100 ₽",
+   "62 000 ₸"
   ],
   "hot": false,
   "marketUsd": null,
@@ -2700,11 +2700,11 @@ window.GRABPAIR_PRODUCTS = [
   "article": "LA3804",
   "sizes": [],
   "anySize": true,
-  "usd": 119.0,
+  "usd": 120.0,
   "from": false,
   "local": [
-   "9 800 ₽",
-   "54 500 ₸"
+   "9 900 ₽",
+   "55 000 ₸"
   ],
   "hot": false,
   "marketUsd": null,
@@ -2792,11 +2792,11 @@ window.GRABPAIR_PRODUCTS = [
   "article": "IE0546",
   "sizes": [],
   "anySize": true,
-  "usd": 111.0,
+  "usd": 112.0,
   "from": false,
   "local": [
    "9 200 ₽",
-   "51 000 ₸"
+   "51 500 ₸"
   ],
   "hot": false,
   "marketUsd": null,
@@ -2930,11 +2930,11 @@ window.GRABPAIR_PRODUCTS = [
   "article": "IH9167",
   "sizes": [],
   "anySize": true,
-  "usd": 132.0,
+  "usd": 133.0,
   "from": false,
   "local": [
-   "10 900 ₽",
-   "60 500 ₸"
+   "11 000 ₽",
+   "61 000 ₸"
   ],
   "hot": false,
   "marketUsd": null,
@@ -3206,11 +3206,11 @@ window.GRABPAIR_PRODUCTS = [
   "article": "KH8840",
   "sizes": [],
   "anySize": true,
-  "usd": 287.0,
+  "usd": 288.0,
   "from": false,
   "local": [
-   "23 600 ₽",
-   "131 000 ₸"
+   "23 700 ₽",
+   "131 500 ₸"
   ],
   "hot": false,
   "marketUsd": null,
@@ -3390,11 +3390,11 @@ window.GRABPAIR_PRODUCTS = [
   "article": "KI8879",
   "sizes": [],
   "anySize": true,
-  "usd": 110.0,
+  "usd": 111.0,
   "from": false,
   "local": [
-   "9 100 ₽",
-   "50 500 ₸"
+   "9 200 ₽",
+   "51 000 ₸"
   ],
   "hot": false,
   "marketUsd": null,
@@ -3436,11 +3436,11 @@ window.GRABPAIR_PRODUCTS = [
   "article": "IF0395",
   "sizes": [],
   "anySize": true,
-  "usd": 126.0,
+  "usd": 127.0,
   "from": false,
   "local": [
-   "10 400 ₽",
-   "57 500 ₸"
+   "10 500 ₽",
+   "58 000 ₸"
   ],
   "hot": false,
   "marketUsd": null,
@@ -3988,11 +3988,11 @@ window.GRABPAIR_PRODUCTS = [
   "article": "LB9761",
   "sizes": [],
   "anySize": true,
-  "usd": 132.0,
+  "usd": 133.0,
   "from": false,
   "local": [
-   "10 900 ₽",
-   "60 500 ₸"
+   "11 000 ₽",
+   "61 000 ₸"
   ],
   "hot": false,
   "marketUsd": null,
@@ -4172,11 +4172,11 @@ window.GRABPAIR_PRODUCTS = [
   "article": "JR2431",
   "sizes": [],
   "anySize": true,
-  "usd": 132.0,
+  "usd": 133.0,
   "from": false,
   "local": [
-   "10 900 ₽",
-   "60 500 ₸"
+   "11 000 ₽",
+   "61 000 ₸"
   ],
   "hot": false,
   "marketUsd": null,
@@ -4218,11 +4218,11 @@ window.GRABPAIR_PRODUCTS = [
   "article": "IE3691",
   "sizes": [],
   "anySize": true,
-  "usd": 113.0,
+  "usd": 114.0,
   "from": false,
   "local": [
-   "9 300 ₽",
-   "51 500 ₸"
+   "9 400 ₽",
+   "52 000 ₸"
   ],
   "hot": false,
   "marketUsd": null,
@@ -4494,11 +4494,11 @@ window.GRABPAIR_PRODUCTS = [
   "article": "JS1406",
   "sizes": [],
   "anySize": true,
-  "usd": 127.0,
+  "usd": 128.0,
   "from": false,
   "local": [
    "10 500 ₽",
-   "58 000 ₸"
+   "58 500 ₸"
   ],
   "hot": false,
   "marketUsd": null,
@@ -5184,11 +5184,11 @@ window.GRABPAIR_PRODUCTS = [
   "article": "FZ5421",
   "sizes": [],
   "anySize": true,
-  "usd": 252.0,
+  "usd": 253.0,
   "from": false,
   "local": [
-   "20 700 ₽",
-   "115 000 ₸"
+   "20 800 ₽",
+   "115 500 ₸"
   ],
   "hot": false,
   "marketUsd": null,
@@ -5276,11 +5276,11 @@ window.GRABPAIR_PRODUCTS = [
   "article": "JQ4442",
   "sizes": [],
   "anySize": true,
-  "usd": 163.0,
+  "usd": 164.0,
   "from": false,
   "local": [
-   "13 400 ₽",
-   "74 500 ₸"
+   "13 500 ₽",
+   "75 000 ₸"
   ],
   "hot": false,
   "marketUsd": null,
@@ -5322,10 +5322,10 @@ window.GRABPAIR_PRODUCTS = [
   "article": "HP5425",
   "sizes": [],
   "anySize": true,
-  "usd": 259.0,
+  "usd": 260.0,
   "from": false,
   "local": [
-   "21 300 ₽",
+   "21 400 ₽",
    "118 500 ₸"
   ],
   "hot": false,
@@ -5414,11 +5414,11 @@ window.GRABPAIR_PRODUCTS = [
   "article": "EG7597",
   "sizes": [],
   "anySize": true,
-  "usd": 456.0,
+  "usd": 457.0,
   "from": false,
   "local": [
-   "37 400 ₽",
-   "208 000 ₸"
+   "37 500 ₽",
+   "208 500 ₸"
   ],
   "hot": false,
   "marketUsd": null,
@@ -5966,11 +5966,11 @@ window.GRABPAIR_PRODUCTS = [
   "article": "IG7831",
   "sizes": [],
   "anySize": true,
-  "usd": 238.0,
+  "usd": 239.0,
   "from": false,
   "local": [
    "19 600 ₽",
-   "108 500 ₸"
+   "109 000 ₸"
   ],
   "hot": false,
   "marketUsd": null,
